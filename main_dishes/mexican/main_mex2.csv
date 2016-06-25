@@ -1,0 +1,501 @@
+,id,rating,recipeName,sourceDisplayName
+0,Slow-Cooker-3-Ingredient-Mexican-Chicken-986283,4,Slow Cooker 3 Ingredient Mexican Chicken,Tone & Tighten
+1,Grilled-Chicken-Tostadas-1166771,3,Grilled Chicken Tostadas,McCormick
+2,Black-Bean-and-Corn-Enchiladas-1680131,3,Black Bean and Corn Enchiladas,Betty Crocker
+3,Taco-Bake-Ii-Allrecipes,4,Taco Bake II,AllRecipes
+4,Fiesta-Chicken-Bake--Trim-Healthy-Mama-Compliant-1212506,4,Fiesta Chicken Bake- Trim Healthy Mama Compliant,Once a Month Meals
+5,Fajita-Chicken-Kebabs-1113682,4,Fajita Chicken Kebabs,Well Plated
+6,Mexican-chicken-and-rice-345543,5,Mexican Chicken and Rice,Elana's Pantry
+7,Cream-Cheese-Chicken-Enchiladas-1101262,4,Cream Cheese Chicken Enchiladas,Makin' it Mo' Betta
+8,Creamy-Cheesy-Chicken-Enchiladas-1232434,4,Creamy Cheesy Chicken Enchiladas,Chef In Training
+9,Mexican-Slow-Cooker-Pulled-Chicken-1185568,4,Mexican Slow Cooker Pulled Chicken,The Lazy Mom's Cooking Blog
+10,Slow-Cooker-Enchilada-Orzo-901162,4,Slow Cooker Enchilada Orzo,Damn Delicious
+11,Skillet-Nachos-with-Spicy-Salsa-Verde-Chicken-600305,3,Skillet Nachos with Spicy Salsa Verde Chicken,Picky Palate
+12,Healthy-chicken-chili-with-barley-314443,5,Healthy Chicken Chili with Barley,Big Girls Small Kitchen
+13,Carnitas-1252805,4,Carnitas,Food Is Luv
+14,Saddle-Up-Chicken-Enchiladas-471305,5,Saddle Up Chicken Enchiladas,Southern Plate
+15,Cinco-De-Mayo--Sweet-Pork-1003722,4,Cinco De Mayo- Sweet Pork,"Oh, Sweet Basil"
+16,Chipotle-Sofritas-Tacos-1637041,4,Chipotle Sofritas Tacos,Gimme Some Oven
+17,Slow-cooker-cherry-Coke-beef-carnitas-969859,3,Slow cooker cherry Coke beef carnitas,She Knows
+18,VELVEETA-Beef-Enchilada-Bake-1080709,5,VELVEETA® Beef Enchilada Bake,Velveeta Brand
+19,Mexican-Style-Picadillo-1663402,4,¨Mexican Style¨ Picadillo,Chile and Salt
+20,Chicken-Carnitas-AKA-Carnitas-de-Pollo-762557,4,Chicken Carnitas AKA Carnitas de Pollo,101 Cooking for Two
+21,Garlic-Ancho-Mushroom-Tacos-with-Corn-and-Avocado-Salsa-1702457,4,Garlic-Ancho Mushroom Tacos with Corn and Avocado Salsa,Arizona Renaissance Woman
+22,Carnitas-Rice-Bowls-1624172,4,Carnitas Rice Bowls,Go Eat and Repeat
+23,Chicken-Tacos-1123743,3,Chicken Tacos,Beachbody
+24,Chicken-enchilada-stuffed-zucchini-351516,5,Chicken Enchilada Stuffed Zucchini,Closet Cooking
+25,Chicken-Enchilada-Casserole-1302333,4,Chicken Enchilada Casserole,12Tomatoes
+26,Skillet-Chicken-Fajitas-1080123,4,Skillet Chicken Fajitas,Recipe Runner
+27,Ropa-vieja-300079,4,Ropa Vieja,Mizkan Brand
+28,Mexican-lasagna-303744,4,Mexican Lasagna,Mizkan Brand
+29,Chicken-Enchiladas-1333417,4,Chicken Enchiladas,The Pioneer Woman
+30,Creamy-Shrimp-Enchiladas-1625947,4,Creamy Shrimp Enchiladas,The Girl Who Ate Everything
+31,Mexican-Pizza-1095507,3,Mexican Pizza,Recipe.com
+32,Restaurant-Style-Mexican-Shredded-Chicken-1008937,4,Restaurant Style Mexican Shredded Chicken,The Ramblings of an Aspiring Small Town Girl
+33,White-Chicken-Enchilada-Skillet-1680268,4,White Chicken Enchilada Skillet,Food Fanatic
+34,Shrimp-Fajitas-1589940,4,Shrimp Fajitas,Skinnytaste
+35,Easy-Skillet-Chicken-Chilaquiles-1618397,4,Easy Skillet Chicken Chilaquiles,The Pioneer Woman
+36,Mexican-Chicken-Tater-Tot-Casserole-1114007,4,Mexican Chicken Tater Tot Casserole,Inside BruCrew Life
+37,Skinny-Taco-Cups-1212257,4,Skinny Taco Cups,Butter Cream Blondie
+38,Hearty-Lean-Chili-461500,4,Hearty Lean Chili,Daisy Brand Sour Cream
+39,Tequila-Lime-Mahimahi-Tacos-1706136,3,Tequila-Lime Mahimahi Tacos,Epicurious
+40,Street-Tacos-1343981,4,Street Tacos,Fueling A Fit Fam
+41,Ancho-Chile-Chicken-with-Black-Beans-1688306,3,Ancho Chile Chicken with Black Beans,Clean Eating
+42,Weeknight-Chicken-Enchiladas-1060161,4,Weeknight Chicken Enchiladas,The Lovebugs Blog - Sam
+43,Grilled-Fish-a-la-Talla-with-Red-Chile-Adobo-1693262,3,Grilled Fish a la Talla with Red Chile Adobo,Frontera
+44,Crockpot-Mexican-shredded-chicken-916369,4,Crockpot Mexican shredded chicken,Culinary Ginger
+45,Homesick-texan-carnitas-305384,5,Homesick Texan Carnitas,Smitten Kitchen
+46,Fish-Tacos-623956,3,Fish Tacos,Add a Pinch
+47,Carne-asada-357631,5,Carne Asada,Closet Cooking
+48,Margarita-Shrimp-Tostatas-1099254,4,Margarita Shrimp Tostatas,NeighborFood
+49,Vegetarian-Tacos-with-Spicy-Crema-999693,4,Vegetarian Tacos with Spicy Crema,"Oh, Sweet Basil"
+50,Chili-mac-casserole-298157,4,Chili Mac Casserole,Unilever North America
+51,Mexican-Chicken-Skillet-Dinner-1222019,3,Mexican Chicken Skillet Dinner,Pillsbury.com
+52,Spiced-Black-Bean_-Grilled-Avocado_-and-Goat-Cheese-Tacos-Naturally-Ella-290505,5,"Spiced Black Bean, Grilled Avocado, and Goat Cheese Tacos",Naturally Ella
+53,Mexican-Hash-Brown-Casserole_-1619393,4,Mexican Hash Brown Casserole!,Sprinkle Some Fun
+54,Guacamole-chicken-enchiladas-351327,4,Guacamole Chicken Enchiladas,Real Mom Kitchen
+55,Creamy-Chicken-Enchiladas-638825,3,Creamy Chicken Enchiladas,Kevin and Amanda
+56,Mexican-Lasagna-Recipe-_Freezer-Cooking__-629532,3,Mexican Lasagna Recipe (Freezer Cooking!),Cleverly Simple
+57,Skinny-Mexican-Skillet-Lasagna-1628875,4,Skinny Mexican Skillet Lasagna,The Seasoned Mom
+58,Slow-Cooker-Creamy-Chicken-and-Green-Chile-Tacos-1149408,3,Slow-Cooker Creamy Chicken and Green Chile Tacos,Old El Paso
+59,Mexican-Skillet-Pasta-1090575,4,Mexican Skillet Pasta,Julie's Eats & Treats
+60,Avocado-Lime-Chicken-Enchiladas-1617116,4,Avocado Lime Chicken Enchiladas,Grits and Pinecones
+61,10-Minute-Gluten-Free-Enchiladas-1028789,4,10-Minute Gluten-Free Enchiladas,Flippin' Delicious
+62,25-Minute-Spicy-Mexican-Corn-Skillet-with-Sausage-1237106,4,25 Minute Spicy Mexican Corn Skillet with Sausage,The Slow Roasted Italian
+63,Chili-Con-Carne-Simply-Recipes-42597,5,Chili Con Carne,Simply Recipes
+64,Chiliquilla-Allrecipes,4,Chiliquilla,AllRecipes
+65,Crispy-Bean-_-Cheese-Burritos-749038,3,Crispy Bean & Cheese Burritos,Recipe.com
+66,Skinny-Mexican-Meatloaf-1102087,4,Skinny Mexican Meatloaf,Skinny Kitchen
+67,5-Ingredient-Baked-Fajita-Chicken-1166338,4,5 Ingredient Baked Fajita Chicken,"Recipes, Food and Cooking"
+68,Creamy-Mexican-Slow-Cooker-Chicken-Low-Carb_-Gluten-Free-683245,4,"Creamy Mexican Slow Cooker Chicken – Low Carb, Gluten Free","Peace, Love and Low Carb"
+69,Mexican-Chicken-Casserole-471246,5,Mexican Chicken Casserole,Southern Plate
+70,Cheesy-Chicken-Enchiladas-1596097,4,Cheesy Chicken Enchiladas,Marilyn's Treats
+71,Creamy-Chicken-Enchiladas-607907,3,Creamy Chicken Enchiladas,The Country Cook
+72,Mexican-Dorito-Casserole-1588314,4,Mexican Dorito Casserole,Jam Hands
+73,Carnitas-1631787,4,Carnitas,Gluten-Free on a Shoestring
+74,Mexican-shredded-beef-350823,4,Mexican Shredded Beef,Real Mom Kitchen
+75,Slow-Cooker-Pork-Carnitas-Tacos-1611195,4,Slow Cooker Pork Carnitas Tacos,Hamilton Beach
+76,Honey-Lime-Chicken-Enchiladas-1627051,4,Honey Lime Chicken Enchiladas,Flying on Jess Fuel
+77,Cheesy-Enchilada-Casserole-1516805,4,Cheesy Enchilada Casserole,Jonna's Get Off Your Butt and Bake
+78,Easy-Guajillo-Pork-Stew-_-Asado-de-Puerco-Sencillo-1066760,4,Easy Guajillo-Pork Stew / Asado de Puerco Sencillo,Mexico in My Kitchen
+79,Cheesy-Chicken-Enchilada-Casserole-1527354,4,Cheesy Chicken Enchilada Casserole,Family Fresh Meals
+80,Traditional-Pork-Tamale-1602952,4,Traditional Pork Tamale,United Moms Network
+81,Lighter-Chicken-Enchiladas-Martha-Stewart,4,Lighter Chicken Enchiladas,Martha Stewart
+82,5-Ingredient-Mexican-Shredded-Beef-and-Beef-Tostadas-1316495,4,5 Ingredient Mexican Shredded Beef and Beef Tostadas,Sweetphi
+83,Cheesy-Enchilada-Casserole-1613099,4,Cheesy Enchilada Casserole,Life in the Lofthouse
+84,Grilled-Tequila-Lime-Chicken-Once-Upon-A-Chef-200041,5,Grilled Tequila Lime Chicken,Once Upon A Chef
+85,Verde-Chicken-Enchiladas-1586101,3,Verde Chicken Enchiladas,Kraft
+86,Easy-cheese-enchiladas-368957,5,Easy Cheese Enchiladas,Framed Cooks
+87,Enchilada-Casserole-1104391,3,Enchilada Casserole,Recipe.com
+88,Chicken-Fajita-Tequila-Burger-1683006,4,Chicken Fajita Tequila Burger,No Fail Recipes
+89,Chicken-Chimichangas-496308,5,Chicken Chimichangas,Jo Cooks
+90,Skinny-Mexican-Casserole-968659,4,Skinny Mexican Casserole,Damn Delicious
+91,Enchilada-Stuffed-Pepper-Casserole-1682347,4,Enchilada Stuffed Pepper Casserole,Cookie Rookie
+92,Mexican-Skillet-Dinner-1015794,4,Mexican Skillet Dinner,French Press
+93,Paleo-Chorizo-and-Potato-Tacos-1612444,4,Paleo Chorizo and Potato Tacos,Plaid and Paleo
+94,Creamy-Chicken-Enchiladas-1064459,4,Creamy Chicken Enchiladas,Num's the Word
+95,Green-chile-hominy-casserole-with-chorizo-306863,5,Green Chile Hominy Casserole With Chorizo,Homesick Texan
+96,Mexican-Beef-_-Rice-Casserole-1535307,3,Mexican Beef & Rice Casserole,Kraft
+97,Easy-Healthy-Chicken-Enchilada-Bake-1063048,4,Easy Healthy Chicken Enchilada Bake,Sugar-Free Mom
+98,Slow-Cooker-Pollo-Tacos-al-Pastor-1241050,4,Slow Cooker Pollo Tacos al Pastor,The Complete Savorist
+99,Mexican-Street-Corn-Flatbread-Pizza-1680512,4,Mexican Street Corn Flatbread Pizza,"Food, Folks, and Fun"
+100,Mexican-Beef-and-Corn-Skillet-Peppers-975323,3,Mexican Beef and Corn Skillet Peppers,Diabetic Living
+101,Easy-Enchilada-Casserole-931944,4,Easy Enchilada Casserole,Or Whatever You Do
+102,Chorizo-Mac-and-Cheese-Simply-Recipes-290501,5,Chorizo Mac and Cheese,Simply Recipes
+103,Salsa-Verde-Chicken-Enchiladas-1617383,4,Salsa Verde Chicken Enchiladas,Laughing Spatula
+104,How-to-Make-Swiss-Green-Enchiladas-_-Como-Hacer-Enchiladas-Verdes-Suizas-1639456,4,How to Make Swiss Green Enchiladas / Cómo Hacer Enchiladas Verdes Suizas,Mexico in My Kitchen
+105,Easy-Mexican-Chicken-and-Beans-1290833,3,Easy Mexican Chicken and Beans,Betty Crocker
+106,Margarita-Chicken-1597996,4,Margarita Chicken,Follow the Ruels
+107,Barbacoa-beef-352358,5,Barbacoa Beef,Skinnytaste
+108,Shrimp-and-Mango-Tacos-1582622,3,Shrimp and Mango Tacos,New York Times Cooking
+109,Black-Bean-Stuffed-Peppers-1032721,4,Black Bean Stuffed Peppers,Belle of the Kitchen
+110,Mexican-Fiesta-Steak-1220811,3,Mexican Fiesta Steak,Unilever North America
+111,Stuffed-Poblano-Peppers-544543,4,Stuffed Poblano Peppers,What Would John Mack Eat
+112,Zesty-Mexican-Chicken-Stew-with-Sweet-Hominy-1591200,4,Zesty Mexican Chicken Stew with Sweet Hominy,The Cozy Apron
+113,Skillet-Beef-and-Taco-Casserole-1682053,4,Skillet Beef and Taco Casserole,Center Cut Cook
+114,The-Whole-Enchilada-1123650,4,The Whole Enchilada,My Mother's Daughter
+115,Beef-Taco-Skillet-MyRecipes-241617,4,Beef Taco Skillet,MyRecipes
+116,Rice-_-Bean-Enchiladas-1619662,4,Rice & Bean Enchiladas,Amy's Cooking Adventures
+117,Mexican-Flatbread-Pizza-600079,3,Mexican Flatbread Pizza,Life Currents
+118,Chicken-Chilaquiles-Food-And-Wine_1,4,Chicken Chilaquiles,Food & Wine
+119,Quick-skillet-chilaquiles-303904,4,Quick Skillet Chilaquiles,Mizkan Brand
+120,Cheesy-Green-Chile-Pork-Enchiladas-995618,4,Cheesy Green Chile Pork Enchiladas,Lauren's Latest
+121,Tequila-Lime-Shrimp-1080969,4,Tequila Lime Shrimp,Rasa Malaysia
+122,Pork-Carnitas-590301,4,Pork Carnitas,My Kitchen Escapades
+123,Skinny-Chicken-Enchiladas-499640,4,Skinny Chicken Enchiladas,Pinch of Yum
+124,Taco-style-grilled-pork-chops-334807,5,Taco Style Grilled Pork Chops,Picky Palate
+125,Carne-Asada-Simply-Recipes-43134,5,Carne Asada,Simply Recipes
+126,Chicken-Enchiladas-Verdes-Simply-Recipes-42782,5,Chicken Enchiladas Verdes,Simply Recipes
+127,Chicken-and-Corn-Stuffed-Chiles-1316083,4,Chicken and Corn Stuffed Chiles,Taste and Tell
+128,Grilled-lime-and-chile-chicken-with-mango-and-red-bell-pepper-salsa-309897,5,Grilled Lime and Chile Chicken with Mango and Red Bell Pepper Salsa,Kalyn's Kitchen
+129,Cheesy-Nacho-Beef-Skillet-1097287,3,Cheesy Nacho Beef Skillet,Pillsbury.com
+130,Easy-Beef-Enchiladas-_Freezer-Friendly_-1104491,4,Easy Beef Enchiladas (Freezer Friendly),Moms Need To Know
+131,Mexican-Beef-Enchiladas-1613452,4,Mexican Beef Enchiladas,Melanie Cooks
+132,Mexican-Quinoa-Bake-577835,4,Mexican Quinoa Bake,Amuse Your Bouche
+133,Pozole-rojo-298821,4,Pozole Rojo,Unilever North America
+134,Easy-Chicken-Enchilada-Skillet-Dinner-1537189,4,Easy Chicken Enchilada Skillet Dinner,Flavor Mosaic
+135,Creamy-Green-Chile-Chicken-Enchiladas-1266988,4,Creamy Green Chile Chicken Enchiladas,Coffee With Us 3
+136,Black-Bean-and-Chicken-Chilaquiles-1045664,3,Black Bean and Chicken Chilaquiles,Health
+137,Chiles-Rellenos-Topped-with-Green-Chile-Salsa-1680437,4,Chiles Rellenos Topped with Green Chile Salsa,Muy Bueno Cookbook
+138,Paleo-Tacos-623263,3,Paleo Tacos,The Paleo Mom
+139,Steak-Tacos-_Crock-Pot_-1197066,4,Steak Tacos {Crock Pot},Recipes That Crock
+140,Chicken-Enchiladas-With-Salsa-Verde-1684747,3,Chicken Enchiladas With Salsa Verde ,New York Times Cooking
+141,Cilantro-Lime-Shrimp-623028,5,Cilantro Lime Shrimp,Simply Recipes
+142,Easy-Green-Chili-Chicken-Enchiladas-1547892,4,Easy Green Chili Chicken Enchiladas,Clarks Condensed
+143,5-Ingredient-Chicken-Enchiladas-1428367,4,5 Ingredient Chicken Enchiladas,A Simple Pantry
+144,Turkey-picadillo-352288,5,Turkey Picadillo,Skinnytaste
+145,Quick-Chicken-Enchiladas-946658,4,Quick Chicken Enchiladas,Real Mom Kitchen
+146,Crockpot-Pork-Tacos-1600256,4,Crockpot Pork Tacos,Funny Is Family
+147,Taco-Spaghetti-Squash-Dinner-made-EASY_-1048831,4,Taco Spaghetti Squash – Dinner made EASY!,Vegetarian Mamma
+148,Crockpot-Mexican-Chicken-499266,4,Crockpot Mexican Chicken,Pinch of Yum
+149,Mexican-Lasagna-1626129,4,Mexican Lasagna,Faithfully Free
+150,Better-Than-Ever-Beef-Enchiladas-AllRecipes-37084,4,Better-Than-Ever Beef Enchiladas,AllRecipes
+151,Slow-Cooker-Tacos-Al-Pastor-1052883,4,Slow Cooker Tacos Al Pastor,Gimme Some Oven
+152,Ronaldo_s-Beef-Carnitas-Allrecipes,5,Ronaldo's Beef Carnitas,AllRecipes
+153,Tacos-Al-Carbon-685981,4,Tacos Al Carbon,Homesick Texan
+154,Creamy-Chicken-Enchilada-Pie-1169924,4,Creamy Chicken Enchilada Pie,The Dinner Mom
+155,Chipotle-Chicken-Burrito-Bowl-with-Easy-Lime-Cilantro-Rice-1614732,4,Chipotle Chicken Burrito Bowl with Easy Lime Cilantro Rice,Ahead of Thyme
+156,Quinoa-Enchilada-Casserole-1517324,4,Quinoa Enchilada Casserole,Damn Delicious
+157,Enchilada-Casserole-1614256,4,Enchilada Casserole,Add a Pinch
+158,Baked-Salsa-Chicken-1127180,4,Baked Salsa Chicken,Swirls of Flavor
+159,No-Tortilla-Beef-Enchiladas-1620297,4,No-Tortilla Beef Enchiladas,The Domestic Man
+160,Chicken-Enchiladas-I-1609792,4,Chicken Enchiladas I,AllRecipes
+161,Taco-Bake-Casserole-1580819,4,Taco Bake Casserole,Simple Southern Family
+162,Mexican-mac-and-cheese-cups-333667,5,Mexican Mac and Cheese Cups,How Sweet It Is
+163,Easy-Enchiladas-1627555,4,Easy Enchiladas,Carlotta Lund's Culinary Concerto
+164,Cilantro-Lime-Chicken-Weight-Watchers-Friendly_-1066685,4,Cilantro Lime Chicken Weight Watchers Friendly!,Just 2 Sisters
+165,Salsa-Verde-Chicharron-Tacos-1344920,3,Salsa Verde Chicharrón Tacos,Food & Wine
+166,One-Skillet-Mexican-Rice-Casserole-1519461,4,One Skillet Mexican Rice Casserole,The Slow Roasted Italian
+167,One-Pot-Cheesy-Taco-Skillet-1041571,4,One Pot Cheesy Taco Skillet,Sweet C's Designs
+168,Carne-con-Chile-AllRecipes-38886,4,Carne con Chile,AllRecipes
+169,Slow-Cooker-_One-Pot_-Mexican-Rice-and-Beans-with-Avocados-1187044,4,Slow Cooker (One Pot) Mexican Rice and Beans with Avocados,365 Days of  Slow Cooking
+170,Beef-Taco-Bake-1049814,4,Beef Taco Bake,30 Days Thirty Handmade Days
+171,Burrito-Bowl-1032576,4,Burrito Bowl,The Aloha Files
+172,Gluten-Free-Mexican-Lasagna-1694264,4,Gluten Free Mexican Lasagna,Gluten Free and Off The Beaten Path
+173,Slow-Cooker-Pork-Tacos-1334884,4,Slow Cooker Pork Tacos,Good Cheap Eats
+174,Salsa-Verde-Chicken-Enchiladas-1615868,4,Salsa Verde Chicken Enchiladas,Grits and Pinecones
+175,Closing-doors_-chipotle-shrimp-tacos-334387,5,"Closing Doors, Chipotle Shrimp Tacos",Turntable Kitchen
+176,Mexican-slow-cooked-pork-carnitas-352424,5,Mexican Slow Cooked Pork Carnitas,Skinnytaste
+177,Cheesy-Enchilada-Stack-1625667,3,Cheesy Enchilada Stack,
+178,Skinny_-er_-Beef-Enchiladas-1238017,4,Skinny(-er) Beef Enchiladas,Simple Homemaking
+179,Mexican-Skillet-Pasta-1259073,4,Mexican Skillet Pasta,Julie's Eats & Treats
+180,Hot-taco-salad-350902,4,Hot Taco Salad,Real Mom Kitchen
+181,Smothered-Chile-Colorado-Burritos-1621739,4,Smothered Chile Colorado Burritos,Creme de la Crumb
+182,Vegetarian-Chimichangas-Black-Bean_-Cheese-and-Rice-Chimichangas-1175658,4,"Vegetarian Chimichangas – Black Bean, Cheese and Rice Chimichangas",My Cooking Journey
+183,Traditional-New-Mexican-Style-Guisado-de-Chile-Verde-_Green-Chile-Stew_-1526364,4,Traditional New Mexican Style Guisado de Chile Verde (Green Chile Stew),NM Chef
+184,Chicken-Enchiladas-989127,3,Chicken Enchiladas,Delicious Magazine
+185,Pulled-Pork-Enchiladas-981165,3,Pulled Pork Enchiladas,Recipe.com
+186,One-Pot-Mexican-Quinoa-1048329,4,One Pot Mexican Quinoa,Add a Pinch
+187,Slow-Cooker-Stuffed-Peppers-1080704,5,Slow-Cooker Stuffed Peppers,Velveeta Brand
+188,Trader-Joe_s-Chiles-Rellenos-1044036,3,Trader Joe's Chiles Rellenos,Land of La La
+189,Bean-and-cheese-burrito-casserole-slow-cooker-310276,5,Bean and Cheese Burrito Casserole Slow Cooker,A Year of Slow Cooking
+190,Enchilada-Casserole-1015947,4,Enchilada Casserole,My Purple Spoon
+191,Chilorio-1066750,4,Chilorio,Mexico in My Kitchen
+192,Chicken-Chile-Enchiladas-1323085,4,Chicken Chile Enchiladas,The Kitchn
+193,Roasted-Hatch-Chile-_-Chicken-Enchiladas-494990,4,Roasted Hatch Chile & Chicken Enchiladas,Confections of a Foodie Bride
+194,Chicken-Tacos-_Cafe-Rio-Shredded-Chicken-Copycat-Recipe_-680320,4,Chicken Tacos (Cafe Rio Shredded Chicken Copycat Recipe),Cooking Classy
+195,Southwestern-Chicken-TasteOfHome,5,Southwestern Chicken,Taste of Home
+196,One-Pot-Mexican-Chicken-Pasta-940093,4,One-Pot Mexican Chicken Pasta,Bobbi's Kozy Kitchen
+197,Bushs-Baked-Mexican-Chili-Pasta-1327878,3,Bush’s® Baked Mexican Chili Pasta,Bush's Beans
+198,Cheesy-Enchilada-Rice-Skillet-747143,4,Cheesy Enchilada Rice Skillet,Damn Delicious
+199,Chicken-Fajita-Pizza-485276,5,Chicken Fajita Pizza,The Comfort of Cooking
+200,Bbq-chicken-enchiladas-333696,5,BBQ Chicken Enchiladas,How Sweet It Is
+201,Easy-Beef-Enchiladas-1385780,4,Easy Beef Enchiladas,Confessions of a Cooking Diva
+202,Slow-Cooker-Taco-Chicken-1001951,4,Slow Cooker Taco Chicken,Our Best Bites
+203,Layered-Vegetable-Enchiladas-686022,3,Layered Vegetable Enchiladas,Whole Foods Market
+204,Mexican-Chicken-and-Rice-Casserole-1005316,4,Mexican Chicken and Rice Casserole,"Oh, Sweet Basil"
+205,Slow-cooker-cheese-enchilada-stack-310349,5,Slow Cooker Cheese Enchilada Stack,A Year of Slow Cooking
+206,Southwest-Casserole-1029095,4,Southwest Casserole,Everyday Mom's
+207,Cheesy-Nacho-Bake-AllRecipes-39956,4,Cheesy Nacho Bake,AllRecipes
+208,Chicken-Fajita-Casserole-995903,3,Chicken Fajita Casserole,Betty Crocker
+209,Chicken-fajita-pizza-365339,5,Chicken Fajita Pizza,Jo Cooks
+210,Cool-Ranch-Crockpot-Chicken-Tacos-or-Tostadas-939401,4,Cool Ranch Crockpot Chicken Tacos or Tostadas,Family Fresh Meals
+211,DASH-Cheesy-Enchiladas-982151,4,DASH Cheesy Enchiladas,Dash Diet Recipes
+212,Chicken-and-Green-Chili-Tamales-1625660,3,Chicken and Green Chili Tamales,Better Homes and Gardens
+213,Chicken-Enchiladas-With-Salsa-Verde-1684770,3,Chicken Enchiladas With Salsa Verde ,New York Times Cooking
+214,One-Pot-Paleo-Mexican-Chicken-Stir-Fry-1052923,4,One Pot Paleo Mexican Chicken Stir Fry,Sweet C's Designs
+215,Easy-Chicken-Enchilada-Casserole-1329036,3,Easy Chicken Enchilada Casserole,McCormick
+216,Chicken-and-Rice-Enchilada-Casserole-1598826,4,Chicken and Rice Enchilada Casserole,Everyday Epicurist
+217,Slow-Cooker-Shredded-Beef-Tacos-1068763,4,Slow Cooker Shredded Beef Tacos,Hot Eats and Cool Reads
+218,Tequila-Lime-Grilled-Chicken-1082767,4,Tequila Lime Grilled Chicken,Closet Cooking
+219,Grilled-Honey-Lime-Chicken-Quesadillas-596027,4,Grilled Honey Lime Chicken Quesadillas,Pick Fresh Foods
+220,Crockpot-Chicken-Tacos-976898,4,Crockpot Chicken Tacos,Who Needs A Cape
+221,Easy-Chimichurri-Shrimp-1047635,4,Easy Chimichurri Shrimp,Damn Delicious
+222,Mushroom-_-Poblano-Tacos-With-Goat-Cheese-1032705,4,Mushroom & Poblano Tacos With Goat Cheese,The Wicked Noodle
+223,Fajita-Chicken-Stuffed-Roasted-Bell-Peppers-783103,4,Fajita Chicken Stuffed Roasted Bell Peppers,Coach Breanne
+224,One-Skillet-Steak-Fajitas-1230683,4,One Skillet Steak Fajitas,Daily Dish Recipes
+225,Tamale-pie-350924,5,Tamale Pie,Cinnamon Girl
+226,Beef-Enchiladas-Ii-Allrecipes,5,Beef Enchiladas II,AllRecipes
+227,Easy-and-Cheesy-Chicken-Enchiladas-1460677,4,Easy and Cheesy Chicken Enchiladas,Living Off Love and Coffee
+228,Green-Chile-and-Chicken-Mock-Enchilada-Casserole-500640,4,Green Chile and Chicken Mock Enchilada Casserole,Kalyn's Kitchen
+229,Jerk-Shrimp-Tacos-with-Pineapple-Salsa_-Slaw-and-Pina-Colada-Crema-1628467,4,"Jerk Shrimp Tacos with Pineapple Salsa, Slaw and Pina Colada Crema",Closet Cooking
+230,Tamale-Pie-471293,5,Tamale Pie,Southern Plate
+231,Pulled-Pork-Enchiladas-with-Red-Chile-Sauce-487053,4,Pulled Pork Enchiladas with Red Chile Sauce,Barefeet In The Kitchen
+232,Easy-Black-Beans-and-Rice-1106896,4,Easy Black Beans and Rice,Eat Healthy Eat Happy
+233,Tequila-Lime-Chicken-1175310,3,Tequila Lime Chicken,Barefoot Contessa
+234,Crab-Enchiladas-1621294,4,Crab Enchiladas,Lindy Sez
+235,Grilled-Chipotle-Rubbed-Steaks-with-Lime-Butter-Serious-Eats-203150,5,Grilled Chipotle-Rubbed Steaks with Lime Butter,Serious Eats
+236,Slow-cooker-chicken-fajitas-334050,5,Slow Cooker Chicken Fajitas,The Naptime Chef
+237,Mexican-Pull-Apart-Pizza-682009,4,Mexican Pull-Apart Pizza,Plain Chicken
+238,Creamy-Chicken-Enchiladas-1628052,4,Creamy Chicken Enchiladas,Life Made Simple
+239,Cheesy-Beef-Enchiladas-1050155,5,Cheesy Beef Enchiladas,Kraft Natural Cheese Brand
+240,Firehouse-Enchiladas-1080907,3,Firehouse Enchiladas,Diabetic Living
+241,Sweet-Potato_-Black-Bean-and-Kale-Enchiladas-1330550,4,"Sweet Potato, Black Bean and Kale Enchiladas",Foodtastic Mom
+242,Chicken-Chilaquiles-1072222,4,Chicken Chilaquiles,Healthy Seasonal Recipes
+243,Green-chili-pork-stew-299098,4,Green Chili Pork Stew,Unilever North America
+244,Skinny-Mexican-Chicken-Casserole-1105744,3,Skinny Mexican Chicken Casserole,Tablespoon
+245,Ancho-lentil-tacos-334915,5,Ancho Lentil Tacos,Post Punk Kitchen
+246,Mojo-Steak-Tacos-1625275,4,Mojo Steak Tacos,Creme de la Crumb
+247,Easy-Black-Beans-and-Rice-Simply-Recipes-42976,5,Easy Black Beans and Rice,Simply Recipes
+248,Sheet-Pan-Fajitas-1079050,4,Sheet Pan Fajitas,Laughing Spatula
+249,Fish-Taco-Bowls-1037463,4,Fish Taco Bowls,The Live-In Kitchen
+250,Crockpot-Chicken-Tacos-676675,4,Crockpot Chicken Tacos,Chocolate Therapy
+251,Biscuit-Lime-Fish-Tacos-1686653,4,Biscuit Lime Fish Tacos,Damn Delicious
+252,Mexican-Style-Beer-Can-Chicken-1181895,3,Mexican-Style Beer Can Chicken,McCormick
+253,Chipotle_s-famous-Veggie-Buritto-Bowl-1441890,4,Chipotle's famous Veggie Buritto Bowl,Herbivore Cucina
+254,Slow-Cooker-Salsa-Chicken-Recipe-with-Lime-and-Melted-Mozzarella-_Low-Carb_-Gluten-Free_-1107810,5,"Slow Cooker Salsa Chicken Recipe with Lime and Melted Mozzarella (Low-Carb, Gluten-Free)",Kalyn's Kitchen
+255,Chicken-fajitas-352000,5,Skinny Chicken Fajitas,Skinnytaste
+256,Poblano-Chile-Enchiladas-1322190,4,Poblano Chile Enchiladas,Life As Mom
+257,Crock-Pot-Chicken-Tacos-_gluten-free_-761879,4,Crock Pot Chicken Tacos {gluten-free},Prevention RD
+258,Taco-stuffed-zucchini-boats-372036,5,Taco Stuffed Zucchini Boats,Skinnytaste
+259,Grilled-Bacon-Wrapped-Shrimp-Tacos-1699013,4,Grilled Bacon-Wrapped Shrimp Tacos,Cake 'n' Knife
+260,Tex-Mex-Shredded-Chicken-1115073,4,Tex Mex Shredded Chicken,Big Rigs 'n Lil' Cookies
+261,Southwest-Quinoa-Quesadillas-with-Chipotle-1171079,4,Southwest Quinoa Quesadillas with Chipotle,Path of Life
+262,Instant-Pot-Mexican-Chicken-Saute-with-Green-Bell-Pepper_-Cojita-Cheese-and-Cilantro-1629056,4,"Instant Pot Mexican Chicken Saute with Green Bell Pepper, Cojita Cheese and Cilantro",Mother Rimmy's
+263,Mexican-Pasta-Stuffed-Shells-1617563,3,Mexican Pasta-Stuffed Shells,Tablespoon
+264,Cheesy-Taco-a-Casserole-1626647,3,Cheesy Taco a Casserole,All Food Recipes
+265,Mexican-Veggie-Chilli-1632962,4,Mexican Veggie Chilli,Madeleine Shaw
+266,Steak-Fajitas-Real-Simple-199062,4,Steak Fajitas,Real Simple
+267,Cheesy-Taco-Casserole-483861,4,Cheesy Taco Casserole,Averie Cooks
+268,Clean-Eating-Slow-Cooker-Pineapple-Chicken-Verde-762989,4,Clean Eating Slow Cooker Pineapple Chicken Verde,The Gracious Pantry
+269,Frito-Enchilada-Casserole-1624719,4,Frito Enchilada Casserole,For the Love of Crust
+270,Enchilada-Casserole-1197571,4,Enchilada Casserole,Your Homebased Mom
+271,Cheesy-Mexican-Quinoa-_Vegan-_-One-Pan_-1600315,4,“Cheesy” Mexican Quinoa {Vegan + One Pan},Food Faith Fitness
+272,Mexican-Chicken-Chorizo-Skillet-1627274,4,Mexican Chicken Chorizo Skillet,Once a Month Meals
+273,Ground-Pork-Enchiladas-1297045,4,Ground Pork Enchiladas,Sometimes on Tuesdays
+274,Light-Mexican-Stuffed-Shells-1578377,4,Light Mexican Stuffed Shells,Lady Behind the Curtain
+275,Cheesy-Burrito-Casserole-948775,4,Cheesy Burrito Casserole,Ann's Entitled Life
+276,Grilled-Fish-Tacos-967475,3,Grilled Fish Tacos,Land O'Lakes
+277,Street-Enchiladas-1290206,4,Street Enchiladas,Lady Behind the Curtain
+278,Tex-Mex-Skillet-1638351,3,Tex-Mex Skillet,Tip Hero
+279,Chicken-Taco-Boats-1571949,3,Chicken Taco Boats™,Tablespoon
+280,Mexican-Chicken-_-Rice-Bowl-623479,3,Mexican Chicken & Rice Bowl,Whipped
+281,Double-Pork-Carnitas-1620155,3,Double-Pork Carnitas,Bon Appétit
+282,Jose_s-Shrimp-Ceviche-Allrecipes,5,Jose's Shrimp Ceviche,AllRecipes
+283,Chipotle-Fish-Tacos-1097681,3,Chipotle Fish Tacos,Self
+284,Grilled-Steak-Tacos-1183725,4,Grilled Steak Tacos,Foodie Crush
+285,Chili-Gravy-Enchiladas-1188368,4,Chili Gravy Enchiladas,Macheesmo
+286,Enchilada-lasagna-333786,5,Enchilada Lasagna,How Sweet It Is
+287,Slow-Cooker-Ropa-Viejo-1080992,4,Slow Cooker Ropa Viejo,Skinny Ms
+288,Crock-Pot-Chicken-Enchiladas-1031232,4,Crock Pot Chicken Enchiladas,Recipes That Crock
+289,Spinach-Enchiladas-Allrecipes,4,Spinach Enchiladas,AllRecipes
+290,Mom_s-spanish-chicken-and-rice-352160,5,Mom's Spanish Chicken and Rice,Skinnytaste
+291,Skinny-Chicken-Enchiladas-1570676,4,Skinny Chicken Enchiladas,Skinnytaste
+292,Mexican-Chicken-Tater-Tot-Casserole-1113636,4,Mexican Chicken Tater Tot Casserole,Inside BruCrew Life
+293,Mexican-Beef-and-Rice-Skillet-1549743,4,Mexican Beef and Rice Skillet,I Wash You Dry
+294,Firehouse-Enchiladas-681704,3,Firehouse Enchiladas,Diabetic Living
+295,Margarita-Marinated-Chicken-Fajitas-1600491,4,Margarita Marinated Chicken Fajitas,Food Lovin Family
+296,Mexican-Rice-_-Beef-Tacos-1596126,3,Mexican Rice & Beef Tacos,Unilever North America
+297,Taco-pasta-350768,5,Taco Pasta,Cinnamon Girl
+298,Easy-Beef-and-Bean-Enchilada-1641242,4,Easy Beef and Bean Enchilada,Add a Pinch
+299,Roast-pork-loin-with-poblano-chile-sauce-298075,4,Roast Pork Loin With Poblano Chile Sauce,Unilever North America
+300,Chiles-Rellenos-Closet-Cooking-54984,5,Chiles Rellenos,Closet Cooking
+301,Chicken-Mole-1582279,4,Chicken Mole,A Spicy Perspective
+302,Crock-Pot-Chicken-Tacos-1045905,4,Crock Pot Chicken Tacos,Mix and Match Mama
+303,Chicken-Tacos-1197283,3,Chicken Tacos,McCormick
+304,Slow-Cooker-Salsa-Chicken-1169235,3,Slow-Cooker Salsa Chicken,Betty Crocker
+305,Chicken-fajitas-298866,4,Chicken Fajitas,Unilever North America
+306,Black-bean_-sweet-potato-and-quinoa-chili-308251,5,"Black Bean, Sweet Potato and Quinoa Chili",The Kitchn
+307,Seafood-Enchiladas-568255,3,Seafood Enchiladas,Diabetic Living
+308,Crockpot-Enchiladas-1006629,4,Crockpot Enchiladas,Who Needs A Cape
+309,Slow-Cooker-Lime-Garlic-Chicken-Tacos-1637441,3,Slow Cooker Lime Garlic Chicken Tacos,Perdue.com
+310,Taco-Stuffed-Peppers-1602256,4,Taco Stuffed Peppers,DelishPlan
+311,Beef-carnitas-tacos-365328,5,Beef Carnitas Tacos,Jo Cooks
+312,Black-Bean-and-Beef-Enchilada-Casserole-1097190,4,Black Bean and Beef Enchilada Casserole,Julia's Album
+313,Better-for-You-Ground-Turkey-Enchiladas-1338580,4,Better-for-You Ground Turkey Enchiladas,Clarks Condensed
+314,Chorizo-Chicken-Enchiladas-with-Avocado-Sauce-1614240,4,Chorizo Chicken Enchiladas with Avocado Sauce,"Oh, Sweet Basil"
+315,Carne-Asada-Marinade-Allrecipes,4,Carne Asada Marinade,AllRecipes
+316,Spicy-Shrimp-Tacos-with-Garlic-Cilantro-Lime-Slaw-1066527,4,Spicy Shrimp Tacos with Garlic Cilantro Lime Slaw,Pinch of Yum
+317,Vegan-Pulled-Jackfruit-Tacos-1678035,4,Vegan Pulled Jackfruit Tacos,Leicester Vegan
+318,Classic-chili-con-carne-310208,5,Classic Chili Con Carne,Big Girls Small Kitchen
+319,Barbacoa-Tacos-1578756,4,Barbacoa Tacos,Closet Cooking
+320,Chicken-Enchiladas-with-Green-Sauce-1686073,4,Chicken Enchiladas with Green Sauce,Kiwi And Carrot
+321,Healthy-Chicken-Fajita-Casserole-896058,3,Healthy Chicken Fajita Casserole,Hungry Happens.com
+322,Spicy_-Citrusy-Black-Beans-Simply-Recipes-42655,5,"Spicy, Citrusy Black Beans",Simply Recipes
+323,Beef-and-black-bean-taco-bake-365019,5,Beef and Black Bean Taco Bake,Eat at Home
+324,Enchilada-Casserole-1181444,3,Enchilada Casserole,Taste of Home
+325,King-ranch-chicken-casserole-351200,4,King Ranch Chicken Casserole,Real Mom Kitchen
+326,Healthy-Mexican-Casserole-with-Roasted-Corn-and-Peppers-565987,4,Healthy Mexican Casserole with Roasted Corn and Peppers,Pinch of Yum
+327,Spinach-Enchiladas-1609289,4,Spinach Enchiladas,AllRecipes
+328,Foil-Pack-Chicken-Enchiladas-1625676,3,Foil-Pack Chicken Enchiladas,Kraft
+329,Black-Bean_-Chayote-and-Goat-Cheese-Tacos-1687877,3,"Black Bean, Chayote and Goat Cheese Tacos",Tasty Kitchen
+330,Rosemary-Citrus-Shrimp-Tacos-966160,4,Rosemary Citrus Shrimp Tacos,Melanie Makes
+331,Beef-enchilada-casserole-368892,5,Beef Enchilada Casserole,Framed Cooks
+332,Tex-Mex-Chicken-and-Rice-Casserole-758690,3,Tex-Mex Chicken and Rice Casserole,Better Homes and Gardens
+333,Slow-cooker-Mexican-casserole-593128,4,Slow cooker Mexican casserole,Amuse Your Bouche
+334,Vegan-Lentil-Tacos-1205899,4,Vegan Lentil Tacos,Delicious Knowledge
+335,_-picadillo-tacos-333132,4,Picadillo Tacos,Camille Styles
+336,Chicken-and-Black-Bean-Green-Chili-Rice-Skillet-519235,4,Chicken and Black Bean Green Chili Rice Skillet,Picky Palate
+337,Mexican-Haystacks-1658486,4,Mexican Haystacks,Whole and Free
+338,Santa-fe-turkey-stuffed-peppers-352599,5,Santa Fe Turkey Stuffed Peppers,Skinnytaste
+339,Ridiculously-Easy-Lunchbox-Enchilada-Casserole-481267,4,Ridiculously Easy Lunchbox Enchilada Casserole,FatFree Vegan Kitchen
+340,5-Ingredient-Chicken-Enchiladas-1452931,4,5 Ingredient Chicken Enchiladas,A Simple Pantry
+341,Chicken-Enchiladas-1425833,4,Chicken Enchiladas,Homan At Home
+342,Crock-Pot-Shredded-Mexican-Chicken-1602188,4,Crock Pot Shredded Mexican Chicken,Kitchen Dreaming
+343,The-Easiest-Enchilada-Casserole-Recipe-Ever-1519931,4,The Easiest Enchilada Casserole Recipe Ever,Meal Diva
+344,Shrimp-Tacos-with-Mango-Salsa-1276107,4,Shrimp Tacos with Mango Salsa,Dinner at the Zoo
+345,Beef-Burrito-1049130,4,Beef Burrito,Low Carb Recipes
+346,Chilorio-_Mexican-Pulled-Pork_-1602183,4,Chilorio (Mexican Pulled Pork),Chile and Salt
+347,Skinny-Fish-Tacos-in-Under-20-Minutes-1065711,4,Skinny Fish Tacos in Under 20 Minutes,Skinny Kitchen
+348,Breaded-Chicken-Cutlets-with-Deconstructed-Guacamole-1592797,4,Breaded Chicken Cutlets with Deconstructed Guacamole,Skinnytaste
+349,Chipotle-Pork-Soft-Tacos-530194,4,Chipotle Pork Soft Tacos,A Year of Slow Cooking
+350,Bistec-en-Salsa-Roja-_Steak-in-Red-Salsa_-601633,3,Bistec en Salsa Roja (Steak in Red Salsa),Spicie Foodie
+351,Slow-Cooker-Chicken-Enchilada-Quinoa-975797,4,Slow Cooker Chicken Enchilada Quinoa,Bobbi's Kozy Kitchen
+352,Mexican-Quinoa-Bake-1237689,4,Mexican Quinoa Bake,I Heart Vegetables
+353,Slow-Cooker-Mexican-Shredded-Chicken-Tacos-1338151,4,Slow Cooker Mexican Shredded Chicken Tacos,Tastes Lovely
+354,Slow-Cooker-Chicken-Tacos-1102226,4,Slow Cooker Chicken Tacos,Crunchy Creamy Sweet
+355,Quinoa-Fiesta-Enchilada-Bake-1601444,4,Quinoa Fiesta Enchilada Bake,Skinnytaste
+356,Mini-Mexican-Meatloaves-1247371,4,Mini Mexican Meatloaves,Chocolate Slopes
+357,Slow-Cooker-Cheesy-Chicken-Enchiladas-1622286,3,Slow Cooker Cheesy Chicken Enchiladas,Beachbody
+358,Chipotle-cilantro-chicken-skewers-297876,4,Chipotle Cilantro Chicken Skewers,Unilever North America
+359,Shrimp_and_guacamole-Tostadas-My-Recipes,4,Shrimp-and-Guacamole Tostadas,MyRecipes
+360,Easy-Mexican-Quinoa-Skillet-1597500,4,Easy Mexican Quinoa Skillet,Tasty Thin
+361,Tasty-Venison-Enchiladas-1681204,4,Tasty Venison Enchiladas,Deer Recipes
+362,Vegan-Tacos-1203109,4,Vegan Tacos,Fresh Of The Grid
+363,Quick-Black-Beans-and-Rice-1003518,4,Quick Black Beans and Rice,Whippin It Up 4 Foodies 
+364,One-Pan-Cheesy-Mexican-Quinoa-_Vegan_-1663539,3,One-Pan Cheesy Mexican Quinoa [Vegan],One Green Planet
+365,It_s-Chili-By-George_-Allrecipes,5,It's Chili by George!!,AllRecipes
+366,Crockpot-Salsa-Verde-Chicken-Enchiladas-494971,4,Crockpot Salsa Verde Chicken Enchiladas,Confections of a Foodie Bride
+367,Easy-Chicken-Enchilada-Boats-1149339,3,Easy Chicken Enchilada Boats,Old El Paso
+368,Slow-Cooker-Chili-511210,5,Slow Cooker Chili,Food Republic
+369,Taqueria-Style-Tacos-1088640,4,Taqueria Style Tacos,Palatable Pastime
+370,Chicken-Enchilada-Dip-485374,4,Chicken Enchilada Dip,Barefeet In The Kitchen
+371,Grilled-Chicken-and-Cream-Cheese-Enchiladas-5-Ingredients-1019580,5,Grilled Chicken and Cream Cheese Enchiladas – 5 Ingredients,Eat at Home
+372,Couscous-Taco-Bowls-1068729,4,Couscous Taco Bowls,The Grant Life
+373,Street-Steak-Tacos-1056065,4,Street Steak Tacos,Hip and Simple
+374,Black-Bean-and-Quinoa-Enchilada-Bake-497526,4,Black Bean and Quinoa Enchilada Bake,Two Peas & Their Pod
+375,Slow-Cooker-Pork-Carnitas-1045301,4,Slow Cooker Pork Carnitas,Creme de la Crumb
+376,Beef-Enchiladas-696527,4,Beef Enchiladas,Hispanic Kitchen
+377,Juicy-Pork-Carnitas-1465253,3,Juicy Pork Carnitas,Chatelaine
+378,Crock-Pot-Taco-Casserole-1065178,4,Crock Pot Taco Casserole,Tammilee Tips
+379,Smothered-Burritos-with-Red-Sauce-and-Queso-1642562,4,Smothered Burritos with Red Sauce and Queso,Thinking Outside The Sandbox: Family
+380,Blackened-swordfish-tacos-w_-mango-avocado-salsa-361165,5,Blackened Swordfish Tacos w/ Mango Avocado Salsa,Savour the Senses
+381,Mexican-Macaroni-Casserole-1592865,3,Mexican Macaroni Casserole,Pillsbury.com
+382,Chicken-Tortilla-Bake-TasteOfHome,5,Chicken Tortilla Bake,Taste of Home
+383,Mexican-Chicken-Thighs-with-a-Creamy-Poblano-Sauce-1629795,3,Mexican Chicken Thighs with a Creamy Poblano Sauce,Bargain Briana
+384,5-Minute-Enchilada-Pie-1356840,4,5-Minute Enchilada Pie,Pepper Ever After
+385,Slow-Cooker-Carnitas-901250,4,Slow Cooker Carnitas,Pinch and Swirl
+386,Slow-Cooker-Chicken-Enchiladas-1023159,4,Slow Cooker Chicken Enchiladas,Spend with Pennies
+387,Slow-Cooker-Chile-Verde-Allrecipes,5,Slow Cooker Chile Verde,AllRecipes
+388,Carne-Adovada-_red-Chile-And-Pork-Stew_-My-Recipes,4,Carne Adovada (Red Chile and Pork Stew),MyRecipes
+389,Mexican-Chicken-Casserole-with-Cheddar-Cheese-and-Tomatoes-1379356,4,Mexican Chicken Casserole with Cheddar Cheese and Tomatoes,Holidays
+390,Easy-Chicken-Enchiladas-1115542,3,Easy Chicken Enchiladas,Mommy Enterprises
+391,Chicken-_-Black-Bean-Casserole-1023155,4,Chicken & Black Bean Casserole,Garden Matter
+392,Chicken-Enchilada-1581445,4,Chicken Enchilada,Jaque's Kitchen
+393,Healthy-Oven-Fried-Chimichangas-1063054,4,Healthy Oven Fried Chimichangas,Sugar-Free Mom
+394,Quesadilla-Casserole-490212,3,Quesadilla Casserole,Clean Eating
+395,Taco-Stroganoff-1012092,4,Taco Stroganoff,Julie's Eats & Treats
+396,Beefy-Taco-Skillet-1588012,4,Beefy Taco Skillet,Real Mom Kitchen
+397,Burrito-Bake-1045634,4,Burrito Bake,The Country Cook
+398,Easy-Crock-Pot-Salsa-Verde-Chicken-1093163,4,Easy Crock Pot Salsa Verde Chicken,Flour On My Face
+399,Mexican-Zucchini-Burrito-Boats-1246995,4,Mexican Zucchini Burrito Boats,Making Thyme for Health
+400,Easy-Chicken-Enchiladas-1568785,4,Easy Chicken Enchiladas,My Life Cookbook
+401,Mexican-Skillet-Dinner-1514926,3,Mexican Skillet Dinner,Better Homes and Gardens
+402,Hatch-Green-Chile-Chicken-Enchiladas-1587927,4,Hatch Green Chile Chicken Enchiladas,Lovely Little Kitchen
+403,Crockpot-Southwest-Chicken-Pasta-1179502,4,Crockpot Southwest Chicken Pasta,Mrs. Happy Homemaker
+404,Recipe-for-Slow-Cooker-Mexican-Tortilla-Pie-1619048,4,Recipe for Slow Cooker Mexican Tortilla Pie,365 Days of  Slow Cooking
+405,Turkey-Enchiladas-1039024,4,Turkey Enchiladas,Baked by Rachel
+406,No-Mess-Taco-Casserole-1009401,4,No-Mess Taco Casserole,Fit Foodie Finds
+407,Cheesy-Chicken-Enchiladas-1568643,4,Cheesy Chicken Enchiladas,Gonna Want Seconds
+408,Cheesy-Mexican-Couscous-Casserole-1064510,4,Cheesy Mexican Couscous Casserole,Girl versus Dough
+409,Grilled-chipotle-fish-tacos-297826,4,Grilled Chipotle Fish Tacos,Unilever North America
+410,_Merican-Enchiladas-636898,3,'Merican Enchiladas,Sharing With My Sisters
+411,Mexican-Chicken-Skillet-1250876,4,Mexican Chicken Skillet,Making of a Mom
+412,Jerk-Shrimp-Tacos-with-Pineapple-Salsa_-Slaw-and-Pina-Colada-Crema-993954,4,"Jerk Shrimp Tacos with Pineapple Salsa, Slaw and Pina Colada Crema",Closet Cooking
+413,Cheesy-shrimp-tacos-347983,3,Cheesy Shrimp Tacos,Every Day with Rachael Ray
+414,The-Best-Vegan-Enchiladas-1602524,4,The Best Vegan Enchiladas,Gimme Some Oven
+415,Crockpot-Salsa-Chicken-496305,5,Crockpot Salsa Chicken,Jo Cooks
+416,Tortilla-Beef-Bake-TasteOfHome,5,Tortilla Beef Bake,Taste of Home
+417,One-Pot-Mexican-Shrimp-with-Cauliflower-Rice-1636033,3,One-Pot Mexican Shrimp with Cauliflower Rice,Balanced Bites
+418,Campfire-Tacos-with-Sweet-Potato_-Black-Beans-_-Poblano-Peppers-1627271,4,"Campfire Tacos with Sweet Potato, Black Beans & Poblano Peppers",Fresh Of The Grid
+419,Best-Beef-Enchiladas-1605859,4,Best Beef Enchiladas,AllRecipes
+420,Beef-and-bean-taco-skillet-351059,4,Beef and Bean Taco Skillet,Real Mom Kitchen
+421,Creamy-Roast-Beef-Enchiladas-1032357,4,Creamy Roast Beef Enchiladas,Tastes of Lizzy T
+422,Chicken-enchilada-casserole-341990,3,Chicken Enchilada Casserole,MyRecipes
+423,Beef-Taco-Skillet-Allrecipes,4,Beef Taco Skillet,AllRecipes
+424,Cream-Cheese-Chicken-Enchiladas-1630066,4,Cream Cheese Chicken Enchiladas,Buns in my Oven
+425,3-Ingredient-Crock-Pot-Creamy-Taco-Chicken-1180844,4,3 Ingredient Crock Pot Creamy Taco Chicken,thepinningmama
+426,Spicy-Cheese-and-Beef-Enchiladas-1224024,4,Spicy Cheese and Beef Enchiladas,Center Cut Cook
+427,My-Favorite-Ground-Beef-Tacos-From-Paula-Deen-1617498,4,My Favorite Ground Beef Tacos From Paula Deen,Eat Cake For Dinner
+428,Pork-Chili-Verde-1082588,4,Pork Chili Verde,Jo Cooks
+429,Bean-And-Cheese-Smothered-Enchiladas-1005317,4,Bean And Cheese Smothered Enchiladas,"Oh, Sweet Basil"
+430,Cream-Cheese-Enchiladas-1278964,4,Cream Cheese Enchiladas,Cassie Craves
+431,Salsa-Chicken-Burrito-Filling-1687729,4,Salsa Chicken Burrito Filling,AllRecipes
+432,Salsa-Verde-Chicken-Enchiladas-1287096,4,Salsa Verde Chicken Enchiladas,Bakes In Slippers
+433,Carnitas-Avocado-Pizza-with-Chipotle-Avocado-Mayonnaise-Drizzle-1688263,4,Carnitas Avocado Pizza with Chipotle Avocado Mayonnaise Drizzle,Damn Delicious
+434,Slow-Cooker-Cream-Cheese-Chicken-Taquitos-578491,4,Slow Cooker Cream Cheese Chicken Taquitos,Creme de la Crumb
+435,_Slow-Cooker_-Honey-Chipotle-Chicken-Tacos-1126457,4,{Slow Cooker} Honey Chipotle Chicken Tacos,Chelsea's Messy Apron
+436,Slow-Cooker-Mexican-Stir-Fry-1595219,4,Slow Cooker Mexican Stir Fry,Midget Momma
+437,Fish-Tacos-1681809,3,Fish Tacos,Alton Brown
+438,Butternut-squash-and-chorizo-tostadas-350944,5,Butternut Squash and Chorizo Tostadas,Closet Cooking
+439,Mexican-Lasagna-1076988,4,Mexican Lasagna,Mom vs The Boys
+440,Freezer-Taco-Kit-1019109,4,Freezer Taco Kit,The Kitchn
+441,Chicken-Enchilada-Skillet-895598,4,Chicken Enchilada Skillet,Emily Bites
+442,Mexican-Green-Spaghetti-1239859,4,Mexican Green Spaghetti,Half Hour Meals
+443,Fish-Tacos-with-Salsa-Verde-1685606,3,Fish Tacos with Salsa Verde,Laura in the Kitchen
+444,Slow-Cooker-Pork-Carnitas-1118907,4,Slow Cooker Pork Carnitas,Damn Delicious
+445,White-Chicken-Enchiladas-1597937,4,White Chicken Enchiladas,Add a Pinch
+446,Cream-Cheese-Chicken-Enchiladas-996860,4,Cream Cheese Chicken Enchiladas,Hot Eats and Cool Reads
+447,Sopes-de-Pollo-con-Frijoles-_Chicken-Sopes-with-Beans_-Serious-Eats-42077,5,Sopes de Pollo con Frijoles (Chicken Sopes with Beans),Serious Eats
+448,Skinny-Mexican-Chicken-Casserole-979216,3,Skinny Mexican Chicken Casserole,Betty Crocker
+449,Beef-Taco-Bake-MyRecipes-247369,3,Beef Taco Bake,MyRecipes
+450,Vegetarian-Chili-608046,3,Vegetarian Chili,Better Homes and Gardens
+451,Arroz-con-pollo-361192,4,Arroz Con Pollo,Savour the Senses
+452,Roast-Chicken-In-Green-Salsa-1109992,4,Roast Chicken In Green Salsa,GoodFood
+453,Mexican-Stuffed-Peppers-1564185,4,Mexican Stuffed Peppers,Spend with Pennies
+454,Red-Enchiladas-1297603,4,Red Enchiladas,My Kitchen Craze
+455,Clean-Eating-2-Ingredient-Slow-Cooker-Taco-Chicken-1031762,4,Clean Eating 2 Ingredient Slow Cooker Taco Chicken,The Gracious Pantry
+456,Fish-Tacos-with-Lime-Sauce-1613173,3,Fish Tacos with Lime Sauce,Better Homes and Gardens
+457,One-Skillet-Spicy-Ranch-Chicken-763064,4,One Skillet Spicy Ranch Chicken,The Law Student's Wife
+458,20-Minute-Mexican-Skillet-Chicken-1570506,4,20 Minute Mexican Skillet Chicken,The Clever Carrot
+459,Mexican-Grilled-Chicken-TasteOfHome,4,Mexican Grilled Chicken,Taste of Home
+460,Beef-Tacos-de-Lengua-Simply-Recipes-42602,5,Beef Tacos de Lengua,Simply Recipes
+461,Mexican-Lasagna-Ii-Allrecipes,4,Mexican Lasagna II,AllRecipes
+462,Chubby-steak-and-cheddar-taquitos-367089,5,Chubby Steak and Cheddar Taquitos,Cinnamon Girl
+463,One-Pan-Enchilada-962246,4,One Pan Enchilada,Maebells
+464,Mexican-Pork-Carnitas-1062106,3,Mexican Pork Carnitas,Life Tastes Good
+465,Slow-Cooker-Spicy-Mexican-Chicken-Tacos-1606763,3,Slow Cooker Spicy Mexican Chicken Tacos,The Happier Homemaker
+466,Chicken-Enchilada-Casserole-607089,3,Chicken Enchilada Casserole,12Tomatoes
+467,Slow-Cooker-Steak-Tacos-1079610,4,Slow Cooker Steak Tacos,Aunt Bee's Recipes
+468,Mexican-Lasagna-1164551,3,Mexican Lasagna,McCormick
+469,Fajita-Beef-Roll-Ups-1021500,4,Fajita Beef Roll Ups,Nibble Me This
+470,Cinco-De-Mayo-Tacos-1199754,4,Cinco De Mayo Tacos,The Girls on Bloor
+471,Cheesy-Taco-Bake-899753,4,Cheesy Taco Bake,Cooking On A Budget
+472,Skillet-tacos-369694,5,Skillet Tacos,Real Mom Kitchen
+473,Vegetarian-sweet-potato-chili-344728,5,Vegetarian Sweet Potato Chili,Cookie and Kate
+474,Chicken-Enchiladas-with-Green-Sauce-1256496,4,Chicken Enchiladas with Green Sauce,LaaLoosh
+475,Sour-Cream-Chicken-Enchiladas-Allrecipes,5,Sour Cream Chicken Enchiladas,AllRecipes
+476,Quick-Chicken-Enchiladas-Allrecipes,4,Quick Chicken Enchiladas,AllRecipes
+477,Vegan-Enchiladas-Recipe-with-Lentils-and-Black-Beans-1620499,4,Vegan Enchiladas Recipe with Lentils and Black Beans,Vegan Richa
+478,Mexican-Chili-684239,3,Mexican Chili,Recipe.com
+479,Taco-Ring-623921,3,Taco Ring,Whippin It Up 4 Foodies 
+480,Burrito-Pie-1639573,4,Burrito Pie,AllRecipes
+481,Mexican-Casserole-Allrecipes_2,4,Mexican Casserole,AllRecipes
+482,Green-Chicken-Enchilada-Allrecipes,5,Green Chicken Enchilada,AllRecipes
+483,Quinoa-Enchilada-Skillet-1305723,4,Quinoa Enchilada Skillet,Bijoux and Bits
+484,Chimichurri-Skirt-Steak-with-Mexican-Salad-Stuffed-Peppers-1580059,4,Chimichurri Skirt Steak with Mexican Salad Stuffed Peppers,Fresh and Fit
+485,Tomatillo-Salsa-Chicken-Enchilada-Casserole-1501861,4,Tomatillo Salsa Chicken Enchilada Casserole,Two Sisters Kitchens
+486,Sour-Cream-Chicken-Enchiladas-992487,3,Sour Cream Chicken Enchiladas,Centless Deals
+487,Mexican-Stuffed-Peppers-772402,4,Mexican Stuffed Peppers,Amuse Your Bouche
+488,Chicken-Taco-Quinoa-Skillet-1218850,4,Chicken Taco Quinoa Skillet,The Seasoned Mom
+489,Crockpot-chile-verde-310323,5,CrockPot Chile Verde,A Year of Slow Cooking
+490,Mexican-Dorito-Casserole-574427,4,Mexican Dorito Casserole,Jam Hands
+491,Carne-Asada-Marinade-999907,4,Carne Asada Marinade,Bunny's Warm Oven
+492,Poblano-Pork-Stew-over-Tomatillo-Rice-1684202,4,Poblano Pork Stew over Tomatillo Rice,Hostess At Heart
+493,_Weekend-Slim-Down_-Skinny-Chicken-Fajitas-1368773,3,{Weekend Slim Down} Skinny Chicken Fajitas,Cookie Rookie
+494,Tacos-al-Pastor-752466,4,Tacos al Pastor,I am a Food Blog
+495,TEX-MEX-TORTILLA-CASSEROLE-1004222,4,TEX-MEX TORTILLA CASSEROLE,Panning the Globe
+496,Vegetable-Enchiladas-472995,5,Vegetable Enchiladas,Recipe Girl
+497,Halftime-Chili-472621,5,Halftime Chili,Recipe Girl
+498,Chipotle-Shrimp-Tacos-1301304,4,Chipotle Shrimp Tacos,Heather Christo
+499,Cheesy-Chili-Enchiladas-Allrecipes,4,Cheesy Chili Enchiladas,AllRecipes
