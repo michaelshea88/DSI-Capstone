@@ -1,0 +1,501 @@
+,id,rating,recipeName,sourceDisplayName
+0,Baby-Back-Ribs-with-Bourbon-Barbecue-Sauce-1703741,3,Baby Back Ribs with Bourbon Barbecue Sauce,Rachael Ray Show
+1,Roast-Turkey-With-Apple-Cider-Gravy-772029,4,Roast Turkey With Apple Cider Gravy,
+2,Better-Than-Sex-Brisket-1060441,4,Better Than Sex Brisket,Grill Girl
+3,Best-Basic-Burger-500667,5,Best Basic Burger,Food Republic
+4,Chicago-Chicken-822419,4,Chicago Chicken,Plain Chicken
+5,Crunchy-Stuffed-Chicken-Breasts-In-Lemon-Butter-1041748,3,Crunchy Stuffed Chicken Breasts In Lemon Butter,Delicious Magazine
+6,Crockpot-bbq-beer-chicken-333297,5,Crockpot BBQ Beer Chicken,How Sweet It Is
+7,Roast-Turkey-With-Apple-Cider-Gravy-901672,3,Roast Turkey With Apple Cider Gravy,
+8,Baked-Macaroni-and-Cheese-471277,5,Baked Macaroni and Cheese,Southern Plate
+9,Ann-Herrmann_s-Maple-Barbecue-Ribs-1537278,3,Ann Herrmann's Maple Barbecue Ribs,Yankee
+10,Country-fried-steak-recipe-with-gravy-306991,5,Country Fried Steak Recipe With Gravy,Food Republic
+11,Rosemary-Rubbed-Rib-Eye-Steak-513627,5,Rosemary Rubbed Rib-Eye Steak,Food Republic
+12,Brisket-with-slow-cooked-onions-310126,5,Brisket with Slow-Cooked Onions,Big Girls Small Kitchen
+13,Baked-chicken-with-dijon-and-lime-352133,5,Baked Chicken with Dijon and Lime,Skinnytaste
+14,The-Best-Basic-Meatloaf-511584,4,The Best Basic Meatloaf,Food Republic
+15,Mac-and-Cheese-Once-Upon-A-Chef-199960,5,Mac and Cheese,Once Upon A Chef
+16,Carolina-Pork-and-Sweet-Potato-Pie-with-Biscuit-Batter-Crust-1706646,4,Carolina Pork and Sweet Potato Pie with Biscuit Batter Crust,Cooks&Books&Recipes
+17,Crockpot-barbecued-pulled-pork-310362,5,CrockPot Barbecued Pulled Pork,A Year of Slow Cooking
+18,Balsamic-Roast-Beef-631076,3,Balsamic Roast Beef,Add a Pinch
+19,Buffalo-Chicken-_-Rice-Skillet-1624739,3,Buffalo Chicken & Rice Skillet,Knorr.com
+20,Lemon-Butter-Chicken-Breasts-599653,3,Lemon Butter Chicken Breasts,Better Homes and Gardens
+21,Fried-chicken-307094,5,Fried Chicken,Smitten Kitchen
+22,Easy-Chicken-Paprika-w_-Sour-Cream-Gravy-_Low-Carb-and-Gluten-Free_-496709,4,Easy Chicken Paprika w/ Sour Cream Gravy (Low Carb and Gluten Free),I Breathe... I'm Hungry...
+23,Maryland-Crab-Cakes-with-Quick-Tartar-Sauce-1455432,5,Maryland Crab Cakes with Quick Tartar Sauce,Once Upon A Chef
+24,Honey-Glazed-Chicken-Martha-Stewart-195421,5,Honey-Glazed Chicken,Martha Stewart
+25,Southern-Fried-Chicken-1569848,4,Southern Fried Chicken,Holidays
+26,Fried-Chicken-Martha-Stewart-195305,5,Fried Chicken,Martha Stewart
+27,Baked-Flounder-with-Fresh-Lemon-Pepper-1633060,4,Baked Flounder with Fresh Lemon Pepper,Seafood and Shellfish
+28,Basic-Turkey-Meatloaf-512698,5,Basic Turkey Meatloaf,Food Republic
+29,Bourbon-glazed-salmon-333622,5,Bourbon Glazed Salmon,How Sweet It Is
+30,Salmon-_-asparagus-hollandaise-303302,4,Salmon & Asparagus Hollandaise,Unilever North America
+31,Blue-Cheese_-Rosemary_-and-Wild-Rice-Stuffed-Peppers-1694830,4,"Blue Cheese, Rosemary, and Wild Rice Stuffed Peppers",Queen of My Kitchen
+32,Salt_and_pepper-Beef-Roast-My-Recipes,4,Salt-and-Pepper Beef Roast,MyRecipes
+33,New-england-cod-297080,4,New England Cod,Unilever North America
+34,Southern-Fried-Pork-Chops-900055,4,Southern Fried Pork Chops,Sharing With My Sisters
+35,Glazed-Meatloaf-Martha-Stewart-195743,4,Glazed Meatloaf,Martha Stewart
+36,Slow-Cooker-Barbecued-Ribs-513249,5,Slow Cooker Barbecued Ribs,Leite's Culinaria
+37,Meatloaf-Cupcakes-566200,4,Meatloaf Cupcakes,"First Look, Then Cook"
+38,Texas-Style-Ground-Beef-and-Rice-Casserole-1630735,3,Texas-Style Ground Beef and Rice Casserole,Southern Food About.com
+39,Coca-Cola-Barbecued-Ribs-1619934,4,Coca-Cola Barbecued Ribs,Miss in the Kitchen
+40,Ribs-with-Spicy-Bourbon-Barbecue-Sauce-514114,5,Ribs with Spicy Bourbon Barbecue Sauce,Leite's Culinaria
+41,Southern-Fried-Chicken-Breast-Dinner-1637427,3,Southern Fried Chicken Breast Dinner,Perdue.com
+42,Cajun-Chicken-Allrecipes_1,5,Cajun Chicken,AllRecipes
+43,Fresh-Gulf-Shrimp-With-Barbecue-Butter-My-Recipes,4,Fresh Gulf Shrimp with Barbecue Butter,MyRecipes
+44,Pan-Seared-Tilapia-with-Mojo-1623053,3,Pan-Seared Tilapia with Mojo,Health
+45,Maple_balsamic_glazed-Pork-Medallions-My-Recipes,4,Maple-Balsamic-Glazed Pork Medallions,MyRecipes
+46,Classic-Roast-Turkey-781946,3,Classic Roast Turkey,Southern Food About.com
+47,Grilled-Chicken-With-Lemon_-Garlic_-And-Oregano-Epicurious,5,"Grilled Chicken with Lemon, Garlic, and Oregano",Epicurious
+48,Garlic_herb-Roasted-Chicken-My-Recipes,4,Garlic-Herb Roasted Chicken,MyRecipes
+49,Cajun-Turkey-With-Dirty_rice-Stuffing-My-Recipes,4,Cajun Turkey with Dirty-Rice Stuffing,MyRecipes
+50,Classic-Southern-Fried-Chicken-1242471,3,Classic Southern Fried Chicken,Crisco
+51,Southern-Fried-Catfish-1275302,4,Southern Fried Catfish,Paula Deen
+52,Southern-Style-Meatloaf-1318448,3,Southern Style Meatloaf,Southern Food About.com
+53,Fried-Soft-Shell-Crab-MyRecipes-212703,4,Fried Soft-Shell Crab,MyRecipes
+54,Bundled-chicken-with-goat-cheese-_-fresh-thyme-328018,3,Bundled Chicken with Goat Cheese & Fresh Thyme,Food52
+55,Citrus_rubbed-Skirt-Steak-My-Recipes,4,Citrus-Rubbed Skirt Steak,MyRecipes
+56,Southern-Fried-Pork-Chops-930577,4,Southern Fried Pork Chops,Sharing With My Sisters
+57,American-Shepherd_s-Pie-Allrecipes,4,American Shepherd's Pie,AllRecipes
+58,Maple-glazed-ribs-298296,4,Maple Glazed Ribs,Unilever North America
+59,Buffalo-Chicken-_-Rice-Skillet-1561650,3,Buffalo Chicken & Rice Skillet,Knorr
+60,Classic-Fried-Catfish-My-Recipes,4,Classic Fried Catfish,MyRecipes
+61,Southern-Chicken-Fried-Steak-Allrecipes,4,Southern Chicken Fried Steak,AllRecipes
+62,Grilled-Baby-Back-Ribs-with-Sticky-Brown-Sugar-Glaze-MyRecipes-212672,4,Grilled Baby Back Ribs with Sticky Brown Sugar Glaze,MyRecipes
+63,Lemon-And-Lime-Citrus-Wild-Pacific-Salmon-1022583,4,Lemon And Lime Citrus Wild Pacific Salmon,Lushious Eats
+64,Crawfish-Etouffee-1582647,4,Crawfish Étouffée,New Orleans
+65,Buttery-Lemon-Shrimp-My-Recipes,4,Buttery Lemon Shrimp,MyRecipes
+66,Maple_glazed-Turkey-With-Gravy-Epicurious,4,Maple-Glazed Turkey with Gravy,Epicurious
+67,Southern-Shrimp-and-Grits-677717,4,Southern Shrimp and Grits,South Your Mouth
+68,Caramelized-Maple-and-Garlic-Glazed-Salmon-MyRecipes-238217,4,Caramelized Maple-and-Garlic-Glazed Salmon,MyRecipes
+69,Vegetable-Pot-Pie-512725,5,Vegetable Pot Pie,Food Republic
+70,New-York-Strip-with-Mushroom-Gravy-and-Caramelized-Onions-638656,4,New York Strip with Mushroom Gravy and Caramelized Onions,Skinny Ms
+71,Our-Best-Southern-Fried-Chicken-My-Recipes,4,Our Best Southern Fried Chicken,MyRecipes
+72,Dijon-Rack-Of-Lamb-My-Recipes,4,Dijon Rack of Lamb,MyRecipes
+73,Best-New-Orleans-Gumbo-678020,3,Best New Orleans Gumbo,My Daily Moment
+74,Herb_crusted-Rack-Of-Pork-My-Recipes,4,Herb-Crusted Rack Of Pork,MyRecipes
+75,Grilled-Shrimp-My-Recipes,4,Grilled Shrimp,MyRecipes
+76,Beef-Fillets-With-Orange-Cream-My-Recipes,4,Beef Fillets with Orange Cream,MyRecipes
+77,Autumn-Spice-Brined-Turkey-with-Pomegranate-Glaze-456154,5,Autumn Spice-Brined Turkey with Pomegranate Glaze,Williams-Sonoma
+78,Barbecued-Sticky-Ribs-TasteOfHome,5,Barbecued Sticky Ribs,Taste of Home
+79,Honey-Bourbon-Glazed-Ham-1418675,3,Honey-Bourbon Glazed Ham,popsugar.com
+80,Grilled-Herbed-Chicken-Drumettes-With-White-Barbecue-Sauce-My-Recipes,4,Grilled Herbed Chicken Drumettes With White Barbecue Sauce,MyRecipes
+81,Herb_rubbed-Baby-Back-Ribs-My-Recipes,3,Herb-rubbed Baby Back Ribs,MyRecipes
+82,Doe_s-Broiled-Shrimp-MyRecipes-264454,4,Doe's Broiled Shrimp,MyRecipes
+83,Southwest-Flank-Steak-With-Salsa-My-Recipes,4,Southwest Flank Steak with Salsa,MyRecipes
+84,Salmon-with-Mustard-and-Brown-Sugar-Glaze-472116,4,Salmon with Mustard and Brown Sugar Glaze,Recipe Girl
+85,Parmesan-sage-roasted-turkey-breast-with-sage-gravy-297083,4,Parmesan-sage Roasted Turkey Breast With Sage Gravy,Unilever North America
+86,Southern_style-Shrimp-My-Recipes,3,Southern-Style Shrimp,MyRecipes
+87,Balsamic_glazed-Halibut-My-Recipes,4,Balsamic-Glazed Halibut,MyRecipes
+88,Red_wine-Pot-Roast-With-Porcini-Epicurious,5,Red-Wine Pot Roast with Porcini,Epicurious
+89,Pork-Chops-With-Herb_mustard-Butter-My-Recipes,4,Pork Chops With Herb-Mustard Butter,MyRecipes
+90,Baby-Back-Ribs-with-Bourbon-Barbecue-Sauce-1288953,3,Baby Back Ribs with Bourbon Barbecue Sauce,Rachael Ray Show
+91,Tex-Mex-Ground-Beef-Pie-with-Cornmeal-Topping-793086,3,Tex-Mex Ground Beef Pie with Cornmeal Topping,Southern Food About.com
+92,Chicken-Fried-Steak-with-White-Gravy-1356028,4,Chicken Fried Steak with White Gravy,Mrs. Happy Homemaker
+93,Crawfish-Etouffee-1438422,3,Crawfish Étouffée,Culinary Institute of America
+94,Kansas-City-Ribs-752067,3,Kansas City Ribs,Recipe.com
+95,Smothered-Pork-Chops-With-Onions-And-Cheddar-Grits-My-Recipes,4,Smothered Pork Chops with Onions and Cheddar Grits,MyRecipes
+96,Baked-Vidalia-Sweet-Onions-with-Sausage-and-Pecans-1584909,4,Baked Vidalia Sweet Onions with Sausage and Pecans,Damon Lee Fowler
+97,Chips-and-Cheese-Chili-Casserole-_vegetarian_-GF_-1019296,4,"Chips and Cheese Chili Casserole (vegetarian, GF)",Averie Cooks
+98,Sugar-Steak-with-Bourbon-576585,5,Sugar Steak with Bourbon,Food52
+99,Chicken-Fried-Steak-1284704,4,Chicken Fried Steak,Sharing With My Sisters
+100,Smoked-Spare-Ribs-512111,5,Smoked Spare Ribs,Leite's Culinaria
+101,Seared-Scallops-with-Fennel-and-Grapefruit-Salad-MyRecipes-243693,4,Seared Scallops with Fennel and Grapefruit Salad,MyRecipes
+102,New-Years-Day-Blackeye-Pea-One-Pot-Meal-1112840,3,New Year’s Day Blackeye Pea One-Pot Meal,Camellia 
+103,Honey_roasted-Pork-My-Recipes,4,Honey-Roasted Pork,MyRecipes
+104,Creamy-Crawfish-Pasta-1597643,3,Creamy Crawfish Pasta,Louisiana Cookin'
+105,Crawfish-Cakes-With-Crawfish-Cream-1633575,3,Crawfish Cakes With Crawfish Cream,Emeril
+106,Crawfish-Monica-1251067,4,Crawfish Monica,Gonola
+107,Dijon-Pork-Loin-My-Recipes,4,Dijon Pork Loin,MyRecipes
+108,Roast-Turkey-Breast-with-Citrus-Herb-Butter-1384012,4,Roast Turkey Breast with Citrus-Herb Butter,My Gourmet Connection
+109,Chicken-Breasts-With-Sun_dried-Tomato-And-Garlic-Crust-Epicurious,4,Chicken Breasts with Sun-Dried Tomato and Garlic Crust,Epicurious
+110,Garlic-and-Rosemary-Slow-Roasted-Turkey-MyRecipes-211621,4,Garlic and Rosemary Slow-Roasted Turkey,MyRecipes
+111,Apple-and-Horseradish-Glazed-Salmon-1354705,3,Apple and Horseradish-Glazed Salmon,Health
+112,Grilled-Lamb-Patties-My-Recipes,4,Grilled Lamb Patties,MyRecipes
+113,Prime-Rib-with-Horseradish-Cream-MyRecipes-220964,4,Prime Rib with Horseradish Cream,MyRecipes
+114,Maple-Glazed-Ribs-Allrecipes_1,5,Maple Glazed Ribs,AllRecipes
+115,Bacon-Wrapped-Meat-Loaf-1601308,4,Bacon-Wrapped Meat Loaf,Acadiana Table
+116,Fire-And-Spice-Ham-My-Recipes,4,Fire and Spice Ham,MyRecipes
+117,Slow-Cooker-Meatloaf-939649,4,Slow Cooker Meatloaf,Citronlimette
+118,Southern_Style-Buttermilk-Fried-Chicken-AllRecipes,5,Southern-Style Buttermilk Fried Chicken,AllRecipes
+119,Barbecued-Texas-Beef-Brisket-Epicurious-50509,5,Barbecued Texas Beef Brisket,Epicurious
+120,Poppy-Seed-Chicken-1076036,3,Poppy Seed Chicken,MyRecipes
+121,Barbecue-Roasted-Salmon-My-Recipes,5,Barbecue Roasted Salmon,MyRecipes
+122,One-Pan-Easy-Smoked-Sausage-Jambalaya-628794,3,One Pan Easy Smoked Sausage Jambalaya,GoodLife Eats
+123,Maple-Bourbon-Apple-Barbecue-Ribs-1224348,4,Maple-Bourbon Apple Barbecue Ribs,Snappy Gourmet
+124,Crawfish-Fettuccini-1108970,3,Crawfish Fettuccini,Louisiana Cookin'
+125,Leah-Chase_s-Oven_fried-Chicken-My-Recipes,4,Leah Chase's Oven-Fried Chicken,MyRecipes
+126,Pecan_-Bourbon-And-Cane-Syrup-Ham-514005,5,"Pecan, Bourbon And Cane Syrup Ham",Food Republic
+127,Merlot-Pot-Roast-With-Horseradish-Smashed-Potatoes-My-Recipes,4,Merlot Pot Roast with Horseradish Smashed Potatoes,MyRecipes
+128,Carolina-Grilled-Shrimp-My-Recipes,4,Carolina Grilled Shrimp,MyRecipes
+129,Classic-Meat-Loaf-My-Recipes_1,4,Classic Meat Loaf,MyRecipes
+130,Cajun-Jambalaya-490198,3,Cajun Jambalaya,Clean Eating
+131,Barbecued-Sticky-Ribs-Recipe-Taste-of-Home-44558,5,Barbecued Sticky Ribs Recipe,Taste of Home
+132,Fresh-Tuna-With-Tangy-Onions-My-Recipes,3,Fresh Tuna with Tangy Onions,MyRecipes
+133,Sticky-Spicy-Ribs-Epicurious-52691,5,Sticky Spicy Ribs,Epicurious
+134,Chicken-with-Lemon--Caper-Sauce-1035119,4,Chicken with Lemon- Caper Sauce,Recipe Girl
+135,Chicken-In-Lemon-Marinade-My-Recipes,4,Chicken in Lemon Marinade,MyRecipes
+136,Veal-Bacon-Meatloaf-1592291,4,Veal Bacon Meatloaf,Moore or Less Cooking Food Blog
+137,Cajun-Fried-Chicken-511662,5,Cajun Fried Chicken,Leite's Culinaria
+138,Sauteed-Worcestershire-Chicken-531113,4,Sautéed Worcestershire Chicken,MyRecipes
+139,Mom_s-Meat-Loaf-1033970,3,Mom's Meat Loaf,Taste of Home
+140,Lamb-Chops-With-Moroccan-Barbecue-Sauce-My-Recipes,4,Lamb Chops with Moroccan Barbecue Sauce,MyRecipes
+141,Smoky-Chipotle-Baby-Back-Ribs-My-Recipes,4,Smoky Chipotle Baby Back Ribs,MyRecipes
+142,Roasted-Oysters-Decadence-My-Recipes,4,Roasted Oysters Decadence,MyRecipes
+143,Grilled-Chicken-With-White-Barbecue-Sauce-My-Recipes,4,Grilled Chicken With White Barbecue Sauce,MyRecipes
+144,Crab-Cakes-with-Spicy-Pimento-Mayo-Serious-Eats-42260,4,Crab Cakes with Spicy Pimento Mayo,Serious Eats
+145,_15_000-crab-cakes-with-creole-mustard-sauce-314534,4,"$15,000 Crab Cakes with Creole Mustard Sauce",Saveur
+146,Roast-New-York-Strip-Loin-With-Adobo-Rub-Epicurious,5,Roast New York Strip Loin with Adobo Rub,Epicurious
+147,Grilled-Split-Lobster-With-Pesto-My-Recipes,4,Grilled Split Lobster with Pesto,MyRecipes
+148,Tavella-Family_s-Sausage-My-Recipes,4,Tavella Family's Sausage,MyRecipes
+149,Baked-Macaroni-and-Cheese-MyRecipes-207321,4,Baked Macaroni and Cheese,MyRecipes
+150,Baked-Sheepshead-On-Hoppin_-John-My-Recipes,3,Baked Sheepshead on Hoppin' John,MyRecipes
+151,CAJUN-CREOLE-CRAWFISH-PIE-MyRecipes-240305,4,CAJUN CREOLE CRAWFISH PIE,MyRecipes
+152,Spicy-Marinated-Eye-Of-Round-My-Recipes,4,Spicy Marinated Eye Of Round,MyRecipes
+153,Real-Texas-Chili-My-Recipes,4,Real Texas Chili,MyRecipes
+154,New-York-Strip-Roast-Dinner-1446928,4,New York Strip Roast Dinner,Gluten Free Crumbley
+155,Citrus-Roasted-Turkey-with-Lemon-Aioli-1455183,3,Citrus-Roasted Turkey with Lemon Aïoli,MyRecipes
+156,Pecan_crusted-Tilapia-My-Recipes,4,Pecan-Crusted Tilapia,MyRecipes
+157,Crawfish-Pie-441073,5,Crawfish Pie,Saveur
+158,New-Orleans-Style-Blackeye-Peas-1347098,3,New Orleans-Style Blackeye Peas,Camellia 
+159,Grilled-Grass_fed-Rib_eyes-With-Herb-Lemon-Butter-My-Recipes,4,Grilled Grass-fed Rib-eyes with Herb Lemon Butter,MyRecipes
+160,Crawfish-Jambalaya-1042281,4,Crawfish Jambalaya,Spicy Southern Kitchen
+161,Spice_rubbed-Sticky-Ribs-My-Recipes,4,Spice-Rubbed Sticky Ribs,MyRecipes
+162,Grilled-New-York-Steaks-My-Recipes,4,Grilled New York Steaks,MyRecipes
+163,Grilled-Steak-My-Recipes,3,Grilled Steak,MyRecipes
+164,Grilled-Balsamic_marinated-London-Broil-With-Red-Onions-Epicurious,5,Grilled Balsamic-Marinated London Broil with Red Onions,Epicurious
+165,Beef-Tenderloin-Steaks-With-Red-Wine_tarragon-Sauce-My-Recipes,4,Beef Tenderloin Steaks with Red Wine-Tarragon Sauce,MyRecipes
+166,Glazed-Turkey-Cutlets-And-Bell-Peppers-My-Recipes,4,Glazed Turkey Cutlets and Bell Peppers,MyRecipes
+167,Louisiana-Crawfish-Etouffee-Allrecipes,5,Louisiana Crawfish Etouffee,AllRecipes
+168,Spicy-Buttermilk-Fried-Chicken-1233547,4,Spicy Buttermilk Fried Chicken,Taste
+169,Honey_lime-Grilled-Chicken-My-Recipes,4,Honey-Lime Grilled Chicken,MyRecipes
+170,Southern-Oven-Fried-Chicken-1477028,4,Southern Oven-Fried Chicken,The Gracious Wife
+171,Southern-Style-Beef-Stew-Allrecipes,5,Southern Style Beef Stew,AllRecipes
+172,New-York-Strip-Steaks-with-Horseradish-Mustard-Sauce-1580202,4,New York Strip Steaks with Horseradish Mustard Sauce,Spicy Southern Kitchen
+173,Skillet-Roasted-Okra-and-Shrimp-1194155,3,Skillet-Roasted Okra and Shrimp,MyRecipes
+174,Orange_seared-Salmon-With-Almonds-My-Recipes,4,Orange-Seared Salmon with Almonds,MyRecipes
+175,Savory-Meat-Pie-TasteOfHome,5,Savory Meat Pie,Taste of Home
+176,Smoked-Paprika-Pork-Roast-with-Sticky-Stout-Barbecue-Sauce-1084542,3,Smoked Paprika Pork Roast with Sticky Stout Barbecue Sauce,MyRecipes
+177,New-Orleans-Red-Beans-And-Rice-1075686,3,New Orleans Red Beans And Rice,MyRecipes
+178,Andrew-Carmellini_s-Fried-Chicken-Serious-Eats-200666,5,Andrew Carmellini's Fried Chicken,Serious Eats
+179,Chinese-Hawaiian-_Barbecued_-Ribs-539168,5,"Chinese-Hawaiian ""Barbecued"" Ribs",Epicurious
+180,Grilled-Rib_eye-Steaks-My-Recipes,3,Grilled Rib-eye Steaks,MyRecipes
+181,Citrus_and_herb-Turkey-My-Recipes,4,Citrus-and-Herb Turkey,MyRecipes
+182,Lemon-Herb-Roasted-Turkey-Recipe-Taste-of-Home-44350,5,Lemon-Herb Roasted Turkey Recipe,Taste of Home
+183,Texas-Style-Chili-1513659,4,Texas Style Chili,Texas Cooking
+184,Simple-Baked-Ham-1086701,3,Simple Baked Ham,MyRecipes
+185,Barbecue-Meat-Loaf-My-Recipes,4,Barbecue Meat Loaf,MyRecipes
+186,Natalie_s-Cajun-Seasoned-Pan-Fried-Tilapia-1211532,3,Natalie's Cajun-Seasoned Pan-Fried Tilapia,MyRecipes
+187,Pork-Tenderloin-With-Pomegranate-Glaze-My-Recipes,4,Pork Tenderloin with Pomegranate Glaze,MyRecipes
+188,Molasses_glazed-Turkey-My-Recipes,4,Molasses-Glazed Turkey,MyRecipes
+189,Classic-Baked-Macaroni-and-Cheese-1191584,3,Classic Baked Macaroni and Cheese,MyRecipes
+190,Oven-Braised-Pork-Shoulder-With-Apple-Juice-786179,3,Oven Braised Pork Shoulder With Apple Juice,Southern Food About.com
+191,Roast-Turkey-with-Sage-Garlic-Butter-MyRecipes-211923,4,Roast Turkey with Sage Garlic Butter,MyRecipes
+192,Country_style-Grilled-Ribs-TasteOfHome,5,Country-Style Grilled Ribs,Taste of Home
+193,Southern-fried-catfish-371692,5,Southern Fried Catfish,The Kitchn
+194,Shrimp-With-Roasted-Red-Pepper-Cream-My-Recipes,4,Shrimp with Roasted Red Pepper Cream,MyRecipes
+195,Chicken-With-Sherry-Vinegar-Sauce-My-Recipes,4,Chicken with Sherry Vinegar Sauce,MyRecipes
+196,Roasted-Filet-Of-Beef-With-Stilton-And-Crispy-Shallots-My-Recipes,4,Roasted Filet of Beef with Stilton and Crispy Shallots,MyRecipes
+197,Bon-Ton-Style-Fried-Chicken-Epicurious-50809,5,Bon Ton-Style Fried Chicken,Epicurious
+198,Jambalaya-1251821,3,Jambalaya,Top Electric Pressurecooker.Com
+199,North-Carolina-Pulled-Pork-783461,3,North Carolina Pulled Pork,Southern Food About.com
+200,Grilled-Honey-And-Chile_glazed-Duck-Breast-My-Recipes,4,Grilled Honey and Chile-Glazed Duck Breast,MyRecipes
+201,College-Chicken-Casserole-My-Recipes,4,College Chicken Casserole,MyRecipes
+202,Delta_style-Fried-Catfish-My-Recipes,4,Delta-Style Fried Catfish,MyRecipes
+203,Grilled-New-Orleans_style-Shrimp-Epicurious,5,Grilled New Orleans-Style Shrimp,Epicurious
+204,Salmon-With-Roasted-Cherry-Tomatoes-My-Recipes,4,Salmon with Roasted Cherry Tomatoes,MyRecipes
+205,Herb-Roasted-Turkey-1156958,3,Herb-Roasted Turkey,Good Housekeeping
+206,Chicken-Fajita-Spuds-My-Recipes,4,Chicken Fajita Spuds,MyRecipes
+207,Belgian-Beef-and-Beer-Stew-MyRecipes-211606,4,Belgian Beef and Beer Stew,MyRecipes
+208,Classic-Baked-Ham-with-Maple-Mustard-Glaze-1087065,3,Classic Baked Ham with Maple-Mustard Glaze,MyRecipes
+209,Coca-Cola-Marinated-Ribs-with-Homemade-BBQ-Sauce-1475797,4,Coca-Cola Marinated Ribs with Homemade BBQ Sauce,What's Gaby Cooking
+210,Roast-Pork-Loin-With-Crumb-Crust-My-Recipes,4,Roast Pork Loin With Crumb Crust,MyRecipes
+211,Nashville-Style-Hot-Catfish-MyRecipes-265120,4,Nashville-Style Hot Catfish,MyRecipes
+212,Maple-glazed-roast-turkey-with-apple-cider-gravy-348233,5,Maple-Glazed Roast Turkey with Apple Cider Gravy,Every Day with Rachael Ray
+213,Braised-Herb-Chicken-Thighs-With-Potatoes-My-Recipes,4,Braised Herb Chicken Thighs with Potatoes,MyRecipes
+214,Strip-Steak-With-Rosemary-Butter-My-Recipes,4,Strip Steak With Rosemary Butter,MyRecipes
+215,Crawfish-Etouffee-Martha-Stewart-192042,4,Crawfish Etouffee,Martha Stewart
+216,Roasted-Sausages-With-Beer_braised-Onions-My-Recipes,4,Roasted Sausages with Beer-braised Onions,MyRecipes
+217,Classic-Roast-Turkey-My-Recipes_1,4,Classic Roast Turkey,MyRecipes
+218,Herbed-Pork-with-Sauteed-Wild-Mushrooms-1075647,3,Herbed Pork with Sautéed Wild Mushrooms,MyRecipes
+219,Steak-Balsamico-With-Mushrooms-MyRecipes-214629,4,Steak Balsamico With Mushrooms,MyRecipes
+220,Flying-Trapeze-Shrimp-My-Recipes,4,Flying Trapeze Shrimp,MyRecipes
+221,Flank-Steak-With-Caramelized-Onions-And-Balsamic-Glaze-My-Recipes,4,Flank Steak with Caramelized Onions and Balsamic Glaze,MyRecipes
+222,Glazed-Long-Island-Duck-My-Recipes,4,Glazed Long Island Duck,MyRecipes
+223,Salmon-With-Maple-Syrup-And-Toasted-Almonds-My-Recipes,4,Salmon with Maple Syrup and Toasted Almonds,MyRecipes
+224,Grilled-Vegetable-Pasta-My-Recipes,4,Grilled Vegetable Pasta,MyRecipes
+225,Marinated-Flank-Steak-My-Recipes_3,4,Marinated Flank Steak,MyRecipes
+226,Classic-Barbecue-Chicken-622525,3,Classic Barbecue Chicken,Gourmet
+227,Crawfish-Boil-My-Recipes,4,Crawfish Boil,MyRecipes
+228,Salt_and_pepper-Roast-Turkey-_tacchino-Arrosto-Con-Sale-E-Pepe_-My-Recipes,4,Salt-and-Pepper Roast Turkey (Tacchino Arrosto con Sale e Pepe),MyRecipes
+229,Texas-Style-Enchilada-Casserole-1119979,3,Texas-Style Enchilada Casserole,MyRecipes
+230,Baked-Ham-with-Bourbon-Glaze-1086252,3,Baked Ham with Bourbon Glaze,MyRecipes
+231,Honey_glazed-Grilled-Chicken-My-Recipes,4,Honey-Glazed Grilled Chicken,MyRecipes
+232,Pressure-Cooker-Chicken_-Sausage-and-Shrimp-Jambalaya---Instant-Pot-1502891,3,"Pressure Cooker Chicken, Sausage and Shrimp Jambalaya - Instant Pot",Essential Healthy Living
+233,California-Pizza-Kitchen-Style-Gluten-Free-BBQ-Chicken-Pizza-577480,4,California Pizza Kitchen-Style Gluten Free BBQ Chicken Pizza,Gluten-Free on a Shoestring
+234,Roast-Spiced-Turkey-My-Recipes,4,Roast Spiced Turkey,MyRecipes
+235,Flank-Steak-with-a-Balsamic-Glaze-and-Orange-Gremolata-1036794,4,Flank Steak with a Balsamic Glaze and Orange Gremolata,12Tomatoes
+236,Rib_eye-Grill-My-Recipes,3,Rib-eye Grill,MyRecipes
+237,Roasted-Prawns-With-Morels-And-Morel-Butter-Epicurious,4,Roasted Prawns with Morels and Morel Butter,Epicurious
+238,Roast-Turkey-With-Classic-Pan-Gravy-My-Recipes,4,Roast Turkey with Classic Pan Gravy,MyRecipes
+239,Mojo_marinated-Chicken-My-Recipes,4,Mojo-Marinated Chicken,MyRecipes
+240,Southern-Chicken-Fried-Steak-with-White-Gravy-1487813,4,Southern Chicken Fried Steak with White Gravy,The Gracious Wife
+241,Make_ahead-Cheese_and_hamburger-Casserole-My-Recipes,4,Make-Ahead Cheese-and-Hamburger Casserole,MyRecipes
+242,Grilled-Steak-And-Potatoes-With-Red-Onion-Relish-My-Recipes,3,Grilled Steak and Potatoes With Red Onion Relish,MyRecipes
+243,Slow_grilled-Pork-With-Ranch_barbecue-Sauce-My-Recipes,4,Slow-Grilled Pork With Ranch-Barbecue Sauce,MyRecipes
+244,Crab-Cakes-My-Recipes_1,4,Crab Cakes,MyRecipes
+245,Joan_s-Rosemary-Lamb-Chops-My-Recipes,4,Joan's Rosemary Lamb Chops,MyRecipes
+246,Crispy-Oven-Fried-Catfish-MyRecipes-245414,4,Crispy Oven-Fried Catfish,MyRecipes
+247,Maple_glazed-Roasted-Salmon-My-Recipes,4,Maple-Glazed Roasted Salmon,MyRecipes
+248,Bayou-Fish-Fillets-With-Sweet_hot-Pecan-Sauce-My-Recipes,4,Bayou Fish Fillets With Sweet-Hot Pecan Sauce,MyRecipes
+249,Hominy-Grill_s-Shrimp-And-Grits-My-Recipes,5,Hominy Grill's Shrimp and Grits,MyRecipes
+250,Rack-of-Lamb-with-Garlic-Herb-Crust-MyRecipes-234939,3,Rack of Lamb with Garlic-Herb Crust,MyRecipes
+251,Vegetable_pilaf-Stacks-My-Recipes,3,Vegetable-Pilaf Stacks,MyRecipes
+252,Filet-Mignon-with-Arugula-Salad-1339415,3,Filet Mignon with Arugula Salad,MyRecipes
+253,Dracula_s-Revenge-_baked-Penne-With-Sausage-And-Garlic_-My-Recipes,4,Dracula's Revenge (Baked Penne with Sausage and Garlic),MyRecipes
+254,Meatloaf-With-Barbecue-Glaze-792656,3,Meatloaf With Barbecue Glaze,Southern Food About.com
+255,Gulf-Of-Mexico-Gumbo-My-Recipes,4,Gulf of Mexico Gumbo,MyRecipes
+256,Southern-Fried-Chicken-with-Country-Gravy-Epicurious-53993,4,Southern Fried Chicken with Country Gravy,Epicurious
+257,Buttermilk-fried-chicken-371656,5,Buttermilk Fried Chicken,Taste
+258,Herbed-Pork-Tenderloin-With-Parmesan_pepper-Toasts-My-Recipes,3,Herbed Pork Tenderloin With Parmesan-Pepper Toasts,MyRecipes
+259,Smoked-Pork-Shoulder-My-Recipes,4,Smoked Pork Shoulder,MyRecipes
+260,Ribs-with-a-Kick-Recipe-Taste-of-Home-44271,5,Ribs with a Kick Recipe,Taste of Home
+261,Hickory_grilled-Rib_eye-Steaks-With-Bacon_molasses-Butter-Epicurious,5,Hickory-Grilled Rib-Eye Steaks with Bacon-Molasses Butter,Epicurious
+262,Barbecued-Chicken-476152,0,Barbecued Chicken,Annie's Eats
+263,Barbecued-Lime-Shrimp-And-Corn-My-Recipes,4,Barbecued Lime Shrimp and Corn,MyRecipes
+264,Baked-Ham-with-Mustard-Peach-Glaze-1086053,3,Baked Ham with Mustard-Peach Glaze,MyRecipes
+265,Lexington-Style-Grilled-Chicken-MyRecipes-228315,4,Lexington Style Grilled Chicken,MyRecipes
+266,Grilled-Lemon_basil-Snapper-With-Roasted-Peppers-My-Recipes,4,Grilled Lemon-Basil Snapper with Roasted Peppers,MyRecipes
+267,Smothered-Cajun-Cube-Steaks-1323538,4,Smothered Cajun Cube Steaks,Jam Hands
+268,Bacon-and-Blue-Cheese-Stuffed-Burgers-1054027,4,Bacon and Blue Cheese Stuffed Burgers,A Family Feast
+269,Two-Pepper-Rigatoni-and-Cheese-1095269,3,Two-Pepper Rigatoni and Cheese,MyRecipes
+270,Grilled-Tarragon_dijon-Thighs-My-Recipes,3,Grilled Tarragon-Dijon Thighs,MyRecipes
+271,Wild-Mushroom-And-Beef-Stew-My-Recipes,4,Wild Mushroom and Beef Stew,MyRecipes
+272,BBQ-Baby-Back-Ribs-599990,3,BBQ Baby Back Ribs,What's Gaby Cooking
+273,Buffalo-Chicken-Mac-And-Cheese-1121663,4,Buffalo Chicken Mac And Cheese,Rainy Day Gal
+274,Surf-N-Turf-Pimento-Burger-With-Cajun-Remoulade-1223222,4,Surf N’ Turf Pimento Burger With Cajun Remoulade,Climbing Grier Mountain
+275,Leftover-Turkey-Pot-Pie-with-Cheddar-Biscuit-Crust-493694,4,Leftover Turkey Pot Pie with Cheddar Biscuit Crust,Just a Taste
+276,Saucy-Smothered-Southern-Chicken-with-Parmesan-Grits-1067169,4,Saucy Smothered Southern Chicken with Parmesan Grits,Iowa Girl Eats
+277,Barbecued-Duck-with-Mango-Salsa-MyRecipes-269576,3,Barbecued Duck with Mango Salsa,MyRecipes
+278,Braised-Chicken-With-Apples-And-Sage-Epicurious,4,Braised Chicken with Apples and Sage,Epicurious
+279,Grilled-Rib_eye-Steaks-With-Miso-Butter-My-Recipes,4,Grilled Rib-eye Steaks with Miso Butter,MyRecipes
+280,Beef-Chipotle-Chili-456225,5,Beef-Chipotle Chili,Williams-Sonoma
+281,Pan_seared-Scallops-On-Linguine-With-Tomato_cream-Sauce-My-Recipes,4,Pan-Seared Scallops on Linguine with Tomato-Cream Sauce,MyRecipes
+282,Spaghetti-With-White-Clam-Sauce-My-Recipes,4,Spaghetti with White Clam Sauce,MyRecipes
+283,Roast-Pork-Tenderloin-With-Fresh-And-Dried-Fruit-Epicurious_1,4,Roast Pork Tenderloin with Fresh and Dried Fruit,Epicurious
+284,Cider-and-Sage-Pork-MyRecipes-238324,4,Cider and Sage Pork,MyRecipes
+285,Creole-Deep-Fried-Turkey-MyRecipes-240040,4,Creole Deep-Fried Turkey,MyRecipes
+286,Crawfish-Macque-Choux-with-Fried-Eggplant-1033166,4,Crawfish Macque Choux with Fried Eggplant,Lousiana Kitchen Culture
+287,Jambalaya-Pasta-with-Crawfish-and-Sausage-1495979,4,Jambalaya Pasta with Crawfish and Sausage,Bobbi's Kozy Kitchen
+288,Apple-_-Horseradish-Glazed-Salmon-607777,3,Apple & Horseradish Glazed Salmon,Cookie Rookie
+289,Winter_vegetable-Stew-With-Sunchokes-My-Recipes,3,Winter-Vegetable Stew with Sunchokes,MyRecipes
+290,Turkey-Jambalaya-My-Recipes,4,Turkey Jambalaya,MyRecipes
+291,Crook_s-Corner-Shrimp-and-Grits-1084558,3,Crook's Corner Shrimp and Grits,MyRecipes
+292,Cider-Brined-Turkey-963942,4,Cider-Brined Turkey,Eating Well
+293,Blackberry_mustard-Glazed-Ham-My-Recipes,4,Blackberry-Mustard Glazed Ham,MyRecipes
+294,Grilled-Pacific-Halibut-With-Rhubarb-Compote-And-Balsamic-Strawberries-My-Recipes,4,Grilled Pacific Halibut with Rhubarb Compote and Balsamic Strawberries,MyRecipes
+295,Apple-And-Horseradish_glazed-Salmon-My-Recipes,4,Apple and Horseradish-Glazed Salmon,MyRecipes
+296,Crawfish-Etouffee-546888,4,Crawfish Etouffée,Epicurious
+297,Beef-Tenderloin-With-Mustard_tarragon-Cream-Sauce-My-Recipes,4,Beef Tenderloin with Mustard-Tarragon Cream Sauce,MyRecipes
+298,The-crawfish-boil-350627,4,The Crawfish Boil,MyRecipes
+299,Beef-Tenderloin-With-Horseradish_and_roasted-Garlic-Crust-My-Recipes,4,Beef Tenderloin with Horseradish-and-Roasted Garlic Crust,MyRecipes
+300,Feta-Chicken-and-Vegetables-1270149,3,Feta Chicken and Vegetables,MyRecipes
+301,Orange_glazed-Cornish-Hens-My-Recipes,4,Orange-Glazed Cornish Hens,MyRecipes
+302,Orange_bourbon-Turkey-My-Recipes,4,Orange-Bourbon Turkey,MyRecipes
+303,Broccoli-Rabe-And-Cheese-Pizza-My-Recipes,3,Broccoli Rabe and Cheese Pizza,MyRecipes
+304,Rosemary_rubbed-Duck-Breast-With-Caramelized-Apricots-My-Recipes,4,Rosemary-Rubbed Duck Breast with Caramelized Apricots,MyRecipes
+305,Broiled-Salmon-Over-Parmesan-Grits-My-Recipes,4,Broiled Salmon Over Parmesan Grits,MyRecipes
+306,Quince_glazed-Cornish-Hens-My-Recipes,4,Quince-Glazed Cornish Hens,MyRecipes
+307,Cajun-Oven_fried-Chicken-My-Recipes,4,Cajun Oven-Fried Chicken,MyRecipes
+308,Citrus-Scallops-My-Recipes,4,Citrus Scallops,MyRecipes
+309,Chicken-Breasts-Stuffed-With-Goat-Cheese_-Caramelized-Spring-Onions_-And-Thyme-My-Recipes,4,"Chicken Breasts Stuffed with Goat Cheese, Caramelized Spring Onions, and Thyme",MyRecipes
+310,Jambalaya-Stew-My-Recipes,4,Jambalaya Stew,MyRecipes
+311,Link-family-crawfish-boil-360691,4,Link Family Crawfish Boil,Epicurious
+312,Go-To-Crawfish-Etouffee-AllRecipes-38887,5,Go-To Crawfish Etouffee,AllRecipes
+313,California-Three-Bean-Chili-1492996,3,California Three Bean Chili,McCormick
+314,Slow-Roasted-Beef-with-Creamy-Mashed-Potatoes-MyRecipes-227796,4,Slow-Roasted Beef with Creamy Mashed Potatoes,MyRecipes
+315,Pistachio_encrusted-Rack-Of-Lamb-My-Recipes,4,Pistachio-Encrusted Rack of Lamb,MyRecipes
+316,Chicken-In-Wine-Cream-Sauce-My-Recipes,4,Chicken in Wine Cream Sauce,MyRecipes
+317,Tomato-Barbecue-Baby-Back-Ribs-Epicurious-52450,5,Tomato Barbecue Baby Back Ribs,Epicurious
+318,Salmon-With-Orange_fennel-Sauce-My-Recipes,4,Salmon with Orange-Fennel Sauce,MyRecipes
+319,Southern-Fried-Catfish-1622513,4,Southern Fried Catfish,AllRecipes
+320,Trout-with-Green-Bean-Succotash-490372,3,Trout with Green Bean Succotash,Clean Eating
+321,Louisiana-Crawfish-Boil-Allrecipes,5,Louisiana Crawfish Boil,AllRecipes
+322,Simple-Roast-Turkey-With-Rich-Turkey-Gravy-Epicurious,5,Simple Roast Turkey with Rich Turkey Gravy,Epicurious
+323,Cajun_baked-Catfish-My-Recipes,4,Cajun-Baked Catfish,MyRecipes
+324,New-Orleans-_Best_-Gumbo-1444726,3,"New Orleans ""Best"" Gumbo",Betty Crocker
+325,Grilled-Salmon-with-Mango-Salsa-MyRecipes-209572,4,Grilled Salmon with Mango Salsa,MyRecipes
+326,Mushroom-Rigatoni-Bake-My-Recipes,4,Mushroom Rigatoni Bake,MyRecipes
+327,Southwestern-Mac-and-Cheese-992520,3,Southwestern Mac and “Cheese”,Forks Over Knives
+328,Pork-Chops-With-Cumin-And-Orange-My-Recipes,4,Pork Chops with Cumin and Orange,MyRecipes
+329,Tex-Mex-Fajitas-1086471,3,Tex-Mex Fajitas,MyRecipes
+330,Raspberry_barbecue-Chicken-My-Recipes,4,Raspberry-Barbecue Chicken,MyRecipes
+331,Oriental-Hens-MyRecipes-229412,4,Oriental Hens,MyRecipes
+332,New-Orleans-BBQ-Shrimp-1494980,4,New Orleans BBQ Shrimp,Grumpy's Honeybunch
+333,Southwestern-Stuffed-Acorn-Squash-768791,4,Southwestern Stuffed Acorn Squash,Eating Well
+334,Sausage-And-Peppers-With-Parmesan-Cheese-Grits-My-Recipes,4,Sausage and Peppers With Parmesan Cheese Grits,MyRecipes
+335,The-ultimate-smoky_-sweet-ribs-354872,4,"The Ultimate Smoky, Sweet Ribs",MyRecipes
+336,Grilled-Chicken-With-Root-Beer-Barbecue-Sauce-Epicurious,5,Grilled Chicken with Root Beer Barbecue Sauce,Epicurious
+337,Sweet-Barbecue-Chicken-My-Recipes,4,Sweet Barbecue Chicken,MyRecipes
+338,Peppered-Beef-Tenderloin-With-Portobello-Marsala-Sauce-1086876,3,Peppered Beef Tenderloin With Portobello-Marsala Sauce,MyRecipes
+339,Asparagus-Sole-Rolls-My-Recipes,4,Asparagus Sole Rolls,MyRecipes
+340,Spicy-Pork-Ribs-1085451,3,Spicy Pork Ribs,MyRecipes
+341,Sage-Pesto-Rubbed-Roast-Chicken-MyRecipes-267412,4,Sage Pesto-Rubbed Roast Chicken,MyRecipes
+342,Raspberry_balsamic-Glazed-Chicken-My-Recipes,4,Raspberry-Balsamic Glazed Chicken,MyRecipes
+343,Tex_mex-Flank-Steak-And-Vegetables-My-Recipes,4,Tex-Mex Flank Steak and Vegetables,MyRecipes
+344,Brunswick-Stew-My-Recipes_4,4,Brunswick Stew,MyRecipes
+345,Bev_s-Famous-Meatloaf-1076605,3,Bev's Famous Meatloaf,MyRecipes
+346,Shrimp-Casserole-My-Recipes,4,Shrimp Casserole,MyRecipes
+347,One_pan-Whiskey_flavored-Pork-Chops-My-Recipes,4,One-Pan Whiskey-Flavored Pork Chops,MyRecipes
+348,Chicken-And-Baby-Carrots-With-Lemon-And-Chives-My-Recipes,3,Chicken and Baby Carrots with Lemon and Chives,MyRecipes
+349,Glazed-Fried-Chicken-with-Old-Bay-and-Cayenne-1205138,3,Glazed Fried Chicken with Old Bay and Cayenne,Bon Appétit
+350,Leeks-And-Peppers-With-Linguine-My-Recipes,4,Leeks and Peppers with Linguine,MyRecipes
+351,Roasted-Flank-Steak-With-Olive-Oil_herb-Rub-My-Recipes,4,Roasted Flank Steak with Olive Oil-Herb Rub,MyRecipes
+352,Crispy-Oven_fried-Catfish-My-Recipes,4,Crispy Oven-Fried Catfish,MyRecipes
+353,Herb-Crusted-Salmon-with-Mixed-Greens-Salad-MyRecipes-235444,4,Herb-Crusted Salmon with Mixed Greens Salad,MyRecipes
+354,Quick-Turkey-Chili-My-Recipes,4,Quick Turkey Chili,MyRecipes
+355,Easy-Black-Eyed-Peas-1086494,3,Easy Black-Eyed Peas,MyRecipes
+356,Rib_eye-Steaks-With-Bell-Peppers-And-Gorgonzola-Butter-Epicurious,5,Rib-Eye Steaks with Bell Peppers and Gorgonzola Butter,Epicurious
+357,Grilled-Balsamic-Pork-Tenderloin-My-Recipes,4,Grilled Balsamic Pork Tenderloin,MyRecipes
+358,Garlic-Rosemary-Crusted-Rack-of-Lamb-MyRecipes-209429,3,Garlic-Rosemary-Crusted Rack of Lamb,MyRecipes
+359,Pork-Medallions-With-Double_apple-Sauce-My-Recipes,3,Pork Medallions with Double-Apple Sauce,MyRecipes
+360,Spice_rubbed-Roast-Turkey-My-Recipes,4,Spice-rubbed Roast Turkey,MyRecipes
+361,Crawfish-Boil-512072,5,Crawfish Boil,Leite's Culinaria
+362,Seared-Scallops-with-Parsley-Thyme-Relish-MyRecipes-271397,3,Seared Scallops with Parsley-Thyme Relish,MyRecipes
+363,Citrus-Chicken-1318764,3,Citrus Chicken,MyRecipes
+364,Two-Herb-Roasted-Turkey-with-Bourbon-Gravy-MyRecipes-234949,3,Two Herb-Roasted Turkey with Bourbon Gravy,MyRecipes
+365,Sauteed-Chicken-with-Sage-Browned-Butter-1104777,3,Sautéed Chicken with Sage Browned Butter,MyRecipes
+366,Grilled-Lamb-Chops-With-Lemon-Tarragon-Aioli-and-Orange-Gremolata-559949,4,Grilled Lamb Chops With Lemon-Tarragon Aïoli and Orange Gremolata,MyRecipes
+367,New-Orleans-Barbecued-Shrimp-1247933,3,New Orleans Barbecued Shrimp,BigOven
+368,Gluten-Free-Crispy-Fried-Chicken-1097390,4,Gluten-Free Crispy Fried Chicken,Silvana's Kitchen
+369,Grilled-Beef-With-Mashed-Potatoes-And-Chipotle-Cream-My-Recipes,3,Grilled Beef with Mashed Potatoes and Chipotle Cream,MyRecipes
+370,Crawfish-Etouffee-1076303,3,Crawfish Étouffée,MyRecipes
+371,Multicolored_pepper-Steaks-With-Balsamic-Onions-My-Recipes,4,Multicolored-Pepper Steaks with Balsamic Onions,MyRecipes
+372,Flank-Steak-With-Radish-Salsa-MyRecipes-213994,4,Flank Steak With Radish Salsa,MyRecipes
+373,Pan_seared-Scallops-With-Cilantro_celery-Mayonnaise-My-Recipes,4,Pan-Seared Scallops with Cilantro-Celery Mayonnaise,MyRecipes
+374,Gabrielles-Crawfish-Enchiladas-1248037,3,Gabrielles Crawfish Enchiladas,BigOven
+375,Macadamia_mango-Chicken-My-Recipes_1,4,Macadamia-Mango Chicken,MyRecipes
+376,Chicken_andouille-Gumbo-My-Recipes,4,Chicken-Andouille Gumbo,MyRecipes
+377,Ham-With-Champagne-And-Vanilla-Glaze-My-Recipes,4,Ham with Champagne and Vanilla Glaze,MyRecipes
+378,Creamed-Oysters-In-Acorn-Squash-My-Recipes,3,Creamed Oysters in Acorn Squash,MyRecipes
+379,Southern-Fried-Chicken-With-Cream-Gravy-1451127,3,Southern Fried Chicken With Cream Gravy,Southern Food About.com
+380,Potato-and-Herb-Crusted-Snapper-with-Yellow-Pepper-Salsa-MyRecipes-267623,4,Potato-and-Herb Crusted Snapper with Yellow Pepper Salsa,MyRecipes
+381,Pasta-With-Scallops-And-Lemon-My-Recipes,3,Pasta with Scallops and Lemon,MyRecipes
+382,Louisiana-Crawfish-Boil-1608743,4,Louisiana Crawfish Boil,AllRecipes
+383,Salmon-On-Greens-With-Lime_ginger-Dressing-My-Recipes,4,Salmon on Greens with Lime-Ginger Dressing,MyRecipes
+384,Autumn-Vegetable-Ragout-With-Soft-Polenta-My-Recipes,4,Autumn Vegetable Ragout with Soft Polenta,MyRecipes
+385,Grilled-Herbed-Pork-Tenderloin-1075828,3,Grilled Herbed Pork Tenderloin,MyRecipes
+386,Cajun-Steak-Frites-with-Kale-1211317,3,Cajun Steak Frites with Kale,MyRecipes
+387,Open_faced-Burgers-With-Onion_mushroom-Topping-My-Recipes,4,Open-Faced Burgers with Onion-Mushroom Topping,MyRecipes
+388,Seared-Scallops-On-Spinach-With-Apple_brandy-Cream-Sauce-Epicurious,5,Seared Scallops on Spinach with Apple-Brandy Cream Sauce,Epicurious
+389,Filet-Mignon-With-Mushroom_wine-Sauce-My-Recipes_1,4,Filet Mignon with Mushroom-Wine Sauce,MyRecipes
+390,Jerk-Turkey-Tenderloin-With-Raspberry_chipotle-Sauce-My-Recipes,4,Jerk Turkey Tenderloin With Raspberry-Chipotle Sauce,MyRecipes
+391,Pasta-Shells-With-Corn-And-Bacon-My-Recipes,4,Pasta Shells with Corn and Bacon,MyRecipes
+392,Spiced-Fillet-Of-Trout-My-Recipes,4,Spiced Fillet of Trout,MyRecipes
+393,Skirt-Steak-with-Green-Olive-Tapenade-MyRecipes-246281,4,Skirt Steak with Green Olive Tapenade,MyRecipes
+394,Shrimp-And-Tomatoes-With-Cheese-Grits-My-Recipes,4,Shrimp and Tomatoes with Cheese Grits,MyRecipes
+395,Chicken_and_rice-My-Recipes,4,Chicken-and-Rice,MyRecipes
+396,Rib-Eye-Steak-with-Warm-Tomato-Corn-Salad-600285,3,Rib-Eye Steak with Warm Tomato Corn Salad,Ezra Pound Cake
+397,Chicken-With-Green-Apple_chipotle-Salsa-My-Recipes,4,Chicken with Green Apple-Chipotle Salsa,MyRecipes
+398,Grilled-Steak-And-Onions-With-Rosemary_balsamic-Butter-Sauce-Epicurious,4,Grilled Steak and Onions with Rosemary-Balsamic Butter Sauce,Epicurious
+399,Rosemary-Dijon-Crusted-Standing-Rib-Roast-1177282,3,Rosemary-Dijon Crusted Standing Rib Roast,MyRecipes
+400,Quick-Cincinnati_style-Chili-Epicurious,4,Quick Cincinnati-Style Chili,Epicurious
+401,Pan_seared-Scallops-With-Ginger_orange-Spinach-My-Recipes,4,Pan-Seared Scallops with Ginger-Orange Spinach,MyRecipes
+402,Fettuccine-With-Blue-Cheese-Sauce-My-Recipes,4,Fettuccine with Blue Cheese Sauce,MyRecipes
+403,Pork-With-Port-Wine-And-Raisin-Sauce-My-Recipes,4,Pork with Port Wine and Raisin Sauce,MyRecipes
+404,Bourbon-Glazed-Ham-1086933,3,Bourbon-Glazed Ham,MyRecipes
+405,Orange_glazed-Pork-Roast-My-Recipes,4,Orange-Glazed Pork Roast,MyRecipes
+406,Pineapple-Glazed-Ham-MyRecipes-249743,4,Pineapple-Glazed Ham,MyRecipes
+407,Lamb-Chops-with-Cherry-Balsamic-Glaze-488948,4,Lamb Chops with Cherry Balsamic Glaze,Love and Olive Oil
+408,Black-Eyed-Peas-with-Ham-Hock-Serious-Eats-42201,5,Black Eyed Peas with Ham Hock,Serious Eats
+409,New-Orleans_style-Shrimp-My-Recipes,4,New Orleans-Style Shrimp,MyRecipes
+410,New-Orleans-Gumbo-1440784,3,New Orleans Gumbo,MyRecipes
+411,Crawfish-And-Rice-Casserole-My-Recipes,4,Crawfish and Rice Casserole,MyRecipes
+412,Chicken_fried-Steak-My-Recipes_2,4,Chicken-Fried Steak,MyRecipes
+413,Peppered-Steak-With-Horseradish_chive-Cream-My-Recipes,4,Peppered Steak with Horseradish-Chive Cream,MyRecipes
+414,Pan_roasted-Chicken-Cutlets-With-Maple_mustard-Dill-Sauce-My-Recipes,4,Pan-Roasted Chicken Cutlets with Maple-Mustard Dill Sauce,MyRecipes
+415,Rotini-And-Cheese-With-Broccoli-And-Ham-My-Recipes,4,Rotini and Cheese with Broccoli and Ham,MyRecipes
+416,Beef-Carbonnade-1229065,3,Beef Carbonnade,MyRecipes
+417,Citrus_roasted-Salmon-My-Recipes,4,Citrus-Roasted Salmon,MyRecipes
+418,Chicken_and_smoked-Sausage-Pilau-My-Recipes,4,Chicken-and-Smoked Sausage Pilau,MyRecipes
+419,Two-Bean-and-Bison-Chili-1440004,4,Two Bean and Bison Chili,The Kittchen
+420,Barbecued-Chicken-Pizza-My-Recipes,4,Barbecued Chicken Pizza,MyRecipes
+421,Chicken-Breasts-Stuffed-With-Goat-Cheese-And-Sun_dried-Tomatoes-My-Recipes,5,Chicken Breasts Stuffed with Goat Cheese and Sun-Dried Tomatoes,MyRecipes
+422,Country-Ham-Gratin-My-Recipes,3,Country Ham Gratin,MyRecipes
+423,Nashville-Hot-Turkey-749223,3,Nashville Hot Turkey,MyRecipes
+424,Seared-Mahimahi-with-Edamame-Succotash-MyRecipes-214685,4,Seared Mahimahi with Edamame Succotash,MyRecipes
+425,Okra-Creole-1075692,3,Okra Creole,MyRecipes
+426,Company-Pork-Roast-My-Recipes,3,Company Pork Roast,MyRecipes
+427,Southern-style-fried-chicken-358933,4,Southern-Style Fried Chicken,Epicurious
+428,Peppered-Rib_eye-Steaks-My-Recipes,4,Peppered Rib-Eye Steaks,MyRecipes
+429,Lexington-Style-Grilled-Chicken-MyRecipes-228239,4,Lexington-Style Grilled Chicken,MyRecipes
+430,Savory-Braised_pork-Supper-My-Recipes,4,Savory Braised-Pork Supper,MyRecipes
+431,Turkey-Meat-Loaf-MyRecipes-209279,4,Turkey Meat Loaf,MyRecipes
+432,Linguine-With-Clam-Sauce-My-Recipes_5,4,Linguine with Clam Sauce,MyRecipes
+433,Slow_cooker-Meat-Loaf-With-Shiitake-Mushrooms-My-Recipes,4,Slow-Cooker Meat Loaf with Shiitake Mushrooms,MyRecipes
+434,Orange-Halibut-With-Quinoa-My-Recipes,4,Orange Halibut with Quinoa,MyRecipes
+435,Fleur_de_lis-Chicken-My-Recipes,4,Fleur-de-Lis Chicken,MyRecipes
+436,Grilled-Salmon-w_-Nectarine--Onion-Relish-472071,4,Grilled Salmon w/ Nectarine- Onion Relish,Recipe Girl
+437,Crown-Roast-Of-Pork-My-Recipes_1,4,Crown Roast of Pork,MyRecipes
+438,Molasses-Pork-Tenderloin-With-Red-Wine-Sauce-My-Recipes,4,Molasses Pork Tenderloin with Red Wine Sauce,MyRecipes
+439,Terry_s-Barbecued-Ribs-1177435,3,Terry's Barbecued Ribs,MyRecipes
+440,Beef-Braised-With-Red-Wine-And-Mushrooms-My-Recipes,4,Beef Braised with Red Wine and Mushrooms,MyRecipes
+441,Hamburger-Steak-My-Recipes,4,Hamburger Steak,MyRecipes
+442,Chili-Cornbread-Casserole-1499568,4,Chili Cornbread Casserole,Eating Well
+443,Grilled-Chicken-with-Lemon_-Garlic_-and-Oregano-1628045,3,"Grilled Chicken with Lemon, Garlic, and Oregano",Epicurious
+444,Southern-Chicken-and-Noodle-Casserole-1337133,3,Southern Chicken and Noodle Casserole,Southern Food About.com
+445,Apple-Bourbon-Turkey-and-Gravy-MyRecipes-240083,4,Apple-Bourbon Turkey and Gravy,MyRecipes
+446,Pork-Roast-With-Carolina-Gravy-MyRecipes-213918,4,Pork Roast With Carolina Gravy,MyRecipes
+447,Grilled-Salmon-With-Blackberry_cabernet-Coulis-My-Recipes,4,Grilled Salmon with Blackberry-Cabernet Coulis,MyRecipes
+448,Maryland-Crab-Cakes-My-Recipes_1,3,Maryland Crab Cakes,MyRecipes
+449,Balsamic_-And-Dijon_glazed-Ham-With-Roasted-Pearl-Onions-Epicurious,5,Balsamic- and Dijon-Glazed Ham with Roasted Pearl Onions,Epicurious
+450,Wild-Rice-Crab-Cakes-My-Recipes,4,Wild Rice Crab Cakes,MyRecipes
+451,Pine-Nut_crusted-Pacific-Salmon-My-Recipes,4,Pine Nut-crusted Pacific Salmon,MyRecipes
+452,Herb-Butter-Burgers-My-Recipes,4,Herb Butter Burgers,MyRecipes
+453,Orange-Glazed-Salmon-Fillets-with-Rosemary-1091765,3,Orange-Glazed Salmon Fillets with Rosemary,MyRecipes
+454,Tomato_herb-Pasta-My-Recipes,4,Tomato-Herb Pasta,MyRecipes
+455,Polenta-Triangles-with-Goat-Cheese-and-Wild-Mushrooms-MyRecipes-222777,3,Polenta Triangles with Goat Cheese and Wild Mushrooms,MyRecipes
+456,Chicken-And-Rice-With-Caramelized-Onions-My-Recipes,4,Chicken and Rice with Caramelized Onions,MyRecipes
+457,Slow-cooked-Barbecued-Chicken-1076136,3,Slow-cooked Barbecued Chicken,MyRecipes
+458,Hoppin_-John-With-Mustard-Greens-My-Recipes,4,Hoppin' John with Mustard Greens,MyRecipes
+459,Grilled-Tuna-Steak-with-Fresh-Salsa-MyRecipes-222742,4,Grilled Tuna Steak with Fresh Salsa,MyRecipes
+460,Barbecued-Flank-Steak-With-Chutney_bourbon-Glaze-My-Recipes,4,Barbecued Flank Steak with Chutney-Bourbon Glaze,MyRecipes
+461,Baked-Shrimp-with-Feta-Cheese-1085631,3,Baked Shrimp with Feta Cheese,MyRecipes
+462,New-Orleans-Gumbo-523631,3,New Orleans Gumbo,MyRecipes
+463,Jambalaya-My-Recipes_3,3,Jambalaya,MyRecipes
+464,Duck-With-Port-And-Cranberry_cherry-Sauce-My-Recipes,4,Duck with Port and Cranberry-Cherry Sauce,MyRecipes
+465,Barbecue-Shrimp-My-Recipes,4,Barbecue Shrimp,MyRecipes
+466,Citrus-Glazed-Scallops-with-Avocado-Salsa-MyRecipes-271106,4,Citrus-Glazed Scallops with Avocado Salsa,MyRecipes
+467,Maple-Glazed-Lamb-Chops-With-Zesty-Horseradish-Sauce-1128594,3,Maple-Glazed Lamb Chops With Zesty Horseradish Sauce,MyRecipes
+468,Chicken-with-Lemon-Caper-Sauce-1075415,3,Chicken with Lemon-Caper Sauce,MyRecipes
+469,Grilled-Pork-Tenderloin-with-Apple-Sage-Sauce-MyRecipes-212175,3,Grilled Pork Tenderloin with Apple Sage Sauce,MyRecipes
+470,Sauteed-Shrimp-with-Cranberry-Citrus-Salsa-559385,3,Sautéed Shrimp with Cranberry-Citrus Salsa,MyRecipes
+471,Orange_spiced-Salmon-With-Spaghetti-Squash-My-Recipes,4,Orange-Spiced Salmon with Spaghetti Squash,MyRecipes
+472,Herb-Roasted-Turkey-1529491,3,Herb Roasted Turkey,Traeger Grills
+473,Oven_roasted-Sea-Bass-With-Couscous-And-Warm-Tomato-Vinaigrette-My-Recipes,4,Oven-Roasted Sea Bass with Couscous and Warm Tomato Vinaigrette,MyRecipes
+474,Smoked-Pork-My-Recipes_1,3,Smoked Pork,MyRecipes
+475,Glazed-Duck-With-Clementine-Sauce-Epicurious,5,Glazed Duck with Clementine Sauce,Epicurious
+476,Farmhouse-Roast-Turkey-With-Rosemary-Gravy-My-Recipes,4,Farmhouse Roast Turkey with Rosemary Gravy,MyRecipes
+477,Smoked-Trout-My-Recipes_2,4,Smoked Trout,MyRecipes
+478,Grilled-Pork-With-Blackberry_sage-Sauce-My-Recipes,4,Grilled Pork with Blackberry-Sage Sauce,MyRecipes
+479,Roasted-Chicken-With-Lemons-And-Thyme-My-Recipes,4,Roasted Chicken with Lemons and Thyme,MyRecipes
+480,Grilled-Marinated-Lamb-Chops-With-Balsamic-Cherry-Tomatoes-Epicurious,5,Grilled Marinated Lamb Chops with Balsamic Cherry Tomatoes,Epicurious
+481,Two_step-Rack-Of-Lamb-My-Recipes,4,Two-Step Rack of Lamb,MyRecipes
+482,Spice-Rubbed-Flank-Steak-with-Spicy-Peach-Bourbon-Sauce-MyRecipes-268344,4,Spice-Rubbed Flank Steak with Spicy Peach-Bourbon Sauce,MyRecipes
+483,Pork-Roast-With-White-Beans-And-Cranberries-My-Recipes,4,Pork Roast with White Beans and Cranberries,MyRecipes
+484,Fennel_crusted-Trout-With-Lemon_ginger-Vinaigrette-My-Recipes,3,Fennel-Crusted Trout with Lemon-Ginger Vinaigrette,MyRecipes
+485,French_bread-Pizza-With-Sausage_-Clams_-And-Mushrooms-My-Recipes,4,"French-Bread Pizza with Sausage, Clams, and Mushrooms",MyRecipes
+486,All-American-Chili-1231009,3,All-American Chili,MyRecipes
+487,Crab-Cakes-over-Mixed-Greens-with-Lemon-Dressing-MyRecipes-211059,3,Crab Cakes over Mixed Greens with Lemon Dressing,MyRecipes
+488,Fennel-Rubbed-Pork-with-Shallot-Pomegranate-Reduction-MyRecipes-214232,4,Fennel-Rubbed Pork with Shallot-Pomegranate Reduction,MyRecipes
+489,West-Indies-Shrimp-My-Recipes,4,West Indies Shrimp,MyRecipes
+490,Slow-Roasted-Turkey-with-Cream-Gravy-MyRecipes-239915,4,Slow-Roasted Turkey with Cream Gravy,MyRecipes
+491,Turkey-Mushroom-Bread-Pudding-1085650,3,Turkey-Mushroom Bread Pudding,MyRecipes
+492,Parmesan-Pecan-Fried-Chicken-MyRecipes-247096,3,Parmesan-Pecan Fried Chicken,MyRecipes
+493,Skillet-Ham-with-Ginger-Peach-Glaze-MyRecipes-269154,3,Skillet Ham with Ginger-Peach Glaze,MyRecipes
+494,Grilled-Salmon-In-Tomato-Water-My-Recipes,3,Grilled Salmon in Tomato Water,MyRecipes
+495,Garlic_and_herb-Stuffed-Leg-Of-Lamb-My-Recipes,4,Garlic-and-Herb Stuffed Leg of Lamb,MyRecipes
+496,Braised-Short-Ribs-My-Recipes_2,4,Braised Short Ribs,MyRecipes
+497,Grouper-With-Tomatillo_and_green-Chile-Chutney-My-Recipes,3,Grouper with Tomatillo-and-Green Chile Chutney,MyRecipes
+498,Chicken-With-Cranberry_port-Sauce-My-Recipes,4,Chicken with Cranberry-Port Sauce,MyRecipes
+499,Cornmeal-Crusted-Tilapia-with-Tomatillo-Salsa-MyRecipes-214726,4,Cornmeal-Crusted Tilapia with Tomatillo Salsa,MyRecipes
