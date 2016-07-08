@@ -1,0 +1,502 @@
+,id,rating,recipeName,sourceDisplayName
+0,Apple-Coleslaw-1680966,4,Apple Coleslaw,FoodForYourGood.com
+1,Watermelon-Salad-with-Mint-and-Feta-1668127,4,Watermelon Salad with Mint and Feta,The Organic Kitchen
+2,Sweet-Kale-Salad-1693185,4,Sweet Kale Salad,ifoodreal
+3,Vegan-Texas-Caviar-1707874,4,Vegan Texas Caviar,Veggie Souls
+4,Kale-and-Broccoli-Salad-with-Poppyseed-Dressing-1705418,4,Kale and Broccoli Salad with Poppyseed Dressing,Fox Valley Foodie
+5,Broccoli-Apple-Salad-1708387,4,Broccoli Apple Salad,foodjazz
+6,Kale-Superfood-Salad-with-Quinoa-and-Blueberries-1709347,4,Kale Superfood Salad with Quinoa and Blueberries,Kristine's Kitchen
+7,Fresh-_-Crisp-Jicama-Mango-Salad-1709442,4,Fresh & Crisp Jicama Mango Salad,Julie Daniluk
+8,Gluten-Free-Chipotle-Shrimp-Salad-1701280,4,Gluten Free Chipotle Shrimp Salad,Gluten-Free-Way.com
+9,Lemon-Dijon-Vinaigrette-1564746,3,Lemon Dijon Vinaigrette,Garden and Gun
+10,Easy-Homemade-Buttermilk-Coleslaw-1703310,4,Easy Homemade Buttermilk Coleslaw,Life's Ambrosia
+11,Bistro-Carrot-Salad-1685497,4,Bistro Carrot Salad,Queen of My Kitchen
+12,Carrot-Ginger-Salad-Dressing-1683553,4,Carrot Ginger Salad Dressing,Inhabited Kitchen
+13,White-and-Black-Bean-Salad-1681772,4,White and Black Bean Salad,She Wears Many Hats
+14,4-Ingredient-Chickpea-Salad-1708777,4,4 Ingredient Chickpea Salad,Geeks Who Eat
+15,Balsamic-Vinegar-Tomato-Salad-590226,4,Balsamic Vinegar Tomato Salad,My Side of Life
+16,BURRATA-WITH-STONEFRUIT-_-CHILI-_-MINT-1709310,4,BURRATA WITH STONEFRUIT + CHILI + MINT,The Kitchy Kitchen
+17,Classic-Memphis-Style-Coleslaw-1422683,3,Classic Memphis-Style Coleslaw,Fridge Recipe
+18,Tangy-Green-Bean-Ciliegine-Salad-1703087,4,Tangy Green Bean Ciliegine Salad,Garlic And Zest
+19,Not-Your-Mama_s-Potato-Salad-1663181,4,Not Your Mama's Potato Salad,Housewife Hellraiser
+20,Kale-Salad-with-Grapefruit-and-Blueberries-1698922,4,Kale Salad with Grapefruit and Blueberries,Create Mindfully
+21,Broccoli-Crunch-Salad-1615842,4,Broccoli Crunch Salad,Happily Unprocessed
+22,Lemon-Garlic-Kale-Salad-1574187,3,Lemon-Garlic Kale Salad,New York Times Cooking
+23,French-Bistro-Vinaigrette-1702550,4,French Bistro Vinaigrette,Yankee Kitchen Ninja
+24,Crunchy-Summer-Salad-1710880,3,Crunchy Summer Salad,Martha Stewart
+25,Greek-Orzo-Salad-1712970,4,Greek Orzo Salad,Vegan in the Freezer
+26,Mediterranean-Couscous-Salad-1704139,3,Mediterranean Couscous Salad,Cookstr
+27,Strawberry-Cucumber-Salad-with-Feta-and-Mint-1701922,4,Strawberry Cucumber Salad with Feta and Mint,Healthy. Delicious.
+28,Parmesan-Basil-Quinoa-Salad-1709046,4,Parmesan Basil Quinoa Salad,This Mama Loves
+29,Southern-Macaroni-Salad-1700696,4,Southern Macaroni Salad,Add a Pinch
+30,Caramelized-Pear_-Pecan_-Gorgonzola-Noodle-Salad-1713062,4,"Caramelized Pear, Pecan, Gorgonzola Noodle Salad",Noshing With The Nolands
+31,Frito-Corn-Salad-1641547,4,Frito Corn Salad,Spicy Southern Kitchen
+32,Cucumber-Watermelon-Salad-1703250,3,Cucumber Watermelon Salad,My Real Food Family
+33,Grilled-Melon-and-Cucumber-Salad-1710589,4,Grilled Melon and Cucumber Salad,Everyday Epicurist
+34,Pecan-Grilled-Chicken-Tender-Salad-1697501,4,Pecan Grilled Chicken Tender Salad,Tidy Mom
+35,Arugula-_-Roasted-Pepper-Salad-1531650,4,Arugula & Roasted Pepper Salad,Unilever North America
+36,Make-Ahead-Creamy-Cucumber-Salad-1366177,4,Make Ahead Creamy Cucumber Salad,The Chaos and The Clutter
+37,Kale_-Avocado-_-Raspberry-Salad-1703586,4,"Kale, Avocado & Raspberry Salad",HÄLSA Nutrition
+38,Spinach-Strawberry-Feta-Salad-1663275,4,Spinach Strawberry Feta Salad,Organized Island
+39,Carrot_-Cabbage-and-Walnut-Coleslaw-1712832,3,"Carrot, Cabbage and Walnut Coleslaw",Mother Earth Living
+40,Arugula-Parmesan-Salad-with-Simple-Lemon-Vinaigrette-895995,4,Arugula Parmesan Salad with Simple Lemon Vinaigrette,A Teaspoon of Happiness
+41,Easy-Homemade-Italian-Dressing-1691283,4,Easy Homemade Italian Dressing,Add a Pinch
+42,Quinoa_-Kale-and-Chickpea-Salad-1703237,4,"Quinoa, Kale and Chickpea Salad",Joy Love Food
+43,Healthy-Edamame-Salad-1197339,4,Healthy Edamame Salad,Stuck on Sweet
+44,Lime-And-Ginger-Salad-Dressing-1567672,4,Lime And Ginger Salad Dressing,Daisies & Pie
+45,Supermodel-Superfood-Salad-1612806,4,Supermodel Superfood Salad,Skinny Ms
+46,Cilantro-Lemon-Vinaigrette-1680168,4,Cilantro Lemon Vinaigrette,The Creative Bite
+47,Southern-Potato-Salad-1628712,4,Southern Potato Salad,Be Fed Again
+48,Green-Goddess-Dressing-1689447,3,Green Goddess Dressing,New York Times Cooking
+49,Strawberry-Feta-Salad-with-Balsamic-Vinaigrette-1697742,4,Strawberry Feta Salad with Balsamic Vinaigrette,Bunny's Warm Oven
+50,Green-Beans-Salad-1711664,4,Green Beans Salad,Emmi's Cookin
+51,Lemon-Basil-Buttermilk-Dressing-1697565,4,Lemon Basil Buttermilk Dressing,The Café Sucré Farine
+52,Salmon-Rice-Salad-1708600,4,Salmon Rice Salad,Dinner Was Delish
+53,Penne-Pasta-Salad-with-Shrimp-Chili-_-Lime-1707129,4,Penne Pasta Salad with Shrimp Chili & Lime,Rock Recipes
+54,Endive-Salad-Cups-for-Pizza-Night-1701703,4,Endive Salad Cups for Pizza Night,FoodySchmoody
+55,Potato-_-Cucumber-Salad-w_-Yogurt-Dill-Dressing-1711083,4,Potato & Cucumber Salad w/ Yogurt Dill Dressing,Stacy Snacks
+56,Chicken-Fajita-Layered-Salad-1694369,4,Chicken Fajita Layered Salad,Food Lovin Family
+57,Black-Bean-and-Rice-Salad-1680451,4,Black Bean and Rice Salad,Amy's Cooking Adventures
+58,Chickpea-Salad-with-Vegan-Pesto-Recipe-_gluten-free_-1689610,4,Chickpea Salad with Vegan Pesto Recipe (gluten-free),Modern Mom
+59,Skinny-Cauliflower-Salad-1693255,4,Skinny Cauliflower Salad,The Healthy Home Cook
+60,How-to-Make-Balsamic-Vinaigrette-1703996,4,How to Make Balsamic Vinaigrette,Recipe Lion
+61,Grilled-Vegetable-Salad-with-Heirloom-Tomatoes-and-Grilled-Croutons-1711868,4,Grilled Vegetable Salad with Heirloom Tomatoes and Grilled Croutons,Little Broken
+62,High-Protein-Cilantro-Lime-Quinoa-Salad-1681775,4,High Protein Cilantro Lime Quinoa Salad,ifoodreal
+63,Honey-Greek-Salad-Dressing-1698483,4,Honey Greek Salad Dressing,Two Purple Figs
+64,Healthy-Summer-Broccoli-Salad-1712755,4,Healthy Summer Broccoli Salad,Lively Table
+65,Heirloom-Tomato-Salad-1708989,4,Heirloom Tomato Salad,Taking on Magazines
+66,Watermelon-Feta-Salad-1666876,4,Watermelon Feta Salad,Cooking With Crystal
+67,Egg-and-Olive-Salad-1566268,4,Egg and Olive Salad,The Life Jolie Blog
+68,Grilled-Mediterranean-Salad-1711516,4,Grilled Mediterranean Salad,Making Life Sweet
+69,Blue-Cheese-Dressing-1623475,4,Blue Cheese Dressing,Two Sisters Kitchens
+70,Pickleback-Slaw-1699384,3,Pickleback Slaw,New York Times Cooking
+71,Classic-Leeks-Vinaigrette-1709241,3,Classic Leeks Vinaigrette,New York Times Cooking
+72,Zucchini-Buffalo-Chicken-Salad-1710531,4,Zucchini Buffalo Chicken Salad,The Kitchn
+73,Stacked-Beet-Salad-with-Feta-Cheese-1703674,4,Stacked Beet Salad with Feta Cheese,Cooking  And Cooking
+74,Homemade-Ranch-Dressing-1712080,3,Homemade Ranch Dressing,The Mommypotamus
+75,Honey-Lemon-Dressing-1283078,4,Honey Lemon Dressing,Pinch of Nutmeg
+76,Dinosaur-Kale-Salad-1682965,4,Dinosaur Kale Salad,Tri Holistic Nutrition
+77,Grilled-Potato-Salad-with-Creme-Fraiche-Grainy-Mustard-Dressing-1709385,4,Grilled Potato Salad with Creme Fraiche Grainy Mustard Dressing,Seasons and Suppers
+78,Panzanella-1585159,4,Panzanella,Garnish With Lemon
+79,Summer-Three-Bean-Salad-Recipe-and-BIG-NEWS-1712958,4,Summer Three Bean Salad Recipe and BIG NEWS,The Hungry Goddess
+80,Warm-Corn-Salad-1687529,4,Warm Corn Salad,Life's Ambrosia
+81,CLASSIC-CREAMY-COLESLAW-1627060,4,CLASSIC CREAMY COLESLAW,Family Fresh Meals
+82,Dilled-Cucumber-and-Tomato-Salad-1693452,3,Dilled Cucumber and Tomato Salad,Betty Crocker
+83,Simple-Low-Carb-Mediterranean-Summer-Salad-1706633,4,Simple Low Carb Mediterranean Summer Salad,Raindrops Wellness
+84,Zucchini-Tomato-Basil-Salad-with-Lemon-Basil-Vinaigrette-1712212,4,Zucchini Tomato Basil Salad with Lemon Basil Vinaigrette,GoodLife Eats
+85,Carrot-_-Fennel-Salad-with-Dijon-Dill-Vinaigrette-1596969,4,Carrot & Fennel Salad with Dijon-Dill Vinaigrette,Food Above Gold
+86,Watermelon-Salad-with-Feta-and-Jalapenos-1207275,4,Watermelon Salad with Feta and Jalapeños,Half Her Size
+87,Meyer-Lemon-Potato-Salad-1690518,4,Meyer Lemon Potato Salad,The Taste San Francisco
+88,Lebanese-Tomato-Salad-1704577,4,Lebanese Tomato Salad,Rose Water And Orange Blossom
+89,Skinny-Classic-Coleslaw-1629030,4,Skinny Classic Coleslaw,Healthy Seasonal Recipes
+90,Keto-Apple-Slaw-1706894,4,Keto Apple Slaw,Tasteaholics
+91,Beetroot-_-Lentil-Salad-1273135,4,Beetroot & Lentil Salad,Land Of Zonkt
+92,Garlic-Scape-Green-Goddess-Dressing-1708509,4,Garlic Scape Green Goddess Dressing,Teaspoon of Spice
+93,Raw-Broccoli-Salad-629728,3,Raw Broccoli Salad,Taste Buddies
+94,Colorful-Broccoli-Salad-1698177,4,Colorful Broccoli Salad,Low Carb Yum
+95,Blackberry-Spinach-Salad-With-Light-Balsamic-Vinaigrette-1695473,4,Blackberry Spinach Salad With Light Balsamic Vinaigrette,Cooking LSL
+96,Tuna-and-Potato-Salad-with-Capers-1697862,4,Tuna and Potato Salad with Capers,Mid Life Croissant
+97,Classic-Caesar-Dressing-1615870,4,Classic Caesar Dressing,Happily Unprocessed
+98,Asian-Salad-Dressing-1660849,4,Asian Salad Dressing,Milo and Oats
+99,Super-Summer-Detox-Salad-1175573,4,Super Summer Detox Salad,Well Plated
+100,Cantaloupe-Prosciutto-Mozzarella-Salad-1641626,4,Cantaloupe Prosciutto Mozzarella Salad,Ann's Entitled Life
+101,Healthy-Chicken-Cobb-Salad-1713326,4,Healthy Chicken Cobb Salad,Kim's Cravings
+102,Bruschetta-Panzanella-Salad-1709784,4,Bruschetta Panzanella Salad,Ciao Florentina
+103,Greek-Salad-1077031,3,Greek Salad,Sprout Farmers Market
+104,Ranch-Tomato-Cucumber-Salad-1575665,4,Ranch Tomato Cucumber Salad,Carrie's Experimental Kitchen
+105,Mexican-Salad-with-Cabbage-1696685,4,Mexican Salad with Cabbage,Homemade For Elle
+106,EASY-COLE-SLAW-969039,4,EASY COLE SLAW,Nap Time Creations
+107,Green-Bean-And-Red-Potato-Salad-1614085,4,Green Bean And Red Potato Salad,Savory Moments
+108,Quinoa-Salad-with-Red-Cabbage-1690512,4,Quinoa Salad with Red Cabbage,Welcome to my kitchen
+109,Cucumber-Avocado-Red-Grape-Salad-1708436,4,Cucumber Avocado Red Grape Salad,The Kitchen Girl
+110,Creamy-Cobb-Potato-Salad-1710070,3,Creamy Cobb Potato Salad,Cooking Channel
+111,Carrot-and-Spiced-Chickpea-Salad-1709300,3,Carrot and Spiced Chickpea Salad,Team Beachbody
+112,Catalina-Salad-1600296,4,Catalina Salad,"Life, Love and Good Food"
+113,Cucumber-Salad-Simply-Recipes-42661,5,Cucumber Salad,Simply Recipes
+114,Lambs-Lettuce-Salad-1685641,4,Lamb’s Lettuce Salad,Welcome to my kitchen
+115,Roasted-beet-and-red-onion-salad-314481,5,Roasted Beet and Red Onion Salad,Tori Avey
+116,Aubergine_-Sun-Dried-Tomato-and-Pine-Nut-Salad-857756,4,"Aubergine, Sun-Dried Tomato and Pine Nut Salad",Deliciously Ella
+117,Loaded-spinach-salad-333902,5,Loaded Spinach Salad,How Sweet It Is
+118,Homemade-Russian-Dressing-1062142,3,Homemade Russian Dressing,Life Tastes Good
+119,Simple-Kale-Salad-with-Lemon-Vinaigrette-1704387,4,Simple Kale Salad with Lemon Vinaigrette,The Garlic Diaries
+120,Grilled-Butternut-Squash-Salad-1704483,4,Grilled Butternut Squash Salad,Red Velvet Snow
+121,Spiced-Chickpea-Cucumber-Salad-1696601,4,Spiced Chickpea Cucumber Salad,Naturally Ella
+122,10-Minute-Tomato-and-Walnut-Salad-1681561,4,10 Minute Tomato and Walnut Salad,The Wanderlust Kitchen
+123,Fritos-Corn-Salad-1690154,4,Fritos Corn Salad,Together As Family
+124,Pina-Colada-Fruit-Salad-1713260,4,Pina Colada Fruit Salad,AllRecipes
+125,Carrot_-Cabbage_-and-Chicken-Salad-1704474,4,"Carrot, Cabbage, and Chicken Salad",Ukrainian Recipes
+126,The-BEST-Balsamic-Vinaigrette-1035454,4,The BEST Balsamic Vinaigrette,Barefeet In The Kitchen
+127,Corn-and-Feta-Salad-1617187,4,Corn and Feta Salad,A Dish of Daily Life
+128,Caprese-Pasta-Salad-1695158,4,Caprese Pasta Salad,Once a Month Meals
+129,Asian-Chopped-Chicken-Salad-1707656,4,Asian Chopped Chicken Salad,Jo Cooks
+130,Lemon-Dijon-Vinaigrette-1600326,4,Lemon Dijon Vinaigrette,Baked by Rachel
+131,Summer-Pasta-Salad-Platter-With-Sweet-Tea-Dressing-1710426,4,Summer Pasta Salad Platter With Sweet Tea Dressing,Two Purple Figs
+132,Delicata-Squash-Salad-with-Balsamic-Oregano-Drizzle-1455336,5,Delicata Squash Salad with Balsamic-Oregano Drizzle,Big Girls Small Kitchen
+133,Homemade-Coleslaw-_-Non-Sweet-_-1707640,4,Homemade Coleslaw { Non Sweet },Crazed Mom
+134,Cottage-Cheese-Caprese-Salad-1684636,4,Cottage Cheese Caprese Salad,Just 2 Sisters
+135,Avocado-and-Grilled-Chicken-Chopped-Salad-with-Skinny-Chipotle-Lime-Ranch-1697919,4,Avocado and Grilled Chicken Chopped Salad with Skinny Chipotle-Lime Ranch,Cooking Classy
+136,Cole-Slaw-1707810,4,Cole Slaw,12Tomatoes
+137,Fig-Salad-with-Honey-Lemon-Dressing-1699329,3,Fig Salad with Honey-Lemon Dressing,Beachbody
+138,Salad-Of-Calendula-Flowers_-Radish-And-Grapefruit-1705573,4,"Salad Of Calendula Flowers, Radish And Grapefruit",CookRook
+139,Green-Bean-Salad-with-a-Balsamic-Glaze-for-Memorial-Day-BBQ-1693644,4,Green Bean Salad with a Balsamic Glaze for Memorial Day BBQ,Gluten Free A-Z Blog
+140,Roasted-Red-Pepper-Vinaigrette-1705780,4,Roasted Red Pepper Vinaigrette,Wholesomelicious
+141,Go-to-Vinaigrette-1050676,4,Go-to Vinaigrette,Nourish Network
+142,Roasted-Potato_-Endive_-and-Arugula-Salad-1709712,4,"Roasted Potato, Endive, and Arugula Salad",Naturally Ella
+143,Fiesta-Bean-Salad-1571977,4,Fiesta Bean Salad,Skinnytaste
+144,Low-Fat-BUT-Creamy-Coleslaw-1697329,4,Low Fat BUT Creamy Coleslaw,Love Foodies
+145,Red-beet-salad-352229,5,Red Beet Salad,Skinnytaste
+146,Arugula-Salad-with-Peaches-and-Mozzarella-1699330,3,Arugula Salad with Peaches and Mozzarella,Beachbody
+147,Bocconcini-and-Tomato-Salad-1711251,4,Bocconcini and Tomato Salad,Flavour and Savour
+148,Bacon-Ranch-Pasta-Salad-1684764,4,Bacon Ranch Pasta Salad,The Girl Who Ate Everything
+149,Caesar-Salad-1279042,4,Caesar Salad,One Sweet Appetite
+150,Italian-Chopped-Salad-1711892,4,Italian Chopped Salad,Wendi Polisi
+151,Strawberry-Salad-Dressing-1626576,4,Strawberry Salad Dressing,Living Well Kitchen
+152,Zucchini-Salad-1709501,4,Zucchini Salad,Curry Trail
+153,Spiralized-Beet-Salad-1696779,3,Spiralized Beet Salad,Tasting Table
+154,Heirloom-Tomato-Salad-with-Aged-Goat-Cheese-1708314,4,Heirloom Tomato Salad with Aged Goat Cheese,Savor The Best 
+155,Easy-Fresh-Tomato-Salad-1689035,4,Easy Fresh Tomato Salad,Meal Diva
+156,Arugula-and-Shaved-Zucchini-Salad-1693288,4,Arugula and Shaved Zucchini Salad,The Taste San Francisco
+157,Homemade-Ranch-Dressing-1520535,4,Homemade Ranch Dressing,Let's Dish
+158,Fennel-and-Celery-Salad-1629433,3,Fennel and Celery Salad,Mark Bittman
+159,Aunt-Bee_s-Shrimp-and-Pasta-Salad-1697527,4,Aunt Bee's Shrimp and Pasta Salad,The Seasoned Mom
+160,Antipasto-Salad-1709407,4,Antipasto Salad,Emily Bites
+161,Kale-Salad-with-Chicken-1701507,3,Kale Salad with Chicken,Beachbody
+162,Caprese-Heirloom-Tomato-Pasta-Salad-1707752,4,Caprese Heirloom Tomato Pasta Salad,Small Town Woman
+163,Berry_-Beet-_-Orange-Salad-On-Baby-Greens-1544340,4,"Berry, Beet & Orange Salad On Baby Greens",Unilever North America
+164,Mexican-Street-Corn-Salad-1710543,3,Mexican Street Corn Salad,Mountain Cravings
+165,Simple-Lemon-Vinaigrette-783172,3,Simple Lemon Vinaigrette,Epicurious - New York City
+166,Skinny-caesar-dressing-352253,5,Skinny Caesar Dressing,Skinnytaste
+167,Chicken-Quinoa-Salad-1681646,3,Chicken Quinoa Salad,The Candida Diet
+168,BBQ-Coleslaw-1678572,4,BBQ Coleslaw,Southern Bite
+169,Layered-Tex-Mex-Taco-Salad-1696443,3,Layered Tex-Mex Taco Salad,Kraft
+170,Easy-Spicy-Sweet-Black-Bean-Salad-1703678,4,Easy Spicy Sweet Black Bean Salad,Savory Tooth
+171,Simple-Caesar-Salad-1681793,4,Simple Caesar Salad,Shutterbean
+172,Broccoli-Salad-with-Bacon-_-Dried-Cranberries-_Printable-recipe_-1682272,4,Broccoli Salad with Bacon & Dried Cranberries (Printable recipe),The Kitchen is My Playground
+173,Spiralized-Cucumber-Sunomono-Salad-1597296,4,Spiralized Cucumber Sunomono Salad,Sweet Cayenne
+174,My-Grandmas-Greek-Dressing-595927,4,My Grandma’s Greek Dressing,Simply Scratch
+175,Paleo-and-Keto-Friendly-Caesar-Salad-1706613,4,Paleo and Keto Friendly Caesar Salad,The Healthy Foodie
+176,Watermelon-Feta-Spinach-Salad-1699655,4,Watermelon Feta Spinach Salad,Get Inspired Everyday!
+177,Ginger-Miso-Dressing-or-Marinade-1680518,4,Ginger Miso Dressing or Marinade,Garden Fresh Foodie
+178,Southwestern-Chopped-Salad-with-Cilantro-Dressing-608289,3,Southwestern Chopped Salad with Cilantro Dressing,The Garden Grazer
+179,Carrot-Salad-With-Ginger-Miso-Vinaigrette-1691054,3,Carrot Salad With Ginger Miso Vinaigrette,Cook Think
+180,Strawberry-Pesto-Caprese-Salad-1698048,4,Strawberry Pesto Caprese Salad,Heartbeet Kitchen
+181,Tex-Mex-Pasta-Salad-Recipe-_and-Giveaway_-1709606,4,Tex Mex Pasta Salad Recipe (and Giveaway),Clarks Condensed
+182,Sweet-Pepper-Couscous-Salad-1623180,4,Sweet Pepper Couscous Salad,Slick Housewives
+183,Greek-Village-Salad-1694162,4,Greek Village Salad,The Lemon Bowl
+184,Herb-Dressing-1630414,4,Herb Dressing,Chef Savvy
+185,Radicchio_-Pear_-Gorgonzola_-Pomegranate_-and-Walnut-Salad-1705504,4,"Radicchio, Pear, Gorgonzola, Pomegranate, and Walnut Salad",A Beautiful Plate - Laura
+186,Homemade-Coleslaw-Dressing-1677728,4,Homemade Coleslaw Dressing,A Few Short Cuts
+187,Thai-Beef-Salad-1048927,4,Thai Beef Salad,Omnivore's Cookbook
+188,Simple-German-_Swabian_-Potato-Salad-_-Schwabischer-Kartoffelsalat-1694314,4,Simple German (Swabian) Potato Salad ~ Schwäbischer Kartoffelsalat,Five Heart Home
+189,Plant-Powered-Goddess-Bowl-with-Orange-Ginger-Sesame-Dressing-1702127,4,Plant-Powered Goddess Bowl with Orange-Ginger-Sesame Dressing,Vegan Vigilante
+190,Pineapple-Cucumber-Salad-1611805,4,Pineapple Cucumber Salad,Miss in the Kitchen
+191,Corn-_-Black-Bean-Salad-1526724,4,Corn & Black Bean Salad,Unilever North America
+192,Easy-Pasta-Salad-1678161,3,Easy Pasta Salad,Kraft
+193,Chef-Salad-1694750,4,Chef Salad,Add a Pinch
+194,Fruit-_-Nut-Spinach-Salad-1698256,4,Fruit & Nut Spinach Salad,Spend with Pennies
+195,Caprese-Heirloom-Tomato-Pasta-Salad-1708472,4,Caprese Heirloom Tomato Pasta Salad,Small Town Woman
+196,Tomato-Herb-Salad-Dressing-1687189,4,Tomato Herb Salad Dressing,Inhabited Kitchen
+197,Pesto-Tortellini-Salad-with-Fresh-Mozzarella-_-Grape-Tomatoes-1666332,3,Pesto Tortellini Salad with Fresh Mozzarella & Grape Tomatoes,DeLallo Foods
+198,Basil-Lime-Salad-Dressing-1634790,4,Basil-Lime Salad Dressing,Blenditup
+199,Lemon-Vinaigrette-Dressing-1337032,4,Lemon Vinaigrette Dressing,Amusing Foodie
+200,Lemon-Basil-Kale-Salad-with-Avocado-1711150,4,Lemon Basil Kale Salad with Avocado,The Roasted Root
+201,Thousand-Island-Dressing-1528304,4,Thousand Island Dressing,My Busy Retired Life
+202,Balsamic-Roasted-Chickpea-Salad-1707070,4,Balsamic Roasted Chickpea Salad,Modest Marce
+203,Make-This-Greek-Quinoa-Salad-1707471,4,Make This Greek Quinoa Salad,Food Republic
+204,Broccoli-Salad-1690865,4,Broccoli Salad,The Spring Mount Six Pack
+205,Summer-Garden-Detox-Salad-1556102,4,Summer Garden Detox Salad,Clean Food Crush
+206,The-Summer-Farmers-Market-Salad-1713066,4,The Summer Farmer’s Market Salad,Simple Real Health
+207,Watermelon-Caprese-Salad-1684743,3,Watermelon Caprese Salad,popsugar.com
+208,Supergreens-Salad-with-Cherries-and-Feta-1641819,4,Supergreens Salad with Cherries and Feta,Seasonal Cravings
+209,Lemony-Green-Bean-Pasta-Salad-1707285,3,Lemony Green Bean Pasta Salad,The Washington Post
+210,Farmers_-Market-Pasta-Salad-1698978,3,Farmers' Market Pasta Salad,Kraft
+211,Best-Basic-Potato-Salad-511020,4,Best Basic Potato Salad,Food Republic
+212,Lobster-Cobb-Salad-1706122,4,Lobster Cobb Salad,Skinnytaste
+213,SALAD-WITH-CHICKEN-AND-MUSHROOMS-1703518,4,SALAD WITH CHICKEN AND MUSHROOMS,Good food. Best Recipes
+214,Paleo-Thousand-Island-Dressing-1625415,4,Paleo Thousand Island Dressing,Paleo Plan
+215,Grilled-Asparagus-Panzanella-Salad-1685871,4,Grilled Asparagus Panzanella Salad,"Life, Love and Good Food"
+216,Southwestern-Quinoa-Salad-1204723,4,Southwestern Quinoa Salad,Garnish With Lemon
+217,Spinach-Salad-1640882,4,Spinach Salad,Tried and Tasty
+218,Israeli-Salad-1228656,4,Israeli Salad,A Simple Pantry
+219,Vegan-Avocado-Ranch-Dressing-1126609,4,Vegan Avocado Ranch Dressing,Feed Me Rachel
+220,Kale-salad-333951,4,Kale Salad,Pictures & Pancakes
+221,Apple-Cranberry-Salad-1696465,3,Apple-Cranberry Salad,Kraft
+222,Chopped-Fiesta-Quinoa-Salad-with-Cilantro-Lime-Dressing-1693919,4,Chopped Fiesta Quinoa Salad with Cilantro Lime Dressing,Creme de la Crumb
+223,Strawberry_-Blueberry_-Jicama-Salad-1691487,4,"Strawberry, Blueberry, Jicama Salad",The Whole Serving
+224,This-5-Ingredient-Red_-White-and-Blueberry-Caprese-Salad-Will-Be-the-Star-of-Your-4th-of-July-Party_-1689498,4,"This 5 Ingredient Red, White and Blueberry Caprese Salad Will Be the Star of Your 4th of July Party!",Brit + Co.
+225,Kidney-Bean_-Red-Onion-And-Tomato-Salad-1637095,3,"Kidney Bean, Red Onion And Tomato Salad",New York Times Cooking
+226,Creamy-Honey-Dijon-Dressing-1583981,4,Creamy Honey Dijon Dressing,Meal Planning Maven - Linda S.
+227,Mozzarella_-Tomato_-and-Basil-Salad-1687546,3,"Mozzarella, Tomato, and Basil Salad",Dean & DeLuca
+228,Citrus-Vinaigrette-1631731,4,Citrus Vinaigrette,Add a Pinch
+229,Berry-Salad-with-Basil_-Mint-and-Feta-1705567,4,"Berry Salad with Basil, Mint and Feta",Fake Food Free
+230,Savory-Citrus-Salad-Dressing-1623747,3,Savory Citrus Salad Dressing,Nutriliving
+231,6-Ingredient-Caprese-Pasta-Salad-1625898,4,6-Ingredient Caprese Pasta Salad,Skinny Ms
+232,Easy-Homemade-Italian-Dressing-1690609,4,Easy Homemade Italian Dressing,Add a Pinch
+233,Marinated-Asparagus-Salad-1687883,4,Marinated Asparagus Salad,Paula Deen
+234,Simple-Strawberry-Spinach-Salad-1624867,4,Simple Strawberry Spinach Salad,A Simple Pantry
+235,Zesty-lime-shrimp-and-avocado-salad-352242,5,Zesty Lime Shrimp and Avocado Salad,Skinnytaste
+236,Pear-Gorgonzola-Salad-w_Walnuts-_-Maple-Vinaigrette-1684243,4,Pear Gorgonzola Salad w/Walnuts & Maple Vinaigrette,Through Her Looking Glass
+237,Roasted-Butternut-Squash-Salad-1709917,4,Roasted Butternut Squash Salad,Searching for Spice
+238,Broccoli-Salad-1617625,4,Broccoli Salad,Binky's Culinary Carnival
+239,Avocado-Dressing-1686215,3,Avocado Dressing,Beachbody
+240,Sweet-Balsamic-Dressing-1580289,4,Sweet Balsamic Dressing,The Cookful
+241,Bacon-Ranch-Potato-Salad-1679281,4,Bacon Ranch Potato Salad,Southern Bite
+242,Cold-Beet-Salad-1590473,3,Cold Beet Salad,Sprout Farmers Market
+243,Shaved-Asparagus-Dressing-1637548,4,Shaved Asparagus Dressing,Feeding Big
+244,Aztec-Salad-1707666,4,Aztec Salad,That Susan Williams
+245,Hoisin-Sesame-Dressing-1639693,3,Hoisin-Sesame Dressing,webmd.com
+246,HEALTHY-VEGETABLE-SLAW-1552784,4,HEALTHY VEGETABLE SLAW,DelishPlan
+247,Simple-Summer-Tomato-Salad-1696403,4,Simple Summer Tomato Salad,Trial And Eater
+248,Homemade-Ranch-Dressing-511618,5,Homemade Ranch Dressing,Food Republic
+249,Blue-Crab-Salad-with-Herb-Vinaigrette-1690012,4,Blue Crab Salad with Herb Vinaigrette,Whole Food Real Families
+250,Roasted-Corn_-Black-Bean-and-Ancient-Grains-Salad-1709134,4,"Roasted Corn, Black Bean and Ancient Grains Salad",Making Healthy Choices
+251,Poppy-Seed-Vinaigrette-1637768,3,Poppy Seed Vinaigrette,Blendtec
+252,Homemade-Macaroni-Salad-1687520,4,Homemade Macaroni Salad,Singing Through the Rain
+253,Easy-Greek-Pasta-Salad-1687705,4,Easy Greek Pasta Salad,"Oh, Sweet Basil"
+254,The-Best-Potato-Salad-1631231,4,The Best Potato Salad,Deliciously Ella
+255,Warm-portobello-mushroom-salad-303466,4,Warm Portobello Mushroom Salad,Unilever North America
+256,Cialledda-_Bread-and-Tomato-Salad_-1712612,4,Cialledda (Bread and Tomato Salad),Memorie di Angelina
+257,Detox-Crunch-Salad-1521826,4,Detox Crunch Salad,Shiny Happy Bright
+258,Sesame-Noodle-Salad-1705290,4,Sesame Noodle Salad,Simply Recipes
+259,Vitaminic-Salad-1705577,4,Vitaminic Salad,CookRook
+260,Spinach-Strawberry-Salad-with-Strawberry-Balsamic-Dressing-1704589,3,Spinach Strawberry Salad with Strawberry Balsamic Dressing,Challenge
+261,Mojito-Fruit-Salad-1668322,4,Mojito Fruit Salad,Simply Whisked
+262,Cucumber_-Watermelon_-and-Mango-Salad-with-Mint-1701504,3,"Cucumber, Watermelon, and Mango Salad with Mint",Beachbody
+263,Mango-Lime-Quinoa-Salad-1704575,4,Mango Lime Quinoa Salad,Bucket List Tummy
+264,Quick-Taco-Salad-1643363,3,Quick Taco Salad,Kraft
+265,Caprese-Salad-1694725,4,Caprese Salad,Add a Pinch
+266,Macaroni-Salad-1708593,4,Macaroni Salad,Like Mother Like Daughter
+267,Watermelon_-Blueberry_-_-Feta-Salad-1710039,4,"Watermelon, Blueberry, & Feta Salad",Little Dairy On The Prairie
+268,Truly-Baked-Loaded-Potato-Salad-1697142,4,Truly Baked Loaded Potato Salad,Small Town Woman
+269,Seven-Layer-Salad-1242735,3,Seven Layer Salad,Kraft
+270,Southwest-Black-Bean-_-Quinoa-Salad-1683708,3,Southwest Black Bean & Quinoa Salad,Randall Beans
+271,Tomato_-Cucumber-_-Feta-Salad-1628046,4,"Tomato, Cucumber & Feta Salad",Lemon Tree Dwelling
+272,Easy-Bulgur-Tabbouleh-1693295,4,Easy Bulgur Tabbouleh,Culinary Hill
+273,Fresh-Mozzarella-Watermelon-Salad-1709637,4,Fresh Mozzarella Watermelon Salad,Domestically Blissful
+274,Homemade-Balsamic-Vinaigrette-1702620,4,Homemade Balsamic Vinaigrette,Simple Seasonal
+275,Healthy-Charred-Kale-Caesar-Salad-1629728,4,Healthy Charred Kale Caesar Salad,Bound By Food
+276,Quinoa_-Avocado-and-Black-Bean-Salad-1615922,4,"Quinoa, Avocado and Black Bean Salad","Meals, Heels, and Cocktails"
+277,A-Quick-_-Easy-Salad-1710017,4,A Quick & Easy Salad,An Oregon Cottage
+278,Red_-White-and-Blue-Fruit-and-Cheese-Salad-1682290,4,"Red, White and Blue Fruit and Cheese Salad",Shockingly Delicious
+279,Broccoli-Chopped-Salad-with-Tahini-Vinaigrette-_From-Pure-Delicious_-by-Heather-Christo_-1694519,4,"Broccoli Chopped Salad with Tahini Vinaigrette (From Pure Delicious, by Heather Christo)",Will Cook for Friends
+280,Herb-Salad-with-Lemon-Poppy-Vinaigrette_-Warm-Goat-Cheese-Croutons-1706621,4,"Herb Salad with Lemon-Poppy Vinaigrette, Warm Goat Cheese Croutons",Healthy. Delicious.
+281,Fresh-Zucchini-Farfalle-Pasta-Salad-1691479,4,Fresh Zucchini Farfalle Pasta Salad,The Gracious Wife
+282,Sesame-Roasted-Asparagus-Salad-1636188,4,Sesame Roasted Asparagus Salad,Healthy Seasonal Recipes
+283,Cucumbers-in-Vinegar-1643028,4,Cucumbers in Vinegar,Mandy's Recipe Box
+284,Creamy-Avocado-Lime-Dressing-1688657,4,Creamy Avocado Lime Dressing,Veggie Souls
+285,Mediterranean-Kale-Salad-1060753,4,Mediterranean Kale Salad,What A Girl Eats
+286,Shrimp-Corn-and-Barley-Salad-1708304,4,Shrimp Corn and Barley Salad,Kevin Is Cooking
+287,Caprese-Salad-with-Olives-_-Marinated-Artichoke-Hearts-1706172,4,Caprese Salad with Olives & Marinated Artichoke Hearts,Low Carb Maven
+288,Kachumber-Salad---Cucumber-Tomato-Onion-Salad-1708702,4,Kachumber Salad - Cucumber Tomato Onion Salad,Vegan Richa
+289,Balsamic-Chicken_-Strawberry_-and-Apple-Salad-1698507,4,"Balsamic Chicken, Strawberry, and Apple Salad",Creme de la Crumb
+290,Salad-With-Ham-And-Peppers-1701718,4,Salad With Ham And Peppers,Cooking With Love
+291,Low-Sodium-Creamy-Dill-Pickle-Dressing-1710424,4,Low Sodium Creamy Dill Pickle Dressing,Hacking Salt
+292,Blackberry-Watermelon-Salad-1708441,4,Blackberry Watermelon Salad,Cooking Maniac
+293,Confetti-Bean-Salad-1680400,4,Confetti Bean Salad,Lady Behind the Curtain
+294,Bahn-Mi-Slaw-1680613,4,Bahn Mi Slaw,Real Housemoms
+295,Mexican-Street-Corn-Salad-with-Chipotle-Dressing-1690531,4,Mexican Street Corn Salad with Chipotle Dressing,Jessica Gavin
+296,Greek-Yogurt-Blue-Cheese-Dip-or-Dressing-1689707,4,Greek Yogurt Blue Cheese Dip or Dressing,Cupcakes and Kale Chips
+297,Raspberry-Citrus-Vinaigrette-Dressing-1697444,4,Raspberry Citrus Vinaigrette Dressing,More Than a Mom of Three
+298,Strawberry-Kale-Smoothie-_-24-Hour-Detox-1680300,4,Strawberry Kale Smoothie | 24 Hour Detox,Hello Glow
+299,Quinoa-and-Vegetable-Salad-_Gluten-Free_-1702680,3,Quinoa and Vegetable Salad (Gluten-Free),Betty Crocker
+300,5-Minute-Chopped-Chickpea-Salad-1535489,4,5 Minute Chopped Chickpea Salad,Linda Wagner
+301,Asian-Salad-Dressing-1640711,4,Asian Salad Dressing,Culinary Hill
+302,Mediterranean-Chopped-Salad-1632935,4,Mediterranean Chopped Salad,Weelicious
+303,Mixed-Berry-Wedge-Salad-1636726,4,Mixed Berry Wedge Salad,Tried and Tasty
+304,Curry-Carrot-Salad-with-Sorghum-1700952,3,Curry Carrot Salad with Sorghum,Clean Eating
+305,German-Cabbage-Salad-1686704,3,German Cabbage Salad,Nola
+306,Summer-Cobb-Salad-1691478,4,Summer Cobb Salad,Make the Best of Everything
+307,Grilled-Balsamic-Strawberry-Salad-1688507,4,Grilled Balsamic Strawberry Salad,Veggie Souls
+308,Tomato-Basil-Feta-Salad-1201526,4,Tomato Basil Feta Salad,Tasting Page
+309,Cucumber-Salad-1681483,4,Cucumber Salad,Delightful Mom Food
+310,Traditional-Greek-Chopped-Salad-1710478,4,Traditional Greek Chopped Salad,Just a Little Bit of Bacon
+311,Cucumber-Basil-Summer-Salad-1695559,4,Cucumber Basil Summer Salad,Full Fat Diet
+312,Warm-Spinach-Antipasto-Salad-For-One-1700910,4,Warm Spinach Antipasto Salad For One,Zag Left
+313,Crunchy-Pickled-Salad-The-Shiksa-Blog-46820,5,Crunchy Pickled Salad,Tori Avey
+314,Twelve-Superfoods-Salad-1711172,4,Twelve Superfoods Salad,Averie Cooks
+315,Crunchy-Cabbage-_-Carrot-Slaw-1704263,4,Crunchy Cabbage & Carrot Slaw,"Un Assaggio of Food, Wine, and Marriage"
+316,Caprese-Pasta-Salad-1612272,4,Caprese Pasta Salad,Iowa Girl Eats
+317,Strawberry-Beet-Salad-1682271,4,Strawberry Beet Salad,A Pretty Life in the Suburbs
+318,Classic-spinach-salad-299163,4,Classic Spinach Salad,Unilever North America
+319,Lemon-Orzo-Salad-with-Asparagus-and-Tomatoes-1698384,4,Lemon Orzo Salad with Asparagus and Tomatoes,A Big Mouthful
+320,Mixed-Summer-Fruit-Salad-1686109,4,Mixed Summer Fruit Salad,My Suburban Kitchen
+321,BLT-Salad-with-Avocado-and-Chipotle-Dressing-1005266,4,BLT Salad with Avocado and Chipotle Dressing,Cook Eat Paleo
+322,Strawberry-and-Grilled-Chicken-Salad-1706679,4,Strawberry and Grilled Chicken Salad,Beloved Green
+323,Creamy-Cucumber-Salad-1058436,3,Creamy Cucumber Salad,Weight Watchers Smart Ones
+324,Spiralizer-Ribbon-Salad-with-Peanut-Sauce-1701927,4,Spiralizer Ribbon Salad with Peanut Sauce,Everyday Good Thinking
+325,Fire-and-Ice-Salad-471371,5,Fire and Ice Salad,Southern Plate
+326,Pesto-Caprese-Zucchini-Noodle-Salad-1709671,4,Pesto Caprese Zucchini Noodle Salad,Inspiralized
+327,Chicken-and-Grape-Salad-1591948,4,Chicken and Grape Salad,Home And Garden Digest
+328,Italian-Vinaigrette-1286980,4,Italian Vinaigrette,The Recipe For Healing
+329,German-Cucumber-Salad-970372,4,German Cucumber Salad,Stumbling Upon Happiness
+330,Spinach-Pear-Walnut-Salad-1628838,4,Spinach Pear Walnut Salad,Skinny Ms
+331,Creamy-Coleslaw-1567685,4,Creamy Coleslaw,Family Around The Table
+332,Roasted-Delicata-Squash-with-Quinoa-Salad-1711301,3,Roasted Delicata Squash with Quinoa Salad,Food & Wine
+333,Grilled_roasted-Fennel-And-Quinoa-Salad-1705434,4,Grilled/roasted Fennel And Quinoa Salad,The First Mess
+334,Watermelon-Feta-Salad-with-Mint-The-Shiksa-Blog-45818,5,Watermelon Feta Salad with Mint,Tori Avey
+335,Ultimate-Kale-Salad-1700373,4,Ultimate Kale Salad,Add a Pinch
+336,Mango-Salad-With-Rhubarb-Ginger-Dressing-_-Chili-Almonds-1713104,4,Mango Salad With Rhubarb Ginger Dressing + Chili Almonds,The First Mess
+337,Broccoli-_-Blue-Cheese-Salad-1684820,4,Broccoli & Blue Cheese Salad,Divalicious Recipes
+338,Vegan-Raw-Slaw-1707594,3,Vegan Raw Slaw,Mind Body Green
+339,Vegan-Goddess-Dressing-1681872,3,Vegan Goddess Dressing,VNutrition
+340,Thai-Summer-Salad-1711960,4,Thai Summer Salad,My Little Foodie
+341,Bacon-Ranch-Pasta-Salad-1680358,4,Bacon Ranch Pasta Salad,Seduction in The Kitchen
+342,Beet-Salad-with-Tehina-and-Fresh-Herbs-1713227,3,Beet Salad with Tehina and Fresh Herbs,Food52
+343,Fully-Loaded-Broccoli-Salad-1687105,4,Fully Loaded Broccoli Salad,For the Love of Crust
+344,Avocado-Salad-Dressing-1703714,4,Avocado Salad Dressing,Naija Chef
+345,Miso-Dressing-1567246,4,Miso Dressing,Living Well Kitchen
+346,Warm-Vegetable-_-Bulgur-Salad-1708819,4,Warm Vegetable & Bulgur Salad,Shrinking Kitchen
+347,Cucumber_-onion_-and-parsley-salad-309926,5,"Cucumber, Onion, and Parsley Salad",Kalyn's Kitchen
+348,The-Rich-But-Light-Salad-1687281,4,The Rich But Light Salad,Good food. Best Recipes
+349,Tomato-Cucumber-and-Olive-Salad-1638644,4,Tomato Cucumber and Olive Salad,Serena Bakes Simply from Scratch
+350,Garden-Salad-with-Lemon-Vinaigrette-1687677,4,Garden Salad with Lemon Vinaigrette,Longbourn Farm
+351,Herbed-Buttermilk-Dressing-1635888,4,Herbed Buttermilk Dressing,Meal Planning Maven - Linda S.
+352,Roasted-Artichoke-Salad-1708239,3,Roasted Artichoke Salad,Barefoot Contessa
+353,SWEET-AND-SOUR-BROCCOLI-SALAD-546065,4,SWEET AND SOUR BROCCOLI SALAD,1 2 Simple Cooking
+354,Fennel-Ginger-Salad-1707544,4,Fennel Ginger Salad,Julie Daniluk
+355,Summer-Wheat-Berry-Salad-with-Stone-Fruits-and-Goat-Cheese-1710836,4,Summer Wheat Berry Salad with Stone Fruits and Goat Cheese,Kitchen Confidante
+356,Sunomono-_Cucumber-Salad_-1708384,4,Sunomono (Cucumber Salad),Just One Cookbook
+357,Honey-mustard-dressing-345418,5,Honey Mustard Dressing,Elana's Pantry
+358,Perfect-Caesar-Dressing-970715,4,Perfect Caesar Dressing,Natasha's Kitchen
+359,Summer-Salad-with-Balsamic-Lime-Dressing-1680466,4,Summer Salad with Balsamic-Lime Dressing,One Lovely Life
+360,The-Best-Broccoli-Salad-1061091,4,The Best Broccoli Salad,Aunt Bee's Recipes
+361,Israeli-salad-310214,5,Israeli Salad,Big Girls Small Kitchen
+362,Summer-Salad-with-Citrus-Dressing-1712314,4,Summer Salad with Citrus Dressing,AlkaMind
+363,Stuffed-Orzo-Salad-1712387,4,Stuffed Orzo Salad,Meal Diva
+364,Simple-Summer-Escarole-Salad-1697180,4,Simple Summer Escarole Salad,Grab a Plate
+365,Easy-Delicious-Balsamic-Vinaigrette-Dressing-1627975,4,Easy Delicious Balsamic Vinaigrette Dressing,Dishes Delish
+366,Refreshing-Watermelon-Salad-1680082,4,Refreshing Watermelon Salad,Eat Well 101
+367,Mediterranean-Pasta-Salad-1551610,4,Mediterranean Pasta Salad,Gimme Some Oven
+368,Skinny-Broccoli-Salad-1006916,4,Skinny Broccoli Salad,Belle of the Kitchen
+369,Hawaiian-Style-Macaroni-Salad-1690885,4,Hawaiian Style Macaroni Salad,Spoon Fork Bacon
+370,Red_-White-and-Blue-Salad-1679173,4,"Red, White and Blue Salad",Art From My Table
+371,Thai-Cucumber-Salad-1211085,3,Thai Cucumber Salad,The Candida Diet
+372,Super-Simple-Corn-Salad-1684632,4,Super Simple Corn Salad,Far From Normal
+373,Don_t-Go-Grilling-Without-This-Vegan-Cole-Slaw-1681111,3,Don't Go Grilling Without This Vegan Cole Slaw,Vegetarian About.com
+374,Potato-Salad-1678679,4,Potato Salad,Jaque's Kitchen
+375,Restaurant-quality-salad-at-home-309954,5,Restaurant Quality Salad at Home,Kalyn's Kitchen
+376,Mississippi-Corn-Bread-Salad-1707309,4,Mississippi Corn Bread Salad,healthy weight watchers recipes
+377,Asparagus-Pasta-Salad-1702264,4,Asparagus Pasta Salad,I Wash You Dry
+378,Kale-Salad-with-Lemon-Garlic-Dressing-1636166,4,Kale Salad with Lemon Garlic Dressing,The Lovebugs Blog - Sam
+379,Mandarin-Strawberry-Salad-with-Poppy-Seed-Dressing-1649343,4,Mandarin Strawberry Salad with Poppy Seed Dressing,"Life, Love and Good Food"
+380,Watermelon-and-Arugula-Salad-1706942,3,Watermelon and Arugula Salad,Team Beachbody
+381,Roasted-Kabocha-and-Goat_s-Cheese-Salad-with-Pomegranate-Dressing-1637851,4,Roasted Kabocha and Goat's Cheese Salad with Pomegranate Dressing,Kitchen Sanctuary
+382,Cathal_s-Favorite-Salad-1711146,3,Cathal's Favorite Salad,Food & Wine
+383,Charred-Corn-Salad-with-Mint_-Parsley-and-Cilantro-1708176,3,"Charred Corn Salad with Mint, Parsley and Cilantro",Food & Wine
+384,Easy-Summer-Chickpea-Salad-_SundaySupper-1680997,4,Easy Summer Chickpea Salad #SundaySupper,She Loves Biscotti
+385,Arugula-salad-with-feta-and-fresh-tomato-balsamic-vinaigrette-309620,5,Arugula Salad with Feta and Fresh Tomato-Balsamic Vinaigrette,Kalyn's Kitchen
+386,Low-Fat-Chick-Pea-and-Tomato-Salad-1639911,4,Low Fat Chick Pea and Tomato Salad,Low Fat Cooking
+387,Chicken-Bacon-Ranch-Potato-Salad-1701876,4,Chicken Bacon Ranch Potato Salad,I Wash You Dry
+388,Greek-Inspired-Bowl-_-Hak_s-Dressing-_Gluten-Free_-1707213,4,Greek-Inspired Bowl + Hak's Dressing {Gluten Free},Gluten Free Jess
+389,Red_-White_-and-Blue-Salad-1638977,4,"Red, White, and Blue Salad",Kitchen Serendipity
+390,Lemon-Vinaigrette-498394,3,Lemon Vinaigrette,The Weiser Kitchen
+391,Warm-Garbanzo-Bean-and-Kale-Salad-with-Smoked-Paprika-and-Parsley-Vinaigrette-1712236,3,Warm Garbanzo Bean and Kale Salad with Smoked Paprika and Parsley Vinaigrette,Food & Wine
+392,Grilled-Shrimp-Orzo-Salad-1710372,4,Grilled Shrimp Orzo Salad,Perpetually Hungry US
+393,Mexican-Potato-Salad-1709626,4,Mexican Potato Salad,The Harvest Kitchen
+394,Layered-Potato-Salad-with-Parsley-1705133,3,Layered Potato Salad with Parsley,Relish
+395,Crusted-Tomato-Salad-with-Walnut-Avocado-Pesto-1698056,4,Crusted Tomato Salad with Walnut-Avocado Pesto,The Nutrition Adventure
+396,Caesar-Vinaigrette-1579185,4,Caesar Vinaigrette,Simply Whisked
+397,Tex-Mex-Potato-Salad-1704647,4,Tex Mex Potato Salad,Jo Cooks
+398,1-Minute-Lentil-Salad-1639395,3,1 Minute Lentil Salad,Trader Joe's
+399,Buffalo-Chicken-Salad-1708825,4,Buffalo Chicken Salad,Shrinking Kitchen
+400,Greek-Salad-Dressing-1709940,3,Greek Salad Dressing,STLtoday
+401,Blackberry-Quinoa-Salad-1704407,4,Blackberry Quinoa Salad,My Suburban Kitchen
+402,Addictive-Brussels-Sprouts-Salad-757948,4,Addictive Brussels Sprouts Salad,Shutterbean
+403,Seafood-Salad-1480273,4,Seafood Salad,South Your Mouth
+404,Mint-And-Pistachio-Pesto-Potato-Salad-1698434,4,Mint And Pistachio Pesto Potato Salad,Amuse Your Bouche
+405,Blue-Cheese_-Pear_-and-Spinach-Salad-in-a-Mason-Jar-1706946,3,"Blue Cheese, Pear, and Spinach Salad in a Mason Jar",Team Beachbody
+406,Orange-Chili-Vinaigrette-1682428,4,Orange Chili Vinaigrette,24 Carrot Life
+407,Summer-Salad-with-Mustard-Vinaigrette-1712274,3,Summer Salad with Mustard Vinaigrette,Food & Wine
+408,The-Ultimate-Fruit_-Cheese-_-Nut-Salad-1695240,4,"The Ultimate Fruit, Cheese & Nut Salad",Ambitious Kitchen
+409,Barley-Chickpea-Mushroom-Salad-With-Balsamic-Dressing-1709181,3,Barley Chickpea Mushroom Salad With Balsamic Dressing,Plattershare
+410,Shrimp-_-Quinoa-Salad-1698616,4,Shrimp & Quinoa Salad,Clean Food Crush
+411,Fresh-Corn-and-Mango-Salad-1684385,4,Fresh Corn and Mango Salad,Food Faith Fitness
+412,Blueberry-Chicken-Spinach-Salad-1701421,4,Blueberry Chicken Spinach Salad,Kathryn Seppamaki
+413,Danish-Potato-Salad-1662422,4,Danish Potato Salad,Garnish With Lemon
+414,Ranch-Black-Bean-_-Corn-Salad-1537306,4,Ranch Black Bean & Corn Salad,Unilever North America
+415,_span-class__mceItemHidden_-data-mce-bogus__1___span___span_Black-Bean-Corn-Salad-_MeatlessMonday__span_-1708790,4,"<span class=""mceItemHidden"" data-mce-bogus=""1""><span></span>Black Bean Corn Salad #MeatlessMonday</span>",Bowl Me Over
+416,Caprese-salad-307967,5,Caprese Salad,The Kitchn
+417,Classic-Tabouli-Salad-578581,3,Classic Tabouli Salad,Local Foods About.com
+418,Chili-Lime-Jicama-and-Corn-Shrimp-Salad-1709648,4,Chili-Lime Jicama and Corn Shrimp Salad,Inspiralized
+419,SPRING-SALAD-WITH-WHITE-BEANS_-AVOCADO_-AND-RADISH-1705498,4,"SPRING SALAD WITH WHITE BEANS, AVOCADO, AND RADISH",Flourishing Foodie
+420,Potato-Salad-with-Parsley-1624747,4,Potato Salad with Parsley,Inhabited Kitchen
+421,Mediterranean-Pasta-Salad-1700465,4,Mediterranean Pasta Salad,The Chunky Chef
+422,Balsamic-spinach-salad-with-mushrooms_-onions_-and-feta-309875,5,"Balsamic Spinach Salad with Mushrooms, Onions, and Feta",Kalyn's Kitchen
+423,Light-and-healthy-pasta-salad-335500,5,Light and Healthy Pasta Salad,Bakers Royale
+424,Fresh-Mozzarella-Pasta-Salad-1627066,4,Fresh Mozzarella Pasta Salad,Lil' Luna
+425,Olive-Garden-Salad-Dressing-1697789,4,Olive Garden Salad Dressing,The Country Cook
+426,Salad-With-Chicken-And-Prunes-1697131,4,Salad With Chicken And Prunes,Cooking With Love
+427,Spiralized-Spring-Roll-Bowls-1634243,4,Spiralized Spring Roll Bowls,Tasty Thin
+428,Pickled-Watermelon-Salad-1707344,3,Pickled Watermelon Salad,Tenplay
+429,Ricotta-and-Pine-Nut-Salad-1690882,3,Ricotta and Pine Nut Salad,New York Times Cooking
+430,Middle-Eastern-Chickpea-and-Vegetable-Salad-1628459,4,Middle Eastern Chickpea and Vegetable Salad,Home & Plate
+431,Southwest-Cilantro-Lime-Salad-1626789,4,Southwest Cilantro-Lime Salad,Get In My Belly
+432,Spicy-Asian-Chickpea-Salad-1710448,4,Spicy Asian Chickpea Salad,Dianne's Vegan Kitchen
+433,Cuban-Chicken-Salad-1694471,4,Cuban Chicken Salad,The Happy Housewife
+434,Middle-Eastern-Spicy-Potato-Salad-Recipe-_Batata-Hara_-1695316,4,Middle Eastern Spicy Potato Salad Recipe (Batata Hara),The Mediterranean Dish
+435,Black-Bean-Salad-with-Corn_-Red-Peppers-and-Avocado-in-a-Lime-Cilantro-Vinaigrette-630473,5,"Black Bean Salad with Corn, Red Peppers and Avocado in a Lime-Cilantro Vinaigrette",Once Upon A Chef
+436,Basic-Vinaigrette-1588197,3,Basic Vinaigrette,Real Simple
+437,Ranch-Pasta-Salad-_SeeTheLite-1705388,4,Ranch Pasta Salad #SeeTheLite,Adorkablii
+438,Skinny-Chicken-Waldorf-Salad-1693787,4,Skinny Chicken Waldorf Salad,Skinnytaste
+439,Tabbouleh-1612337,4,Tabbouleh,Taste
+440,Moroccan-Carrot-Salad-1701268,4,Moroccan Carrot Salad,Chef Times Two
+441,Southwestern-Chopped-Salad-with-Cilantro-Dressing-1696347,4,Southwestern Chopped Salad with Cilantro Dressing,The Garden Grazer
+442,Fennel-Orange-Salad-With-Maple-Mustard-Curry-Dressing-1699257,4,Fennel Orange Salad With Maple Mustard Curry Dressing,Mind Food Blog
+443,Creamy-Cucumber-Pasta-Salad-1646826,4,Creamy Cucumber Pasta Salad,Spend with Pennies
+444,My-Famous-Potato-Salad-To-Celebrate-5-Years-Of-Blogging-1711627,4,My Famous Potato Salad To Celebrate 5 Years Of Blogging,The Red Painted Cottage
+445,Simple-Carrot-Cherry-Salad-1700690,4,Simple Carrot Cherry Salad,Vegging at the Shore
+446,Pesto-Bacon-Pasta-Salad-1702804,4,Pesto Bacon Pasta Salad,The Novice Chef
+447,Israeli-Salad-564704,4,Israeli Salad,Tori Avey
+448,Broccoli-slaw-305556,5,Broccoli Slaw,Smitten Kitchen
+449,Easy-and-Delicious-Homemade-French-Dressing-1567998,4,Easy and Delicious Homemade French Dressing,Frugal Family Home
+450,Taco-Salad-638432,4,Taco Salad,Cooking Cooking
+451,Balsamico-Ginger-Dressing-1688108,3,Balsamico-Ginger Dressing,Eat4Happiness
+452,Pear-_-goat-cheese-salad-299014,4,Pear & Goat Cheese Salad,Unilever North America
+453,Simple-Honey-Lime-Dressing-609111,3,Simple Honey Lime Dressing,My Purple Spoon
+454,Lemony-Roasted-Asparagus-and-Cauliflower-Salad-1636743,4,Lemony Roasted Asparagus and Cauliflower Salad,Snixy Kitchen
+455,Southwestern-Quinoa-with-Roasted-Tomato-Vinaigrette-1689919,4,Southwestern Quinoa with Roasted Tomato Vinaigrette,Simply Sissom
+456,Asian-salad-dressing-345619,5,Asian Salad Dressing,Elana's Pantry
+457,BLT-Tortellini-Salad-1663081,4,BLT Tortellini Salad,Gal on a Mission
+458,SHRIMP-RICE-SALAD-with-lime-and-cumin-dressing-1702426,3,SHRIMP RICE SALAD with lime and cumin dressing,Philosokitchen
+459,Tropical-Pasta-Salad-for-Summer-BBQs-1712445,4,Tropical Pasta Salad for Summer BBQs,Simply DARRling
+460,Herb-Dijon-Dressing-SaladSavors-Inspiration-1666312,3,Herb Dijon Dressing – SaladSavors® Inspiration,DeLallo Foods
+461,Roasted-Beets-and-Carrots-Salad-with-Burrata-1705482,4,Roasted Beets and Carrots Salad with Burrata,The Noshery
+462,Skinny-Vegan-Broccoli-Salad-1697591,4,Skinny Vegan Broccoli Salad,Light Orange Bean
+463,Baharat-Roasted-Chickpea-And-Pear-Salad-1711338,4,Baharat Roasted Chickpea And Pear Salad,Healthfection
+464,Berry-Salad-Dressing-1564513,4,Berry Salad Dressing,ifoodreal
+465,Homemade-Vinaigrette-1166547,3,Homemade Vinaigrette,Live Simply
+466,Roasted-Garlic-Dressing-1688807,3,Roasted Garlic Dressing,webmd.com
+467,Creamy-Cilantro-and-Lime-Tahini-Dressing-_Raw_-Vegan_-Gluten-Free_-Dairy-Free_-Nut-Free_-Oil-Free_-Paleo-Friendly_-1621469,4,"Creamy Cilantro and Lime Tahini Dressing (Raw, Vegan, Gluten-Free, Dairy-Free, Nut-Free, Oil-Free, Paleo-Friendly)",The Healthy Family and Home
+468,Red-Cabbage-And-Carrot-Salad-1695672,4,Red Cabbage And Carrot Salad,Ramona's Cuisine
+469,Spinach-and-Cherry-Salad-with-Basil_-Blue-Cheese-and-Almonds-1708174,4,"Spinach and Cherry Salad with Basil, Blue Cheese and Almonds",Mother Rimmy's
+470,Summer-Pea-and-Roasted-Red-Pepper-Pasta-Salad-1455210,5,Summer Pea and Roasted Red Pepper Pasta Salad,Smitten Kitchen
+471,Spinach-and-Cherry-Salad-with-Basil_-Blue-Cheese-and-Almonds-1708170,4,"Spinach and Cherry Salad with Basil, Blue Cheese and Almonds",Mother Rimmy's
+472,Avocado-and-Tomato-Salad-With-Sunflower-Seeds-1051343,4,Avocado and Tomato Salad With Sunflower Seeds,GreenLiteBites
+473,Honey-Vinaigrette-1046984,4,Honey Vinaigrette,Hopeful Things
+474,Watermelon-and-Feta-Salad-with-Mint-1706863,3,Watermelon and Feta Salad with Mint,Team Beachbody
+475,Roasted-Garlic-Vinaigrette-1577886,4,Roasted Garlic Vinaigrette,The Lemon Bowl
+476,Quinoa-Salad-with-Blueberries_-Strawberries-and-Watermelon-1711844,4,"Quinoa Salad with Blueberries, Strawberries and Watermelon",Spry Living
+477,Dead-simple-slaw-307198,5,Dead Simple Slaw,Smitten Kitchen
+478,Homemade-Caesar-Salad-Dressing-Once-Upon-A-Chef-200032,5,Homemade Caesar Salad Dressing,Once Upon A Chef
+479,Skinnylightful-Asian-Chicken-Broccoli-Slaw-Salad-1694497,4,Skinnylightful Asian Chicken Broccoli Slaw Salad,Enjoy cooking
+480,Grilled-Pineapple_-Black-Bean-and-Jicama-Salad-1700640,4,"Grilled Pineapple, Black Bean and Jicama Salad",Lively Table
+481,Sweet-and-Salty-Broccoli-Salad-1697017,4,Sweet and Salty Broccoli Salad,Melissa Joulwan's Well Fed
+482,Rainbow-Salad-in-a-Mason-Jar-1706947,3,Rainbow Salad in a Mason Jar,Team Beachbody
+483,Summer-Detox-Salad-with-Citrus-Basil-Vinaigrette-1687009,4,Summer Detox Salad with Citrus Basil Vinaigrette,Joyful Healthy Eats
+484,Sweet-and-spicy-cucumber-salad-with-fresh-dill-345835,5,Sweet and Spicy Cucumber Salad with Fresh Dill,Pinch My Salt
+485,Bistro-Carrot-Salad-1685513,4,Bistro Carrot Salad,Queen of My Kitchen
+486,Grilled-Nectarine-Salad-1709727,4,Grilled Nectarine Salad,Kiddielicious Kitchen
+487,Control-Diabetes-With-These-Easy-Salad-Recipes-1280666,4,Control Diabetes With These Easy Salad Recipes,Healthy Women's Blog
+488,Creamy-Cheddar-Broccoli-Salad-1686688,4,Creamy Cheddar Broccoli Salad,Creme de la Crumb
+489,Miso-tahini-dressing-308123,5,Miso Tahini Dressing,The Kitchn
+490,Finally_-Memorial-Day-Coleslaw-Gets-a-Makeover-1646359,3,"Finally, Memorial Day Coleslaw Gets a Makeover",Organic Connections
+491,Classic-macaroni-salad-304692,4,Classic Macaroni Salad,Unilever North America
+492,Cilantro-Lime-Dressing-628549,3,Cilantro Lime Dressing,Another Alleged Food Blog
+493,Green-Goddess-Avocado-Dressing-1632938,4,Green Goddess Avocado Dressing,Home Cooking Memories
+494,A-Raw-Mango-Dressing-To-Perk-Up-Any-Salad-1182382,3,A Raw Mango Dressing To Perk Up Any Salad,Mind Body Green
+495,CHILLED-CUCUMBER-SALAD-1652529,4,CHILLED CUCUMBER SALAD,PureWow
+496,Creamy-Avocado-Dressing-1633485,3,Creamy Avocado Dressing,popsugar.com
+497,Black-Bean-Salad-1549805,4,Black Bean Salad,Frugal Antics of a Harried Homemaker
+498,Strawberry-Salad-with-Gorgonzola_-Walnuts_-and-Mint-1613538,4,"Strawberry Salad with Gorgonzola, Walnuts, and Mint",Mom On Timeout
+499,Garden-Patch-Salad-1710023,4,Garden Patch Salad,A Pinch of Joy
+500,Lemony-Coleslaw-with-Apples-1700377,3,Lemony Coleslaw with Apples,Weight Watchers

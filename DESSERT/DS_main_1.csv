@@ -1,0 +1,501 @@
+,id,rating,recipeName,sourceDisplayName
+0,Lemonade-Popsicles-1682120,3,Lemonade Popsicles,Beachbody
+1,Best-Peanut-Butter-Buttercream-Frosting-1682977,4,Best Peanut Butter Buttercream Frosting,Two Sisters Crafting
+2,Omega-Chocolate-Bars-1695745,4,Omega Chocolate Bars,A Healthy Life For Me
+3,Greek-Yogurt-Truffles-1693365,4,Greek Yogurt Truffles,Dessert for Two
+4,Pralines-and-Cream-Ice-Cream-1703720,4,Pralines and Cream Ice Cream,I Wash You Dry
+5,Apple-Pie-Cookies-1697246,4,Apple Pie Cookies,Vegan in the Freezer
+6,4th-of-July-Ice-Pops-1709323,4,4th of July Ice Pops,Gluten-Free on a Shoestring
+7,Clotted-Cream-Ice-Cream-1709543,4,Clotted Cream Ice Cream,Rock Recipes
+8,Coffee-Creme-Brulee-1701123,3,Coffee Crème Brulee,Asian Food Channel
+9,Peanut-Butter-Stuffed-Brownies-1580185,4,Peanut Butter Stuffed Brownies,"Dinners, Dishes and Desserts"
+10,Ice-Cream-Maker-Easy-Lemon-Sorbet-1712698,4,Ice Cream Maker Easy Lemon Sorbet,Recipe This
+11,Red_-White-and-Blueberry-Shortcakes-1710485,4,"Red, White and Blueberry Shortcakes",Lively Table
+12,Layered-Butterscotch-Delight-1702272,4,Layered Butterscotch Delight,Cookie Madness
+13,Cheesecakes-In-The-Oven-1712470,4,Cheesecakes In The Oven,Good food. Best Recipes
+14,Crushed-Oreo-Triangles-1704625,4,Crushed Oreo Triangles,Winstead Wandering
+15,Chocolate-Meringue-1701754,4,Chocolate Meringue,Good food. Best Recipes
+16,Nutella-Peanut-Butter-Fudge-1707738,4,Nutella Peanut Butter Fudge,Body Rebooted
+17,Youve-_Really_-Never-Eaten-Apple-Pie-Like-This-Before-1709210,4,You’ve (Really) Never Eaten Apple Pie Like This Before,Brit + Co.
+18,Homemade-Paleo-Chocolate-1712090,3,Homemade Paleo Chocolate,The Mommypotamus
+19,Easy-No-Churn-Oreo-Ice-Cream-1689733,4,Easy No-Churn Oreo Ice Cream,Southern Bite
+20,Pralines-and-Cream-Ice-Cream-1704889,4,Pralines and Cream Ice Cream,I Wash You Dry
+21,Churros-1598906,4,Churros,Fortune Goodies
+22,Thin-Mint-Frosting-1708769,4,Thin Mint Frosting,Wine and Glue
+23,Iced-Coffee-Pops-1711522,4,Iced Coffee Pops,Deliciously Sprinkled
+24,Copycat-Wendy_s-Frosty-1695928,4,Copycat Wendy's Frosty,A baJillian Recipes
+25,_Better-Than-Starbucks_-Glazed-Lemon-Cake-1712765,4,(Better Than Starbucks) Glazed Lemon Cake,Joyous Home
+26,Black-Forest-Trifle-1700374,4,Black Forest Trifle,The Novice Chef
+27,Ultimate-Bakery-Style-Rice-Krispies-Treats-1632488,4,Ultimate Bakery-Style Rice Krispies Treats,Brown Eyed Baker
+28,Apple-Pie-Chimichangas-1701509,3,Apple Pie Chimichangas,Better Homes and Gardens
+29,Strawberry-Cookies-1701901,4,Strawberry Cookies,Food Lovin Family
+30,The-BEST-Cream-Cheese-Frosting-1583689,4,The BEST Cream Cheese Frosting,Wine and Glue
+31,_No-Fry_-Apple-Pies-1710597,3,"""No-Fry"" Apple Pies",Cooking Channel
+32,Red-White-and-Blue-Fudge-1712640,4,Red White and Blue Fudge,Wine and Glue
+33,Brownie-Batter-Hummus-1679710,4,Brownie Batter Hummus,My Whole Food Life
+34,Peanut-M_Ms-Cookies-1685901,4,Peanut M&M’s® Cookies,Living The Gourmet
+35,Cookies-_-Cream-Cereal-Treats-1707233,4,Cookies & Cream Cereal Treats,Bitz and Giggles
+36,The-Best-Vanilla-Buttercream-Frosting-Ive-Ever-Made-1709115,4,The Best Vanilla Buttercream Frosting I’ve Ever Made,Life in Lape Haven
+37,Frozen-Yogurt-Covered-Strawberries-_-Little-People-Food-1679795,4,Frozen Yogurt Covered Strawberries ~ Little People Food,Cooking Curries
+38,No-Bake-Key-Lime-Pie-1631497,4,No Bake Key Lime Pie,Caveman Diet Blog
+39,Chatelaine-1711067,3,Chatelaine,Chatelaine
+40,Chatelaine-1711065,3,Chatelaine,Chatelaine
+41,Quaker_s-Best-Oatmeal-Cookies-760968,4,Quaker's Best Oatmeal Cookies,
+42,Mangonada-Popsicles-1713329,4,Mangonada Popsicles,The Other Side Of Tortilla
+43,Coconut-Fudge-1712157,3,Coconut Fudge,The Mommypotamus
+44,Lemon-Almond-Shortbread-Cookies-_LC-_-GF_-1705977,4,Lemon Almond Shortbread Cookies (LC & GF),I Breathe... I'm Hungry...
+45,Strawberry-Lemon-Cheesecake-Bars-1708871,4,Strawberry Lemon Cheesecake Bars,Closet Cooking
+46,Lemon-Bars-1619530,4,Lemon Bars,Add a Pinch
+47,Cherry-Ice-Cream-1704320,4,Cherry Ice Cream,Growing Up Gabel
+48,Baby-Banana-Cookies-1709654,4,Baby Banana Cookies,Family Food on the Table
+49,Fresh-Figs-With-Goat-Cheese_-Pistachios-And-Honey-1712165,3,"Fresh Figs With Goat Cheese, Pistachios And Honey",The Mommypotamus
+50,Blueberry-Cobbler-1683957,4,Blueberry Cobbler,Ann's Entitled Life
+51,Easy-Homemade-Chocolate-Fudge-1701908,4,Easy Homemade Chocolate Fudge,That Recipe
+52,Chocolate-Chip-Almond-Flour-Skillet-Cookie-_Gluten-Free_-1711804,4,Chocolate Chip Almond Flour Skillet Cookie (Gluten-Free),A Couple Cooks
+53,Cream-Cheese-Peanut-Butter-Fudge-1696997,4,Cream Cheese Peanut Butter Fudge,Low Carb Yum
+54,Chocolate-Coconut-Crunch-1686879,4,Chocolate Coconut Crunch,Kitchen Sanctuary
+55,Lemon-Berry-Sorbet-1704375,4,Lemon Berry Sorbet,Be Truly Nourished
+56,Slow-Cooker-Strawberry-Rhubarb-Cobbler-1709893,4,Slow Cooker Strawberry Rhubarb Cobbler,365 Days of  Slow Cooking
+57,Banana-Split-Pie-1712322,4,Banana Split Pie,Enjoy cooking
+58,Brazilian-Peanut-Brittle-_Pe-de-Moleque_-1702397,4,Brazilian Peanut Brittle (Pé de Moleque),From Brazil to You
+59,How-To-Make-The-Perfect-Custard-1693955,3,How To Make The Perfect Custard,The Healthy Chef
+60,Lemon-Cream-Turnovers-1704751,4,Lemon Cream Turnovers,Julie's Eats & Treats
+61,Caramel-Cream-Cheese-Custard-1705638,3,Caramel Cream Cheese Custard,Fitness
+62,Mini-Mason-Jar-Lid-Strawberry-Pies-1706701,4,Mini Mason Jar Lid Strawberry Pies,Lovely Little Kitchen
+63,Chatelaine-1711070,3,Chatelaine,Chatelaine
+64,Chatelaine-1711068,3,Chatelaine,Chatelaine
+65,Classic-Chocolate-Chip-Cookies-1700512,4,Classic Chocolate Chip Cookies,Landeelu
+66,Carrot-Cake-with-Truvia-Baking-Blend-746827,4,Carrot Cake with Truvía® Baking Blend,
+67,Gooseberry-Snow-1712678,3,Gooseberry Snow,BBC
+68,Strawberry-Slice-1626403,4,Strawberry Slice,Wholefood Simply
+69,Coconut-_-Almond-No-Bake-Balls-1691199,3,Coconut & Almond No-Bake Balls,The Candida Diet
+70,Baked-Chocolate-Custards-1702886,4,Baked Chocolate Custards,Bite
+71,Key-Lime-Chia-Pudding-1599020,4,Key Lime Chia Pudding,Happy Health Blog
+72,5-Ingredient-Peanut-Butter-Cookies-1694742,4,5-Ingredient Peanut Butter Cookies,A Clean Bake
+73,Strawberry-Frozen-Yogurt-_No-Machine_-1700355,4,Strawberry Frozen Yogurt (No Machine),Gemma's Bigger Bolder Baking
+74,Coffee-Coconut-Ice-Cream-1688114,4,Coffee Coconut Ice Cream,Minimalist Baker
+75,Lee_s-Sponge-1704779,3,Lee's Sponge,Best Recipes Australia
+76,Homemade-Baking-Powder-1712084,3,Homemade Baking Powder,The Mommypotamus
+77,Strawberry-Crisp-1683691,4,Strawberry Crisp,The Brooklyn Cook
+78,Homemade-Chocolate-Brownie-Cake-with-Vanilla-Mascarpone-Butter-Cream-1697913,4,Homemade Chocolate Brownie Cake with Vanilla Mascarpone Butter Cream,Peas and Peonies
+79,Cinnamon-Sweet-Rice-with-Fresh-Fruit-1708180,4,Cinnamon Sweet Rice with Fresh Fruit,A Simple Pantry
+80,Healthy-York-Peppermint-Patties-1698773,4,Healthy York Peppermint Patties,Chocolate Covered Katie
+81,Almost-No-Bake-Drumstick-Cheesecake-1691154,4,Almost No Bake Drumstick Cheesecake,Melanie Makes
+82,Frozen-Oreo-Dessert-1575965,4,Frozen Oreo Dessert,Creations by Kara
+83,French-Silk-Pie-1692539,4,French Silk Pie,The Frugal Navy Wife
+84,Chocolate-Cake-In-A-Microwave-Oven-For-3-Minutes-1701725,4,Chocolate Cake In A Microwave Oven For 3 Minutes,Cooking With Love
+85,Simple-Prep_-Gluten-Free_-_-Honey-Sweetened_-1704713,4,"Simple Prep, Gluten Free, & Honey Sweetened!",Raising Generation Nourished
+86,Sweet-Potato-Pie-with-Truvia-Natural-Sweetener-746834,4,Sweet Potato Pie with Truvía® Natural Sweetener,
+87,Cinnamon-Ice-Cream-1688630,4,Cinnamon Ice Cream,Veggie Souls
+88,Strawberry-Cheesecake-Lush-Dessert-1697090,4,Strawberry Cheesecake Lush Dessert,The Domestic Rebel
+89,Perfect-Pie-Crust-1679715,4,Perfect Pie Crust,Tastes Better from Scratch
+90,American-Berry-No-Bake-Cheesecake-1711662,3,American Berry No-Bake Cheesecake,Kraft
+91,Twix-Cheesecake-Pie-1018726,4,Twix Cheesecake Pie,The Kitchen is My Playground
+92,Coconut-Granita-1682240,4,Coconut Granita,Dessert for Two
+93,No-Churn-Coffee-Chocolate-Chunk-Ice-Cream-1712688,4,No Churn Coffee Chocolate Chunk Ice Cream,Honey And Birch
+94,Creamy-Kahlua-Trifle-1706313,4,Creamy Kahlúa Trifle,Hungry Couple
+95,Strawberry-Cupcakes-with-Milk-Chocolate-Hazelnut-Frosting-1708165,4,Strawberry Cupcakes with Milk Chocolate Hazelnut Frosting,The Chef Next Door Michigan
+96,Paleo-Hazelnut-Muffins-_grain-free_-gluten-free_-dairy-free_-1710865,4,"Paleo Hazelnut Muffins (grain-free, gluten-free, dairy-free)",Texanerin
+97,Homemade-Hostess-Twinkies-1708696,4,Homemade Hostess Twinkies,Secret Copycat Restaurant
+98,_lemon-Macaroon_-1694753,4,#lemon Macaroon.,Good food. Best Recipes
+99,Apricot-Oatmeal-Linzer-Bars-760981,4,Apricot Oatmeal Linzer Bars,
+100,Microwave-Brownies-Single-Serve-1700111,4,Microwave Brownies Single Serve,The Pin Junkie
+101,Orange-_-Almond-Cake-by-Donna-Hay-1702545,3,Orange & Almond Cake by Donna Hay,Sweet Paul
+102,Ridiculous-Chocolate-Cake-1701177,4,Ridiculous Chocolate Cake,Cookies & Cups
+103,Loving-New-Orleans-1687950,4,Loving New Orleans,Picky Palate
+104,Perfect-Lemon-Bars-679517,4,Perfect Lemon Bars,Baking Bites
+105,Peanut-Butter-Fudge-1706295,3,Peanut Butter Fudge,BBC
+106,JELL-O-Pastel-Cookies-1712207,3,JELL-O Pastel Cookies,Kraft
+107,Super-Soft-Sugar-Cookies-1667785,4,Super Soft Sugar Cookies,Simply Whisked
+108,The-World_s-Easiest-Cookies-1611260,4,The World's Easiest Cookies,The Kitchn
+109,Pecan-Pie-1699641,3,Pecan Pie,New York Times Cooking
+110,Flourless-Chocolate-Cake-1690119,4,Flourless Chocolate Cake,JoyFoodSunshine
+111,Pan-Fried-Apples-1665609,4,Pan Fried Apples,Graceful Little Honey Bee
+112,Cherry-Almond-Oatmeal-Cookies-1707625,4,Cherry Almond Oatmeal Cookies,Handful of Raspberries
+113,Healthy-Chocolate-Peanut-Butter-Fudge-_vegan_-gluten-free_-grain-free-with-paleo-and-nut-free-options_-1695987,4,"Healthy Chocolate Peanut Butter Fudge (vegan, gluten-free, grain-free with paleo and nut-free options)",Texanerin
+114,Reeses-Peanut-Butter-Balls-1621474,4,Reese’s Peanut Butter Balls,Candy's Farm House Pantry
+115,Strawberry-Crisp-1632093,4,Strawberry Crisp,Num's the Word
+116,Homemade-Berry-Turnovers-1709449,4,Homemade Berry Turnovers,Craftberry Bush
+117,Whipped-Chocolate-Frosting-1699637,4,Whipped Chocolate Frosting,Melissa's Southern Style Kitchen
+118,Chocolate-Chip-Cookie-Ice-Cream-Sandwiches-1709474,4,Chocolate Chip Cookie Ice Cream Sandwiches,PaleOMG
+119,Chocolate-Chip-Shortbread-Cookies-with-M_Ms-1697675,4,Chocolate Chip Shortbread Cookies with M&Ms,"Food, Folks, and Fun"
+120,Strawberry-Compote-with-Ginger-and-Chia-Seeds-1713129,4,Strawberry Compote with Ginger and Chia Seeds,Natural Fitness Diet
+121,French-Silk-Pie-1708091,4,French Silk Pie,Add a Pinch
+122,Mango-Lassi-Popsicles-1700330,4,Mango Lassi Popsicles,Platings and Pairings
+123,Creamy-Coconut-Popsicles-1708585,3,Creamy Coconut Popsicles,Coconut Recipes
+124,Lemon-Cupcakes-with-Lemon-Buttercream-1696026,4,Lemon Cupcakes with Lemon Buttercream,I am baker
+125,Mason-Jar-Lid-Pies-1682513,4,Mason Jar Lid Pies,Living The Gourmet
+126,Berries-_n_-Cream-Icebox-Cake-1712571,4,Berries 'n' Cream Icebox Cake,Sally's Baking Addiction
+127,Easy-Cherry-Pie-Filling-1695805,4,Easy Cherry Pie Filling,Thinking Outside The Sandbox: Family
+128,Better-Than-Anything-Cake-1699652,3,Better-Than-Anything Cake,Everyday Diabetic Recipes
+129,Dairy-free-Chocolate-Pudding-with-Protein-1710537,4,Dairy-free Chocolate Pudding with Protein,Kale Cuties
+130,Dairy-Free-Chocolate-Ice-Cream-1700118,4,Dairy Free Chocolate Ice Cream,My Crazy Good Life
+131,No-Bake-Nutella-Truffles-1688778,3,No-Bake Nutella Truffles,Real Simple
+132,Smores-Skillet-Cookie-1710484,4,S’mores Skillet Cookie,"Chocolate, Chocolate and More"
+133,Patti-LaBelle_s-Wicked-Peach-Cobbler-1699858,3,Patti LaBelle's Wicked Peach Cobbler,BigOven
+134,White-Chocolate-Funfetti-Cake-Mix-Cookies-1707853,4,White Chocolate Funfetti Cake Mix Cookies,The Kitchen is My Playground
+135,Honey-Salted-Caramels-1680691,4,Honey Salted Caramels,I Wash You Dry
+136,Vegan-Carrot-Cake-_Bolo-de-Cenoura_-1711269,4,Vegan Carrot Cake (Bolo de Cenoura),Eat Yourself Green
+137,Fresh-Peach-Pecan-Crisp-1709446,4,Fresh Peach Pecan Crisp,"Ingredients, Inc"
+138,Frosted-Deer-Print-Bars-1712718,3,Frosted Deer Print Bars,Trader Joe's
+139,Vegan-Lemon-Meringue-Pie-1703917,4,Vegan Lemon Meringue Pie,Cooking By Laptop
+140,Slow-Cooker-S_more-Cake-1712049,3,Slow Cooker S'more Cake,Better Homes and Gardens
+141,Coconut-Milk-Flan-1576391,3,Coconut Milk Flan,Care2
+142,No-Bake-Chocolate-Peanut-Butter-Oatmeal-Cookies-1704603,4,No Bake Chocolate Peanut Butter Oatmeal Cookies,Thinking Outside The Sandbox: Family
+143,Lemon-Butter-_-Lemon-Curd-1706082,4,Lemon Butter / Lemon Curd,Slow Cooker Central
+144,Chocolate-Dump-It-Cake-1694152,4,Chocolate Dump-It Cake,Brown Eyed Baker
+145,Easy-Toffee-Cookies-1713002,4,Easy Toffee Cookies,The Bewitchin' Kitchen
+146,Pumpkin-Pie-Porridge-_GAPS_-Paleo-_-Primal_-1712139,3,"Pumpkin Pie Porridge {GAPS, Paleo & Primal}",The Mommypotamus
+147,Easy-No-Pectin-Plum-Jam-1711242,4,Easy No-Pectin Plum Jam,Savory Sweet Life
+148,Tropical-Mango-Yogurt-Cup-747136,4,Tropical Mango Yogurt Cup,
+149,Easy-Hersheys-Chocolate-Pie-1694883,4,Easy Hershey’s Chocolate Pie,Cincy Shopper
+150,Lemon-Lava-Cakes-1696485,3,Lemon Lava Cakes,Rachel Khoo
+151,Cinnamon-Tea-Cookies-1687943,3,Cinnamon Tea Cookies,Thrifty Jinxy
+152,Vanilla-Sponge-Cake-1578657,3,Vanilla Sponge Cake,Indiatimes
+153,Mini-Oreo-No-Bake-Cheesecakes-1712649,4,Mini Oreo No-Bake Cheesecakes,A Dash of Sanity
+154,Vanilla-Cupcakes-1700499,4,Vanilla Cupcakes,Crazy for Cookies and More
+155,Flourless-Cashew-Butter-Chocolate-Chip-Cookies-1710653,4,Flourless Cashew Butter Chocolate Chip Cookies,Whole and Heavenly Oven
+156,No-Bake-Copycat-Cosmic-Brownies-1707984,4,No Bake Copycat Cosmic Brownies,The Domestic Rebel
+157,Blueberry-Cake-1705293,4,Blueberry Cake,Simply Recipes
+158,Smores-Oreo-Icebox-Cake-1706485,4,S’mores Oreo Icebox Cake,Life's Ambrosia
+159,Quick-and-Easy-Blueberry-Crumble-made-with-Frozen-Berries-1702963,4,Quick and Easy Blueberry Crumble made with Frozen Berries,For the Love of Crust
+160,Red_-White-and-Blue-Chocolate-Dipped-Strawberries-1710479,4,"Red, White and Blue Chocolate Dipped Strawberries",Barbara Bakes
+161,Cherries-_n-Cream-Mojito-Pops-1705323,3,Cherries 'n Cream Mojito Pops,Go Dairy Free
+162,No-Bake-Cherry-Jello-Pie-1704605,4,No Bake Cherry Jello Pie,Thinking Outside The Sandbox: Family
+163,Dulce-de-Leche-Chocolate-Cups-1688463,4,Dulce de Leche Chocolate Cups,Garnish With Lemon
+164,The-Peach-Cobbler-1657419,4,The Peach Cobbler,US RECIPE
+165,Easy-Creamy-Lime-Pie-1704569,3,Easy Creamy Lime Pie,Kraft
+166,Butter-Cake-1682509,4,Butter Cake,Ruwi’s Kitchen
+167,3-Ingredient-Peanut-Butter-Cookies-1711569,4,3 Ingredient Peanut Butter Cookies,The Exhausted Mom
+168,Watermelon-Cupcakes-1697575,4,Watermelon Cupcakes,Mandy's Recipe Box
+169,Frozen-Key-Lime-Pie-1700897,4,Frozen Key Lime Pie,Real Mom Kitchen
+170,Red-Velvet-Chocolate-Chip-Cookies-1697604,4,Red Velvet Chocolate Chip Cookies,Swanky Recipes
+171,Dessert-Tacos-1615998,4,Dessert Tacos,"Giggles, Gobbles and Gulps"
+172,Strawberry-Lemon-Pie-1711746,4,Strawberry Lemon Pie,Let's Dish
+173,_Cake-with-Lemon-Curd-1710862,4,#Cake with Lemon Curd,Good food. Best Recipes
+174,No-Excuses-Pie-Dough-1686315,4,No Excuses Pie Dough,Comfortably Domestic
+175,Cherry-Pie-Filling-1710313,4,Cherry Pie Filling,Beyond The Chicken Coop
+176,Passion-Fruit-Ice-Cream-1713011,4,Passion Fruit Ice Cream,Olivia's Cuisine
+177,Minty-Grasshopper-Frozen-Yogurt-Pops-1712933,4,Minty Grasshopper Frozen Yogurt Pops,Grab a Plate
+178,Perfect-Chocolate-Chip-Cookies-1683282,4,Perfect Chocolate Chip Cookies,Buns in my Oven
+179,Ice-Cream-Maker-Luxury-Vanilla-Ice-Cream-1684541,4,Ice Cream Maker Luxury Vanilla Ice Cream,Recipe This
+180,Coconut-Strawberry-Chia-Pudding-1712010,3,Coconut Strawberry Chia Pudding,The Mommypotamus
+181,Aquafaba-Meringues-1703912,3,Aquafaba Meringues,New York Times Cooking
+182,Sea-Salt-Chocolate-Stuffed-Strawberries-1706130,4,Sea Salt Chocolate Stuffed Strawberries,Running to the Kitchen
+183,3-Ingredient-Brownies-1703671,4,3-Ingredient Brownies,Fit Foodie Finds
+184,Moelleux-Au-Chocolat-1696662,3,Moelleux Au Chocolat,Asian Food Channel
+185,Coconut-Yogurt-Chia-Seed-Pudding-Parfaits-1711056,4,Coconut Yogurt Chia Seed Pudding Parfaits,Blissful Basil
+186,Rice-Pudding-1555190,4,Rice Pudding,Clever Housewife
+187,English-Toffee-1624784,4,English Toffee,Favorite Family Recipes
+188,Chocolate-Crinkle-Cookies-1702568,4,Chocolate Crinkle Cookies,Twigg Studios
+189,Simple-No-Bake-Salted-Caramels-1702656,3,Simple No Bake Salted Caramels,My Real Food Family
+190,Mom_s-Extra-Tall-Sponge-Cake-1706304,4,Mom's Extra Tall Sponge Cake,Hungry Couple
+191,Burnt-Butter-Brown-Sugar-Cupcakes-1710046,4,Burnt Butter Brown Sugar Cupcakes,the hungry mum
+192,Gigantic-Double-Chocolate-Chip-Cookie-1711897,3,Gigantic Double Chocolate Chip Cookie,Tablespoon
+193,Clean-Eating-Cranberry-Pecan-Quinoa-1689577,4,Clean Eating Cranberry Pecan Quinoa,The Gracious Pantry
+194,Teenage-Mutant-Ninja-Turtle-Whoopie-Pies-1688302,3,Teenage Mutant Ninja Turtle Whoopie Pies,Simplistically Living
+195,Flourless-Vegan-Chocolate-Pistachio-Cookies-_Vegan_-Gluten-Free_-Dairy-Free_-Egg-Free_-Paleo-Friendly_-No-Refined-Sugar_-1710963,4,"Flourless Vegan Chocolate Pistachio Cookies (Vegan, Gluten-Free, Dairy-Free, Egg-Free, Paleo-Friendly, No Refined Sugar)",The Healthy Family and Home
+196,Gulab-Jamun-1690767,4,Gulab Jamun,Simple Sumptuous Cooking
+197,Healthy-Apple-and-Cinnamon-Cupcakes-1712578,4,Healthy Apple and Cinnamon Cupcakes,Basement Bakehouse
+198,Bananas-Foster-Sauce-1704524,4,Bananas Foster Sauce,Pastry Affair
+199,Oat-cakes-with-cherries_Recipe-for-weight-loss_-1708009,4,Oat cakes with cherries(Recipe for weight loss),Good food. Best Recipes
+200,Banana-Cheesecake-1686244,4,Banana Cheesecake,Good food. Best Recipes
+201,Homemade-Magic-Shell-1712076,3,Homemade Magic Shell,The Mommypotamus
+202,Campfire-Skillet-Apples-1685265,4,Campfire Skillet Apples,Chaos Bliss
+203,Oreo-Poke-Cake-1623940,4,Oreo Poke Cake,"Dinners, Dishes and Desserts"
+204,The-Ultimate-Sugar-cookie-1698746,4,The Ultimate Sugar cookie,Get In My Belly
+205,Salty-and-Sweet-Ice-Cream-Terrine-1710909,4,Salty and Sweet Ice Cream Terrine,Cookies & Cups
+206,A-Healthy-Chocolate-Alternative-1687236,4,A Healthy Chocolate Alternative,Mixing it up with Thermomix!!
+207,Chocolate-Ice-Cream-1621964,4,Chocolate Ice Cream,The Pudge Factor
+208,How-to-Make-Whipped-Cream-1686656,4,How to Make Whipped Cream,Homemade For Elle
+209,Strawberry-Nutella-Turnovers-1704225,4,Strawberry Nutella Turnovers,A Latte Food
+210,ICE-CREAM-TARTS-with-CHOCOLATE-SAUCE-_-PECANS-1710266,4,ICE CREAM TARTS with CHOCOLATE SAUCE & PECANS,This Rawsome Vegan Life
+211,Raspberry-Cheesecake-Bites-1686452,4,Raspberry Cheesecake Bites,12Tomatoes
+212,Butter-Pastry-Dough-1687165,4,Butter Pastry Dough,Eating Well
+213,Monster-Fudge-Bars-1699777,4,Monster Fudge Bars,Mom On Timeout
+214,The-Perfect-Chocolate-Chip-Cookie-1699801,4,The Perfect Chocolate Chip Cookie,The Cake Chica
+215,Walnut-_-Chocolate-Popsicles-1710982,4,Walnut & Chocolate Popsicles,Perspective Portions
+216,Chocolate-Coconut-Milk-Ice-Cream-1684939,3,Chocolate Coconut Milk Ice Cream,Dr. Jockers
+217,2-Bite-Cherry-Pies-1709499,4,2 Bite Cherry Pies,The Painted Apron
+218,Cake-Honey-log-1696911,4,Cake «Honey log»,Good food. Best Recipes
+219,Raspberry-And-Oat-Cookies-1662809,4,Raspberry And Oat Cookies,Everyday healthy recipes
+220,Chocolate-Marshmallow-Fluff-1709408,4,Chocolate Marshmallow Fluff,Chocolate Covered Katie
+221,Donuts-On-Condensed-Milk-1701496,4,Donuts On Condensed Milk,Cooking With Love
+222,Raspberry-Lemon-Semifreddo-_Dairy-Free_-1712081,3,Raspberry Lemon Semifreddo {Dairy-Free},The Mommypotamus
+223,Perfect-Apple-Pie-1678005,4,Perfect Apple Pie,The Jenny Evolution
+224,Patriotic-Easy-Fudge-1713334,4,Patriotic Easy Fudge,Peas and Peonies
+225,Syrian-Ice-Cream-_Emaa_-1706052,4,Syrian Ice Cream (Éma’a),An Edible Mosaic
+226,3-Ingredient-Oreo-Fudge-1706017,4,3 Ingredient Oreo Fudge,Bargain Mums
+227,Gluten-Free-Almond-Creme-Brulee-1704258,3,Gluten Free Almond Creme Brulee,Avocado a Day Nutrition
+228,10-Layer-Chocolate-Caramel-Mousse-Cake-1697890,4,10-Layer Chocolate Caramel Mousse Cake,Mind Over Batter
+229,Chocolate-Peppermint-Freezer-Fudge-1712027,3,Chocolate Peppermint Freezer Fudge,The Mommypotamus
+230,Cinnamon-Roll-Cheesecake-1694096,4,Cinnamon Roll Cheesecake,Tastes of Lizzy T
+231,Easy-Almond-Cream-with-Berries-1711575,4,Easy Almond Cream with Berries,Real Mom Kitchen
+232,Skinny-Strawberry-Cheesecake-Bars-1707174,4,Skinny Strawberry Cheesecake Bars,Jar Of Lemons
+233,Rhubarb-Crisp-1689521,4,Rhubarb Crisp,Garnish & Glaze
+234,Plain-Cheesecake-1712302,4,Plain Cheesecake,Caribbean Green Living
+235,Kentucky-Pecan-Pie-1690366,4,Kentucky Pecan Pie,Southern Bite
+236,You-Can-Make-Any-Cake-a-Rainbow-Cake-1684535,4,You Can Make Any Cake a Rainbow Cake,The Unlikely Baker
+237,Pound-Cake-1657213,4,Pound Cake,US RECIPE
+238,Green-Tea-_-White-Chocolate-Cookies-1705595,4,Green Tea & White Chocolate Cookies,Just One Cookbook
+239,Cookies-_n-Ice-Cream-Bon-Bons-1709720,3,Cookies 'n Ice Cream Bon Bons,Go Dairy Free
+240,Red-Walnut-Praline-Cake-1707645,4,Red Walnut Praline Cake,The Cake Chica
+241,Smores-Pie-1687676,4,S’mores Pie,Cooking Classy
+242,Vanilla-Buttercream-1709685,4,Vanilla Buttercream,Kiki Cuppycakes
+243,Grilled-Honey-Ginger-Grapefruit-1713092,3,Grilled Honey-Ginger Grapefruit,Mountain Cravings
+244,FRESH-APPLE-CAKE-1687359,4,FRESH APPLE CAKE,Treat and Trick
+245,Reese_s-Peanut-Butter-Cup-Explosion-Brownies-1698497,4,Reese's Peanut Butter Cup Explosion Brownies,The Baking Chocola Tess
+246,Strawberry-Banana-Cheesecake-Salad-1709633,4,Strawberry Banana Cheesecake Salad,The Slow Roasted Italian
+247,Whole-Wheat-Strawberry-Galette-_SundaySupper-1680975,4,Whole Wheat Strawberry Galette #SundaySupper,The Bitter Side of Sweet
+248,Baked-Marshmallow-Apples-1712696,4,Baked Marshmallow Apples,Cooking  And Cooking
+249,Strawberry-Pound-Cake-1697211,4,Strawberry Pound Cake,Love Foodies
+250,Scented-Geranium-Pound-Cake-1707539,4,Scented Geranium Pound Cake,Garden Matter
+251,Mixed-Berry-and-Yogurt-Popsicles-1708373,4,Mixed Berry and Yogurt Popsicles,Grits and Pinecones
+252,Lychee-Coconut-Sorbet-with-Rose-1710310,3,Lychee Coconut Sorbet with Rose,Plattershare
+253,Brownie-Crinkle-Cookies-1713026,4,Brownie Crinkle Cookies,The Penny Wise Mama
+254,Indiana-Sugar-Cream-Pie-1698426,4,Indiana Sugar Cream Pie,Try It - Like It
+255,Chocolate-Homemade-1689415,4,Chocolate Homemade,Good food. Best Recipes
+256,Strawberry-Swirl-Cream-Cheese-Pound-Cake-1706812,4,Strawberry Swirl Cream Cheese Pound Cake,Holidays
+257,Cookie-Dough-Balls-1700285,4,Cookie Dough Balls,The Little Green Spoon
+258,Home-1640858,4,Home,"Dinners, Dishes and Desserts"
+259,Homemade-Peanut-Butter-Cups-Clean-Food-1706880,4,Homemade Peanut Butter Cups – Clean Food,Clean Food Crush
+260,Lemon-Raspberry-Swirl-Muffins-1631277,4,Lemon Raspberry Swirl Muffins,Jessy and Melissa
+261,Chocolate-Cupcake-Recipe-With-Two-Toned-Icing-1697075,4,Chocolate Cupcake Recipe With Two Toned Icing,Thinking Outside The Sandbox: Family
+262,Egg-less-Chocolate-Cake-With-A-Ganache-Glaze-1701406,4,Egg-less Chocolate Cake With A Ganache Glaze,Kitchen Heals Soul
+263,Orange-Creamsicle-Truffles-1601842,4,Orange Creamsicle Truffles,Cooking Classy
+264,EDIBLE-CHOCOLATE-CUPS-WITH-LAYERS-OF-STRAWBERRY-CREAM-CHEESE-MOUSSE-AND-CREAM-CHEESE-ICE-CREAM-1710309,3,EDIBLE CHOCOLATE CUPS WITH LAYERS OF STRAWBERRY CREAM-CHEESE MOUSSE AND CREAM-CHEESE ICE-CREAM,Plattershare
+265,Caramel-Crunch-Slice-1697340,4,Caramel Crunch Slice,Create Bake Make
+266,Black-Bean-and-Banana-Brownies-1691401,3,Black Bean and Banana Brownies,The Flaming Vegan
+267,Two-Ingredient-Lemon-Bars-1251223,4,Two Ingredient Lemon Bars,Daily Dish Recipes
+268,Bonbon-Amidon-1712308,4,Bonbon Amidon,Caribbean Green Living
+269,No-Bake-Panna-Cotta-1639338,4,No Bake Panna Cotta,Caveman Diet Blog
+270,Carl_s-Favorite-Blueberry-Pie-1705017,4,Carl's Favorite Blueberry Pie,Family Around The Table
+271,Lemon-Bars-1689518,4,Lemon Bars,Crazy for Cookies and More
+272,Strawberry-Frozen-Yogurt-1170597,4,Strawberry Frozen Yogurt,Eat Well 101
+273,Root-Beer-Float-Pie-1617156,4,Root Beer Float Pie,Holidays
+274,Apple-Pie-Snickerdoodles-1700269,4,Apple Pie Snickerdoodles,Amy's Healthy Baking
+275,Chocolate-Buttercream-Frosting-1627804,4,Chocolate Buttercream Frosting,I Heart Nap Time
+276,Cheese-Charlotte-1698531,4,Cheese Charlotte,Good food. Best Recipes
+277,Spiced-Pumpkin-Whoopie-Pies-with-Browned-Butter-Maple-Cinnamon-Frosting-1697327,4,Spiced Pumpkin Whoopie Pies with Browned Butter Maple Cinnamon Frosting,The Chunky Chef
+278,No-Bake-Oreo-Cream-Pie-1707561,4,No Bake Oreo Cream Pie,Chef In Training
+279,Simply-Bananas-_-BanaNO-cream-1696340,4,Simply Bananas | BanaNO-cream,Nutrition Stripped
+280,White-Chocolate-Cherry-Cups-1704526,4,White Chocolate Cherry Cups,Kitchen Sanctuary
+281,Apple-Pie-Yogurt-Cup-747135,4,Apple Pie Yogurt Cup,
+282,Oreo-Cheesecake-Bites-1706914,4,Oreo Cheesecake Bites,Get In My Belly
+283,4-Ingredient-Flourless-Chocolate-Cookies-_Low-FODMAP_-1201435,4,4-Ingredient Flourless Chocolate Cookies (Low FODMAP),Further Food
+284,Beth_s-Raspberry-Almond-Thimble-Cakes-1711176,4,Beth's Raspberry Almond Thimble Cakes,Entertaining With Beth
+285,Apple-Crisp-1685457,4,Apple Crisp,The Red Apron Girl
+286,Edible-Sugar-Cookie-Dough-1576399,4,Edible Sugar Cookie Dough,The Semisweet Sisters
+287,Dulce-De-Leche-Ice-Cream-1688461,4,Dulce De Leche Ice Cream,The Ravenous Couple
+288,Octopus-Beach-Magic-Jello-Cups-1704716,4,Octopus Beach Magic Jello Cups,A Few Short Cuts
+289,Mocha-Brownie-Amaretto-Ice-Cream-1686018,4,Mocha Brownie Amaretto Ice Cream,The Starving Musician
+290,RICH-ROYAL-ORGANIC-COCONUT-SUGAR-SHAHI-THUKRA-1710218,3,RICH ROYAL ORGANIC COCONUT SUGAR SHAHI THUKRA,Plattershare
+291,Simple-Raspberry-Bars-1692979,4,Simple Raspberry Bars,Teaspoon of Goodness
+292,Watermelon-Rice-Krispie-Treats-1700340,4,Watermelon Rice Krispie Treats,Cooking Classy
+293,Classic-Vanilla-Frozen-Yogurt-1705569,4,Classic Vanilla Frozen Yogurt,Kleinworth Co.
+294,Gluten-Free-No-Bake-Strawberry-Shortcake-Icebox-Cake-1702950,4,Gluten-Free No-Bake Strawberry Shortcake Icebox Cake,Iowa Girl Eats
+295,Red-Velvet-Cake-1706951,4,Red Velvet Cake,AlloverUnique
+296,Caramel-Apple-Tarts-1697648,4,Caramel Apple Tarts,The Bitter Side of Sweet
+297,Oreo-Cookies-and-Cream-Cups-1712693,4,Oreo Cookies and Cream Cups,Family Around The Table
+298,Homemade-Chocolate-Avocado-Ice-Cream-1705524,4,Homemade Chocolate Avocado Ice Cream,Yummy Healthy Easy
+299,Dates-With-Cream-and-Chopped-Pistachios-1704049,3,Dates With Cream and Chopped Pistachios,New York Times Cooking
+300,Strawberry-Shortcake-Cupcakes-1698433,4,Strawberry Shortcake Cupcakes,Entertaining With Beth
+301,Homemade-Galaxy-Ice-Cream_-1642408,4,Homemade Galaxy Ice Cream!,Some Of This And That
+302,The-Most-Incredible-Orange-Chocolate-Truffles-1691255,4,The Most Incredible Orange Chocolate Truffles,Iaccidentlyatethewholething
+303,Whole-Wheat-Oatmeal-Chocolate-Chip-Cookie-Bars-1704645,4,Whole Wheat Oatmeal Chocolate Chip Cookie Bars,Girl versus Dough
+304,Oreo-Pudding-Pops-1711578,4,Oreo Pudding Pops,The Exhausted Mom
+305,Flapjacks-1698382,4,Flapjacks,The Goddess's Kitchen
+306,_Homemade-ice-cream-1689858,4,#Homemade ice cream,Good food. Best Recipes
+307,Red-Velvet-Gooey-Butter-Cake-1682495,4,Red Velvet Gooey Butter Cake,Southern Bite
+308,Cookie-Monster-Ice-Cream-1710300,4,Cookie Monster Ice Cream,Ally's Sweet and Savory Eats
+309,Strawberry-Lemon-Rice-Crispies-1713097,4,Strawberry Lemon Rice Crispies,Spabettie
+310,Easy-Strawberry-Cake-1697156,4,Easy Strawberry Cake,Laughing Spatula
+311,No-Churn-Butter-Pecan-Ice-Cream-1710651,4,No Churn Butter Pecan Ice Cream,Zag Left
+312,LAY_s-Classic-Potato-Chip-_-ROLD-Gold-Pretzel-Fudge-1709677,4,LAY's Classic Potato Chip & ROLD Gold Pretzel Fudge,What's Gaby Cooking
+313,Low-Carb-Sugar-Free-Chocolate-Hazelnut-Truffles-1681529,4,Low Carb Sugar Free Chocolate Hazelnut Truffles,Ari Eats
+314,Coconut-Panna-Cotta-1688561,4,Coconut Panna Cotta,Veggie Souls
+315,Kale-Banana-Pineapple-Ice-Pops-1711309,3,Kale Banana Pineapple Ice Pops,Nutriliving
+316,Individual-Brownie-Trifles-1707293,4,Individual Brownie Trifles,healthy weight watchers recipes
+317,THE-ULTIMATE-CHEWY-CHOCOLATE-CHIP-COOKIES-1703429,4,THE ULTIMATE CHEWY CHOCOLATE CHIP COOKIES,Vegan Chow Down
+318,Rhubarb-Crumb-Bars-1703415,3,Rhubarb Crumb Bars,The View from Great Island
+319,Cake-Anthill-to-the-table-in-the-new-2016_-1712194,4,Cake «Anthill» to the table in the new 2016!,Good food. Best Recipes
+320,Chocolate-No-Bake-Cookies---Healthy-_-Satisfying_-1712727,4,Chocolate No Bake Cookies - Healthy & Satisfying!,Clean-Eating Recipes
+321,Chocolate-Peanut-Butter-Cracker-Bark-1697530,4,Chocolate Peanut Butter Cracker Bark,Cake Whiz
+322,Frosty-Marbled-Yogurt-Dessert-1709780,3,Frosty Marbled Yogurt Dessert,Betty Crocker
+323,Banana-Pudding-Dip-1709481,4,Banana Pudding Dip,Let's Dish
+324,Lemon-Cheesecake-with-Blueberry-Compote-1682302,4,Lemon Cheesecake with Blueberry Compote,Just So Tasty
+325,Make-this-real-food-ice-cream-for-Valentines-Day-1707114,4,Make this real food ice cream for Valentine’s Day,TheFitInk
+326,4th-of-July-Icebox-Cake-1706475,4,4th of July Icebox Cake,Chef in the Burbs
+327,Cheesecake-Stuffed-Strawberries-w_-Chocolate-Pretzel-Topping-_FLIPZ-1705343,4,Cheesecake Stuffed Strawberries w/ Chocolate Pretzel Topping #FLIPZ,The Bewitchin' Kitchen
+328,Christine-Chitnis-Roasted-Peach-Pops-1708854,4,Christine Chitnis’ Roasted Peach Pops,Design Sponge
+329,Lemon-Meringue-Pie-1699848,4,Lemon Meringue Pie,The Cake Chica
+330,Lemon-Lime-Flower-Popsicles-1704424,4,Lemon Lime Flower Popsicles,The Butter Half
+331,Key-Lime-Pie-Popsicles-_GAPS_-Paleo-and-Primal_-1712120,3,"Key Lime Pie Popsicles (GAPS, Paleo and Primal)",The Mommypotamus
+332,Peanut-Butter-_-Marshmallow-Creme-Ice-Cream-1697881,4,Peanut Butter & Marshmallow Creme Ice Cream,Crazy for Cookies and More
+333,Mango-Ice-Cream-1708753,4,Mango Ice Cream,Kawaling Pinoy
+334,Grain-Free-Fresh-Berry-Fruit-Tart-1712766,4,Grain Free Fresh Berry Fruit Tart,Life Made Full
+335,BUTTERMILK-BANANA-CAKE-1696799,4,BUTTERMILK BANANA CAKE,Butter With A Side Of Bread
+336,Sweet-Potato-Brownies-1696851,4,Sweet Potato Brownies,Healthy Holistic Living
+337,Maple-Sugar-Candy-Recipe-_SundaySupper-1707153,4,Maple Sugar Candy Recipe #SundaySupper,Grumpy's Honeybunch
+338,Cinnamon-Roll-Pie-Crust-1710393,4,Cinnamon-Roll Pie Crust,PureWow
+339,Clementine-_-Almond-Syrup-Cake-1712670,3,Clementine & Almond Syrup Cake,Ottolenghi
+340,Muffin-Pan-Mini-Apple-Pies_-1695784,4,Muffin Pan Mini Apple Pies.,Knead to Cook
+341,Sweet-Tea-Ice-Cream-1710322,4,Sweet Tea Ice Cream,Cookie Dough and Oven Mitt
+342,Apple-Dumplings-1698092,4,Apple Dumplings,Southern Bite
+343,Cocoa-Balls-1689777,4,Cocoa Balls,Oink Cooking
+344,Summer-Time-Candy-Bark-1711833,4,Summer Time Candy Bark,Lorraine's Resources and Rewards
+345,Mini-Bittersweet-Chocolate-Cheesecakes-1706652,4,Mini Bittersweet Chocolate Cheesecakes,Cooks&Books&Recipes
+346,The-Best-Chocolate-Chip-Cookie-Ever-1612268,4,The Best Chocolate Chip Cookie Ever,Kitchen Table Journal
+347,Maple-Sugar-Candy-Recipe-_SundaySupper-1707030,4,Maple Sugar Candy Recipe #SundaySupper,Grumpy's Honeybunch
+348,No-Bake-Crunchy-Chocolate-Peanut-Butter-Bars-1712280,4,No Bake Crunchy Chocolate Peanut Butter Bars,The First Year
+349,Cherry-White-Chocolate-Crescent-Cups-768352,4,Cherry-White Chocolate Crescent Cups,
+350,Victoria-Sponge-Cake-1709386,4,Victoria Sponge Cake,MyYellowApron
+351,Southern-Pecan-Pralines-1704678,4,Southern Pecan Pralines,Syrup and Biscuits
+352,Rhubarb-Curd-1701389,4,Rhubarb Curd,Havoc in the Kitchen
+353,Flourless-Vegan-No-Bake-Brownies-1711169,4,Flourless Vegan No-Bake Brownies,The Blonde Chef
+354,Rhubarb-Cake-1702693,4,Rhubarb Cake,Karis' Kitchen
+355,Creamy-Coconut-Mango-Pops-_With-a-Boozy-Version_-_Vegan_-1711875,3,Creamy Coconut Mango Pops (With a Boozy Version) [Vegan],One Green Planet
+356,Creamy-Layered-Fruit-Sensation-1706443,3,Creamy Layered Fruit Sensation,Kraft
+357,Banana-Cupcakes-with-Cream-Cheese-Frosting-1701935,3,Banana Cupcakes with Cream Cheese Frosting,Andie Mitchell
+358,Two-Ingredient-Banana-Peanut-Butter-Ice-Cream-1690165,4,Two-Ingredient Banana Peanut Butter Ice Cream,Two Peas & Their Pod
+359,Pineapple-Banana-Popsicles-1703667,4,Pineapple Banana Popsicles,Peanut Butter and Peppers
+360,Monster-Cookie-Magic-Bars-1712638,4,Monster Cookie Magic Bars,Together As Family
+361,Tangerine-Cream-Pie-1701715,4,Tangerine Cream Pie,Cookie Dough and Oven Mitt
+362,Cherry-Dump-Cake-1709013,4,Cherry Dump Cake,Cottage Making Mommy Blog
+363,Easy-Chocolate-Mousse-1618712,4,Easy Chocolate Mousse,Mom Always Finds Out
+364,Pineapple-Sorbet-1683152,4,Pineapple Sorbet,The Complete Savorist
+365,Blueberry-Pie-Tassies-1695735,4,Blueberry Pie Tassies,Carrie's Experimental Kitchen
+366,Vanilla-Swiss-Meringue-Buttercream-1705502,4,Vanilla Swiss Meringue Buttercream,Flours and Frostings
+367,Classic-Baked-Cheesecake-1691458,3,Classic Baked Cheesecake,Donna Hay
+368,Dangerously-Delicious-Brownie-Truffles-1682529,4,Dangerously Delicious Brownie Truffles,I Heart Nap Time
+369,Lime-Raspberry-Cheesecake-Crescent-Ring-1704701,4,Lime Raspberry Cheesecake Crescent Ring,My Suburban Kitchen
+370,Lemon-Meringue-Pie-Cannoli-1711814,3,Lemon Meringue Pie Cannoli,Tablespoon
+371,Easy-Ice-Cream-Cake-1702206,4,Easy Ice Cream Cake,Seasonal Cravings
+372,Easy-Fudgy-Brownie-Recipe-_Gluten-Free_-Paleo_-1712058,3,"Easy Fudgy Brownie Recipe (Gluten-Free, Paleo)",The Mommypotamus
+373,S_mores-Campfire-Cones-1681758,4,S'mores Campfire Cones,Frugal Coupon Living
+374,Strawberry-Popsicles-1711712,4,Strawberry Popsicles,"Dinners, Dishes and Desserts"
+375,Homemade-Churro-Bites-1610964,4,Homemade Churro Bites,The Idea Room
+376,Best-Homemade-Fresh-Strawberry-Ice-Cream-Ever_-1690310,4,Best Homemade Fresh Strawberry Ice Cream Ever!,The GoodHearted Woman
+377,Nutella-Ice-Cream-1699337,4,Nutella Ice Cream,The Galley Gourmet
+378,Honey-Sweetened-Ice-Cream-with-Pomegranate-and-Chocolate-1703384,4,Honey Sweetened Ice Cream with Pomegranate and Chocolate,Happy Mothering
+379,Creamy-Peanut-Butter-Fudge-1700440,4,Creamy Peanut Butter Fudge,Berly's Kitchen
+380,Grandma_s-Pound-Cake-1617754,3,Grandma's Pound Cake,Kraft
+381,Banana-Cream-Poke-Cake-1699061,4,Banana Cream Poke Cake,Crafty Recipes
+382,Classic-Pound-Cake-1701165,3,Classic Pound Cake,Real Simple
+383,Nutella-Brownies-1706906,4,Nutella Brownies,Tasteaholics
+384,No-Churn-Honey-Nut-Ice-Cream-1708242,4,No Churn Honey Nut Ice Cream,Honey And Birch
+385,Easy-Lemon-_-Elderflower-Curd-1712768,4,Easy Lemon & Elderflower Curd,Fab Food 4 All
+386,Pets-Toffifi-1708104,4,Pets «Toffifi»,Good food. Best Recipes
+387,Toasted-Marshmallow-Campfire-Cones-1700710,4,Toasted Marshmallow Campfire Cones,Bitz and Giggles
+388,Roasted-Rhubarb-Vanilla-Cream-Pie-_Vegan_-Gluten-Free_-1709924,3,"Roasted Rhubarb Vanilla Cream Pie [Vegan, Gluten-Free]",One Green Planet
+389,Easy-Lemon-_-Elderflower-Curd-1712750,4,Easy Lemon & Elderflower Curd,Fab Food 4 All
+390,FASTING-CHOCOLATE-Manica-1708801,4,FASTING CHOCOLATE Manica,Good food. Best Recipes
+391,Gluten-Free-Crispy-Chewy-Chocolate-Chip-Cookies-1713330,4,Gluten-Free Crispy Chewy Chocolate Chip Cookies,Milo and Oats
+392,Triple-Berry-Crumb-Bars-1709582,4,Triple Berry Crumb Bars,Fit Foodie Finds
+393,Walnut-Tart-1699659,3,Walnut Tart,New York Times Cooking
+394,Baked-Chocolate-Donuts-1704714,4,Baked Chocolate Donuts,Snack Girl
+395,Firecracker-Cupcakes-1705080,3,Firecracker Cupcakes,Oh Nuts
+396,Cowboy-Cookies-1706453,3,Cowboy Cookies,New York Times Cooking
+397,Genevieve-Lill-1710135,4,Genevieve Lill,Simple Most
+398,Mini-Apple-Berry-Crumble-Pies-1697349,4,Mini Apple Berry Crumble Pies,Bakerita
+399,Skinny-Frozen-Smores-1679226,4,Skinny Frozen S’mores,Enjoy cooking
+400,Blueberry-Lemon-Curd-Cream-Cake-1711933,3,Blueberry Lemon Curd Cream Cake,Oh Sweet day
+401,No-Bake-Strawberry-Cheesecake-1591603,3,No-Bake Strawberry Cheesecake,All Food Recipes
+402,Easiest-Vanilla-Ice-Cream-1639520,3,Easiest Vanilla Ice Cream,New York Times Cooking
+403,Black-Bottom-Cupcakes-1713268,4,Black Bottom Cupcakes,"Priceless Product Reviews, Giveaways and Freebies"
+404,Krispy-easter-eggs-351890,5,Krispy Easter Eggs,The Pioneer Woman
+405,Moms-cookies-or-biscuits-for-10-minutes-1707824,4,«Mom’s cookies or biscuits for 10 minutes»,Good food. Best Recipes
+406,Single-Serve-Molten-Chocolate-Mug-Cake-1712432,4,Single-Serve Molten Chocolate Mug Cake,24 Carrot Life
+407,Protein-Packed-Chocolate-Avocado-Pudding-1697517,4,Protein Packed Chocolate Avocado Pudding,Pancake Warriors
+408,Snickerdoodle-Cupcakes-1712043,4,Snickerdoodle Cupcakes,Domestic Batch
+409,How-To-Make-Lemon-Curd-1701556,4,How To Make Lemon Curd,Cake Whiz
+410,Strawberries-and-Cream-Danish-1639221,4,Strawberries and Cream Danish,A Kitchen Addiction
+411,Banana-Ice-Cream-1695146,4,Banana Ice Cream,Your Homebased Mom
+412,Chocolate-Frozen-Yogurt-1695818,4,Chocolate Frozen Yogurt,Kleinworth Co.
+413,Lemon-Blueberry-Energy-Bites-1697354,4,Lemon Blueberry Energy Bites,Pancake Warriors
+414,Chocolate-Fudge-with-Pecans-1704279,4,Chocolate Fudge with Pecans,Syrup and Biscuits
+415,All-American-Fruit-Crumble-Pie-760972,4,All-American Fruit Crumble Pie,
+416,Classic-Chocolate-Caramel-Slice-1678720,3,Classic Chocolate Caramel Slice,Donna Hay
+417,Blueberry-Mascarpone-Macarons-1699905,4,Blueberry Mascarpone Macarons,Baking A Moment
+418,Gateau-Grand-Maman-1-2-3-4-1694185,4,Gateau Grand-Maman 1-2-3-4,Bites of Sweetness
+419,Nutella-Ice-Cream-_No-Ice-Cream-Maker-or-Machine-Needed_-1181025,4,Nutella Ice Cream (No Ice Cream Maker or Machine Needed),The Sassy Life
+420,Somewhere-Over-the-Rainbow-Candy-Cupcakes-1704552,4,Somewhere Over the Rainbow Candy Cupcakes,Thinking Outside The Sandbox: Family
+421,Inside-Out-Peanut-Butter-Cups-1707148,4,Inside Out Peanut Butter Cups,Clean Eating with a Dirty Mind
+422,Orange-Marmalade-Cake-1705150,3,Orange Marmalade Cake,New York Times Cooking
+423,Triple-Berry-Pie-1711132,4,Triple Berry Pie,Momma Lew
+424,Oatmeal-Cookie-Apple-Crisp-1702892,4,Oatmeal Cookie Apple Crisp,Bakerita
+425,Monster-Ice-Cream-Sandwich-1709618,4,Monster Ice Cream Sandwich,Lady Behind the Curtain
+426,Browned-Butter-Chocolate-Chip-Blondies-1562977,4,Browned Butter Chocolate Chip Blondies,Averie Cooks
+427,Cinnamon-Sugar-Apple-Cake-1699066,4,Cinnamon Sugar Apple Cake,The Pajama Chef
+428,Patriotic-Red-White-_-Blue-Cake-Mix-Cookies-1712455,4,Patriotic Red White & Blue Cake Mix Cookies,This Mama Loves
+429,Oreo-Truffles-_Snowballs_-1701334,4,Oreo Truffles (Snowballs),Gimme Some Oven
+430,Baked-Lemon-Cheesecake-1709169,4,Baked Lemon Cheesecake,The Food Nest
+431,Homemade-Chocolate-Peanut-Ice-Cream-Cones-1710299,4,Homemade Chocolate Peanut Ice Cream Cones,Spiced
+432,Seven-Layer-Brownie-Cheesecake-Parfait-1687195,4,Seven Layer Brownie Cheesecake Parfait,An Italian in my Kitchen
+433,Finding-Dory-Inspired-Ice-Cream-1712795,4,Finding Dory Inspired Ice Cream,The Tiptoe Fairy
+434,Wandas-Apple-Crisp-1710178,4,Wanda’s Apple Crisp,Amish Leben
+435,Neapolitan-Swiss-Roll-Ice-Cream-Cake-1701709,4,Neapolitan Swiss Roll Ice Cream Cake,Lemons for Lulu
+436,Stewed-Strawberry-Rhubarb-Compote-With-Chia-Coconut-Pudding-1710800,4,Stewed Strawberry Rhubarb Compote With Chia Coconut Pudding,At the Immigrant's Table
+437,Strawberry-Slab-Pie-1711021,4,Strawberry Slab Pie,The Kitchn
+438,3-Ingredient-Vegan-Vanilla-Ice-Cream-1697958,4,3 Ingredient Vegan Vanilla Ice Cream,ifoodreal
+439,Pistachio-Pineapple-Poke-Cake-1706989,4,Pistachio Pineapple Poke Cake,My Three Monsters
+440,Old-Fashioned-Strawberry-Vanilla-Chia-Custard-1711572,4,Old Fashioned Strawberry Vanilla Chia Custard,Full Fat Diet
+441,Chocolate-Truffle-1704914,4,Chocolate Truffle,Cooking With Love
+442,Easy-Bavarian-Cream-1681265,4,Easy Bavarian Cream,Chef In Training
+443,M_M-Cookie-1702017,4,M&M Cookie,Clarks Condensed
+444,Peanut-Butter-Lover_s-Ice-Cream-1687970,4,Peanut Butter Lover's Ice Cream,Brown Eyed Baker
+445,Chocolate-Candy-Bar-Dessert-1708311,3,Chocolate Candy Bar Dessert,Kraft
+446,Choux-Yeast-Straight-Dough-For-Pies-1704056,4,Choux Yeast Straight Dough For Pies,Cooking With Love
+447,HOMEMADE-FIG-NEWTONS-1707898,4,HOMEMADE FIG NEWTONS,Rachel Schultz
+448,Rolo-Cookies-1698132,4,Rolo Cookies,This Week for Dinner
+449,How-to-make-Almond-Milk-at-Home-1700424,4,How to make Almond Milk at Home,Foodcow
+450,Grain-free-Peanut-Butter-Chocolate-Chip-Cookie-Dough-Bites-_gluten-free-with-vegan-and-dairy-free-options_-1697870,4,Grain-free Peanut Butter Chocolate Chip Cookie Dough Bites (gluten-free with vegan and dairy-free options),Texanerin
+451,Cream-Cheese-Pound-Cake-1508988,4,Cream Cheese Pound Cake,FoodGaZm... fattaincassa
+452,Triple-Berry-Crisp-1707978,4,Triple Berry Crisp,Skinnytaste
+453,90-Microwave-Brownie-in-a-Mug-1677653,4,90 Microwave Brownie in a Mug,Happy Deal Happy Day
+454,No-Machine-Caramel-Swirl-Ice-Cream-1709798,4,No Machine Caramel Swirl Ice Cream,Wine and Glue
+455,Raspberry-Peach-Yogurt-Cup-747137,4,Raspberry-Peach Yogurt Cup,
+456,Strawberry-Watermelon-Sorbet-1700513,4,Strawberry Watermelon Sorbet,Kelsey In The Kitchen
+457,The-Ultimate-Cookie-Dough-Ice-Cream-1710195,4,The Ultimate Cookie Dough Ice Cream,Recipe This
+458,Frozen-Lemon-Cheesecake-Squares-1712639,4,Frozen Lemon Cheesecake Squares,Recipe Girl
+459,OREO-Pudding-Cake-1689483,4,OREO Pudding Cake,Eat Move Make
+460,Oatmeal-Cake-With-A-Broiled-Coconut-Pecan-Topping-1694657,4,Oatmeal Cake With A Broiled Coconut-Pecan Topping,Melissa's Southern Style Kitchen
+461,Homemade-Churros-1621154,4,Homemade Churros,Dessert Inspired
+462,White-Chocolate-and-Raspberry-Cheesecake-1705960,3,White Chocolate and Raspberry Cheesecake,Kraft Philadelphia UK
+463,Grain-Free-Almond-Butter-Cookies-1712095,3,Grain-Free Almond Butter Cookies,The Mommypotamus
+464,No-Churn-Blueberries-and-Cream-Ice-Cream-1683933,4,No-Churn Blueberries and Cream Ice Cream,Best Recipe Magazine
+465,Triple-Layer-Cracker-Toffee-Bars-1704724,3,Triple-Layer Cracker Toffee Bars,Pillsbury.com
+466,Oreo-Rice-krispie-Treats-1707290,4,Oreo Rice krispie Treats,Ray Ray's Fav Recipes
+467,Meyer-Lemon-Gelato-1707683,4,Meyer Lemon Gelato,That Winsome Girl
+468,Sea-Salt-Butterscotch-Pretzel-Cookies-1713188,4,Sea Salt Butterscotch Pretzel Cookies,Cookies & Cups
+469,Red-Velvet-Cupcakes-1697226,4,Red Velvet Cupcakes,Madame Deals
+470,Lemon-Impossible-Pie-1695479,4,Lemon Impossible Pie,Love Foodies
+471,White-Chocolate-Lemon-Sugar-Cookies-1700508,4,White Chocolate Lemon Sugar Cookies,Belle of the Kitchen
+472,Easy-Coconut-Macaroon-Birds-Nest-Cookies-1697905,4,Easy Coconut Macaroon Birds Nest Cookies,Honey and Lime
+473,Chocolate-Malt-Homemade-Cupcakes-1697936,4,Chocolate Malt Homemade Cupcakes,Sassy Girlz
+474,Pumpkin-Cream-Cheese-1708668,4,Pumpkin Cream Cheese,Nutritious Eats
+475,Chocolate-Cheesecake-Cupcakes-1683944,3,Chocolate Cheesecake Cupcakes,VeryBestBaking
+476,The-Best-Vanilla-Cupcake-1711086,4,The Best Vanilla Cupcake,Lady Behind the Curtain
+477,Hawaiian-Dream-Cake-_Printable-recipe_-1704832,4,Hawaiian Dream Cake (Printable recipe),The Kitchen is My Playground
+478,Cheesecake-Quesadillas-1705882,4,Cheesecake Quesadillas,365(ish) Days of Pinterest
+479,Christmas-Baking---Shortbread-1697577,4,Christmas Baking - Shortbread,Create Bake Make
+480,Blueberry-Cobbler-1572063,4,Blueberry Cobbler,Serena Bakes Simply from Scratch
+481,Chocolate-and-Banana-Frozen-Yogurt-_No-Machine_-1700354,4,Chocolate and Banana Frozen Yogurt (No Machine),Gemma's Bigger Bolder Baking
+482,Maple-Pecan-White-Bean-Blondies-_Vegan_-1700278,4,Maple Pecan White Bean Blondies (Vegan),Detoxinista
+483,Hong-Kong-Style-Egg-Tart-_Recipe-1706637,4,Hong Kong-Style Egg Tart #Recipe,My Favorite Recipes
+484,No-Churn-Reeses-Ice-Cream-1713327,4,No Churn Reeses Ice Cream,A Few Short Cuts
+485,No-Churn-Blackberry-Ice-Cream-1702638,4,No-Churn Blackberry Ice Cream,Big Taste Tiny Space
+486,Cherry-CHEESECAKE-1705604,4,Cherry CHEESECAKE,Good food. Best Recipes
+487,Freckle-Biscuits-1689507,4,Freckle Biscuits,Create Bake Make
+488,Strawberry-Shortcake-Day---Celebrate-with-this-Old-Fashioned-Recipe-and-Macy_s-1698865,4,Strawberry Shortcake Day - Celebrate with this Old Fashioned Recipe and Macy's,The Rebel Chick
+489,Chocolate-Pudding-1687613,4,Chocolate Pudding,Good food. Best Recipes
+490,Chocolate-Chip-Kahlua-Dip-1706162,4,Chocolate Chip Kahlúa Dip,The Random Arrow
+491,Lemon-Ginger-Cheesecake-Mousse-Cups-1706607,4,Lemon Ginger Cheesecake Mousse Cups,Barefeet In The Kitchen
+492,Gajar-Ka-Halwa-Recipe-_Carrot-Halwa_-1709854,4,Gajar Ka Halwa Recipe (Carrot Halwa),Vege Cravings
+493,Paleo-Apple-Crisp-1598839,4,Paleo Apple Crisp,Jessy and Melissa
+494,Grilled-Stone-Fruit-with-Honey-Lemon-Yogurt-Sauce-1705188,4,Grilled Stone Fruit with Honey Lemon Yogurt Sauce,Nutritioulicious
+495,Swimmin_-in-Lemon-Cake-1634767,4,Swimmin' in Lemon Cake,Aimee Broussard
+496,Creamy-Peach-Sorbet-1706948,4,Creamy Peach Sorbet,Bare Root
+497,Blueberry-Cheesecake---No-Bake-1703493,4,Blueberry Cheesecake - No Bake,Mama Bear's Haven
+498,Peach-Dumplings-1707041,4,Peach Dumplings,The Pioneer Woman
+499,No-Added-Sugar-Chunky-Monkey-Chia-Pudding-1710073,4,No Added Sugar Chunky Monkey Chia Pudding,Be Truly Nourished
